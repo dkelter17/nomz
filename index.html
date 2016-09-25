@@ -1,5 +1,21 @@
 ---
-layout: page
+layout: default
 ---
 
-hello
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for recipe in site.recipes %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
