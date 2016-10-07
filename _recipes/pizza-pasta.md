@@ -2,4 +2,11 @@
 title: Pizza Pasta
 ---
 
-Hi lsfjlksdajfjsfhgksfhgkjsfhgkhgsahg
+## Ingredients
+
+- 1/2 cup 
+
+## Directions 
+
+1. do things
+2. do other things
