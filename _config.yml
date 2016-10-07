@@ -1,3 +1,4 @@
 theme: minima
 collections:
-- recipes
+  recipes:
+    output: true
