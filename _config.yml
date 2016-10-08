@@ -1,4 +1,14 @@
 theme: minima
+
+title: Nomz
+author: dkelter17
+description: > # this means to ignore newlines until "baseurl:"
+  Recipes we love, compiled in one place, for your enjoyment.
+github_username:  dkelter17
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
 collections:
   recipes:
     output: true
