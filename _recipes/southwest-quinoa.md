@@ -27,4 +27,4 @@ title: Southwest Quinoa
 3. Cook on high for 2 - 3 hours or low for 5 - 6 hour. Stir occasionally if possible. 
 4. Before serving sprinkle with cheese. Serve with sliced avocado. 
 
-Source: http://www.lecremedelacrumb.com/2014/12/slow-cooker-enchilada-quinoa.html
+Source: [http://www.lecremedelacrumb.com/2014/12/slow-cooker-enchilada-quinoa.html] (http://www.lecremedelacrumb.com/2014/12/slow-cooker-enchilada-quinoa.html)
