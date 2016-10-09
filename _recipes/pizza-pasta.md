@@ -5,14 +5,14 @@ title: Pizza Pasta
 
 ## Ingredients
 - 1 T olive oil
--16 oz. spicy Italian sausage
--1 15 oz. can tomato sauce
--1 t dried oregano
--1 t dried basil
--1/2 t garlic powder
--1 box rotini pasta
--1 cup shredded mozzarella
--try adding other veggies!
+- 16 oz. spicy Italian sausage
+- 1 15 oz. can tomato sauce
+- 1 t dried oregano
+- 1 t dried basil
+- 1/2 t garlic powder
+- 1 box rotini pasta
+- 1 cup shredded mozzarella
+- try adding other veggies!
 
 ## Directions 
 1. Heat olive oil in large pot. Add sausage and cook until browned. Crumble sausage as it cooks. Drain fat.
