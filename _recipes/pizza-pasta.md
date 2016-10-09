@@ -20,4 +20,4 @@ title: Pizza Pasta
 3. Bring to boil, cover, reduce heat, and simmer until pasta is cooked through. 12 - 14 minutes. May need to add more water. 
 4. Remove from heat. Top with mozzarella and serve. 
 
-Source: http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/
+Source: [http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/] (http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/)
