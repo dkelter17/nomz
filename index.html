@@ -4,14 +4,14 @@ layout: default
 
 <div class="home">
 
-  <!--<h1 class="page-heading">Recipes</h1> -->
+  <h1 class="page-heading">Recipes</h1>
 
   <ul class="post-list">
     {% for recipe in site.recipes %}
       <li>
-        <h2>
+        <h5>
           <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title | escape }}</a>
-        </h2>
+        </h5>
       </li>
     {% endfor %}
   </ul>
