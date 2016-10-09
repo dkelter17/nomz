@@ -21,3 +21,5 @@ title: Amazing Chicken Marinade
 1. Mix all ingredients in large bowl
 2. Marinate in fridge for 8 hours or overnight.
 3. Grill or bake chicken.
+
+Source: http://www.food.com/recipe/amazing-chicken-marinade-29598
