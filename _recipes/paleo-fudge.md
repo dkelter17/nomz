@@ -16,4 +16,4 @@ title: Paleo Fudge
 3. Pour into paper muffin cups.
 4. Chill for 30 min or freeze for 10 min.
 
-Source: [http://practicalpaleo.blogspot.com/2011/06/primal-fudge.html] (http://practicalpaleo.blogspot.com/2011/06/primal-fudge.html)
+Source: [http://practicalpaleo.blogspot.com/2011/06/primal-fudge.html](http://practicalpaleo.blogspot.com/2011/06/primal-fudge.html)
