@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nutalla Mug Cake
+title: Nutella Mug Cake
 ---
 
 ##Ingredients:
