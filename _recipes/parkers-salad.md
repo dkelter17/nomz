@@ -10,7 +10,7 @@ title: Parker's Salad
 - Goat cheese
 - Olive oil
 
-#Directions: 
+## Directions: 
 - Mix together. Go by emotion!
 
 Source: Parker
