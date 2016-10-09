@@ -3,7 +3,7 @@ layout: page
 title: Nutella Mug Cake
 ---
 
-##Ingredients:
+## Ingredients:
 - 4 T self-rising flour
 - 4 T white granulated sugar
 - 1 egg
@@ -12,7 +12,7 @@ title: Nutella Mug Cake
 - 3 T milk
 - 3 T olive oil or vegetable oil
 
-##Directions:
+## Directions:
 1. Mix everything in *large* mug. 
 2. Pour half of batter into second *large* mug. 
 3. Microwave each mug for ~1 1/2 minutes in 30 second increments. Be careful not to overcook. 
