@@ -1,6 +1,6 @@
 ---
 layout: page
-title: amazing chicken marinade
+title: Amazing Chicken Marinade
 ---
 
 ### Ingredients
