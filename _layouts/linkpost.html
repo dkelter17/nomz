@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h2 class="post-title"><a href="{{ page.external-url }}">{{ page.title | escape }}</a></h2>
+  </header>
+
+  <p>Tags: {{ page.tags | join: " / " }}</p>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

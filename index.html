@@ -10,7 +10,7 @@ layout: default
     {% for recipe in site.recipes %}
       <li>
         <h5>
-          <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title | escape }}</a>
+          <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title | escape }} {{ recipe.emoji }}</a>
         </h5>
       </li>
     {% endfor %}
