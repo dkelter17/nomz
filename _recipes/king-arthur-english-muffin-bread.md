@@ -5,7 +5,7 @@ title: "English Muffin Toasting Bread"
 
 ### Ingredients
 
-- 3 cups Unbleached All-Purpose Flour (mix with Bread Flour if you please)
+- 3 cups Unbleached All-Purpose Flour (replace up to 1 cup with Bread Flour if you please)
 - 1 tablespoon sugar
 - 1.5 teaspoons salt
 - 0.25 teaspoon baking soda
