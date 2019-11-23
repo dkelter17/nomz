@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Crockpot BBQ Chicken
+emoji: '🍖'
 ---
 
 ## Ingredients: 

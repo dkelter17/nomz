@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Southwest Quinoa
+emoji: '🌶'
 ---
 
 ### Ingredients

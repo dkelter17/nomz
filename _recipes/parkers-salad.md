@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Parker's Salad
+emoji: '🥗'
 ---
 
 ## Ingredients:

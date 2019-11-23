@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nutella Mug Cake
+emoji: '🎂'
 ---
 
 ## Ingredients:

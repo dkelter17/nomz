@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Oatmeal Chocolate Chip Cookies
+emoji: '🍪'
 ---
 
 ### Ingredients

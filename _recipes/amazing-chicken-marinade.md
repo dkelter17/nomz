@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Amazing Chicken Marinade
+emoji: '🍗'
 ---
 
 ### Ingredients

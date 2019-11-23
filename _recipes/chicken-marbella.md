@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chicken Marbella
+emoji: '🍗'
 ---
 
 ## Ingredients:

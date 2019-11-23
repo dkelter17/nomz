@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paleo Fudge
+emoji: '🍫'
 ---
 
 ## Ingredients: 

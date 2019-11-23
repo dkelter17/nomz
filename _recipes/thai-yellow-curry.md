@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thai Yellow Curry
+emoji: '🥘'
 ---
 
 You can either make this in a slow cooker or you can cook the protein ahead of time and simmer it for 30-45 minutes on a stovetop range.

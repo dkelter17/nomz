@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "English Muffin Toasting Bread"
+emoji: '🍞'
 ---
 
 ### Ingredients
