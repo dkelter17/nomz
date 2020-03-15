@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Carla's White Beans
+emoji: '🍲'
 ---
 
 ### Ingredients
