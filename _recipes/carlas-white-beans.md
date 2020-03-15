@@ -9,12 +9,13 @@ emoji: '🍲'
 - Freshly Dried Beans (3 cups dried beans)
 - Salt
 - Garlic (6-8 cloves, optional)
-- Whole Lemon (cut in half
+- Whole Lemon (cut in half)
 - Rendered fat from a meat (1 cup when melted)
 - Herbs of your choosing
     - Carla does Oregano & Mint
     - He like Coriander, fennel
     - Rosemary / thyme
+- Greens (optional, cut into bit-sized pieces)
 - Sherry vinegar or wine
 
 ### Instructions
@@ -27,7 +28,7 @@ emoji: '🍲'
 6. Add salt & pepper to taste, and supplement with olive oil.
 7. Add charred lemon halves.
 8. Continue to simmer, managing heat and ensuring there is enough water for the beans to simmer without breaching the surface. Salt as you go.
-9. If you want to add some green, toss some in there to just wilt.
+9. If you want to add some green, toss some in there to just wilt. Escarole, kale, etc.
 9. Finish with more fresh herbs from before, and a few glugs of sherry vinegar, or wine. Serve.
 
 #### Toppings:
