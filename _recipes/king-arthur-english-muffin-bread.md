@@ -2,6 +2,10 @@
 layout: page
 title: "English Muffin Toasting Bread"
 emoji: '🍞'
+external-url: https://www.kingarthurflour.com/recipes/english-muffin-toasting-bread-recipe
+category: breakfast
+tags:
+- bread
 ---
 
 ### Ingredients

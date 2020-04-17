@@ -2,6 +2,12 @@
 layout: page
 title: Nutella Mug Cake
 emoji: '🎂'
+external-url: https://www.babble.com/best-recipes/nutella-mug-cake/
+category: dessert
+tag:
+- chocolate
+- cake
+- fast
 ---
 
 ## Ingredients:
@@ -14,9 +20,9 @@ emoji: '🎂'
 - 3 T olive oil or vegetable oil
 
 ## Directions:
-1. Mix everything in *large* mug. 
-2. Pour half of batter into second *large* mug. 
-3. Microwave each mug for ~1 1/2 minutes in 30 second increments. Be careful not to overcook. 
-4. Top with vanilla ice cream. 
+1. Mix everything in *large* mug.
+2. Pour half of batter into second *large* mug.
+3. Microwave each mug for ~1 1/2 minutes in 30 second increments. Be careful not to overcook.
+4. Top with vanilla ice cream.
 
 Source: [https://www.babble.com/best-recipes/nutella-mug-cake/](https://www.babble.com/best-recipes/nutella-mug-cake/)

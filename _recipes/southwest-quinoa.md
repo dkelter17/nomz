@@ -2,6 +2,11 @@
 layout: page
 title: Southwest Quinoa
 emoji: '🌶'
+category: dinner
+tags:
+- chicken
+- grain
+- leftovers
 ---
 
 ### Ingredients
@@ -23,7 +28,7 @@ emoji: '🌶'
 
 ### Directions
 
-1. Cut cream cheese into small pieces and let warm. 
+1. Cut cream cheese into small pieces and let warm.
 2. Add all ingredients except shredded cheese and avocado to slow cooker and stir well.
 3. Cook on high for 2 - 3 hours or low for 5 - 6 hour. Stir occasionally if possible. If using an Instant Pot, cook on high pressure for 30 minutes if you added chicken.
 4. Before serving sprinkle with cheese. Serve with sliced avocado.

@@ -2,6 +2,10 @@
 layout: page
 title: Parker's Salad
 emoji: '🥗'
+category: tapas
+tags:
+- salad
+- sweet
 ---
 
 ## Ingredients:
@@ -11,7 +15,7 @@ emoji: '🥗'
 - Goat cheese
 - Olive oil
 
-## Directions: 
+## Directions:
 - Mix together. Go by emotion!
 
 Source: Parker

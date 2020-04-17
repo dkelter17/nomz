@@ -2,9 +2,13 @@
 layout: page
 title: Paleo Fudge
 emoji: '🍫'
+category: dessert
+tags:
+- chocolate
+- frozen
 ---
 
-## Ingredients: 
+## Ingredients:
 - 1/2 cup coconut oil
 - 1/2 cup cocoa powder
 - 1/2 cup smooth almond butter (or peanut butter)
@@ -12,7 +16,7 @@ emoji: '🍫'
 - 1/2 t vanilla
 
 ## Directions:
-1. Melt coconut oil. 
+1. Melt coconut oil.
 2. Blend all ingredients together.
 3. Pour into paper muffin cups.
 4. Chill for 30 min or freeze for 10 min.

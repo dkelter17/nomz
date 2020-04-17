@@ -3,6 +3,7 @@ layout: linkpost
 title: One Skillet Rotisserie Chicken Pot Pie
 external-url: https://www.bonappetit.com/recipe/one-skillet-rotisserie-chicken-pot-pie
 emoji: '🥧'
+category: dessert
 tags:
 - meal
 - bon-appetit

@@ -2,6 +2,9 @@
 layout: page
 title: Amazing Chicken Marinade
 emoji: '🍗'
+tags:
+- chicken
+category: topping
 ---
 
 ### Ingredients
@@ -24,4 +27,3 @@ emoji: '🍗'
 3. Grill or bake chicken.
 
 Source: [http://www.food.com/recipe/amazing-chicken-marinade-29598](http://www.food.com/recipe/amazing-chicken-marinade-29598)
-

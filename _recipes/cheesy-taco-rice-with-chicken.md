@@ -2,10 +2,15 @@
 layout: page
 title: Cheesy Taco Rice with Chicken
 emoji: '🍚'
+category: dinner
+tags:
+- chicken
+- rice
+- workweeklunch
 ---
 
 Delicious and you can easily scale it up and down.
 
-![](https://workweeklunch.com/wp-content/uploads/2019/05/cheesy-taco-rice-feature-1024x512.jpg)
+![completed cheesy taco rice in tupperware](https://workweeklunch.com/wp-content/uploads/2019/05/cheesy-taco-rice-feature-1024x512.jpg)
 
-https://workweeklunch.com/recipe/easy-cheesy-taco-rice/
+&rarr; [https://workweeklunch.com/recipe/easy-cheesy-taco-rice/](https://workweeklunch.com/recipe/easy-cheesy-taco-rice/)

@@ -2,6 +2,10 @@
 layout: page
 title: Carla's White Beans
 emoji: '🍲'
+tags:
+- veg
+- bon-appetit
+category: dinner
 ---
 
 ### Ingredients

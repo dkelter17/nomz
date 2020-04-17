@@ -2,6 +2,11 @@
 layout: page
 title: Thai Yellow Curry
 emoji: '🥘'
+category: dinner
+tags:
+- chicken
+- leftovers
+- asian-ish
 ---
 
 You can either make this in a slow cooker or you can cook the protein ahead of time and simmer it for 30-45 minutes on a stovetop range.
@@ -23,7 +28,7 @@ You can either make this in a slow cooker or you can cook the protein ahead of t
 - 1 russet potato, diced
 - 1 bell pepper, diced
 
-## Directions for range: 
+## Directions for range:
 
 1. Cook all meat at least 75%. Brown the outsides lightly for a delicious texture in a cast iron.
 2. In large pot, add coconut milk and spices. Stir to combine and bring to a simmer.

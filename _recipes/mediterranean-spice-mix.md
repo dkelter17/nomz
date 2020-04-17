@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Mediterranean Spice Mix Marinade
+emoji: '𐂑'
+category: topping
 ---
 
 ## Spice Mix:
@@ -17,6 +19,6 @@ title: Mediterranean Spice Mix Marinade
 - 1/2 t spice mix
 
 ## Directions:
-For every 1 lb meat, use 2 T of marinade. Marinate for up to 24 hours. 
+For every 1 lb meat, use 2 T of marinade. Marinate for up to 24 hours.
 
 Source: [http://www.mensfitness.com/nutrition/what-to-eat/healthy-grilling-marinades/slide/3](http://www.mensfitness.com/nutrition/what-to-eat/healthy-grilling-marinades/slide/3)

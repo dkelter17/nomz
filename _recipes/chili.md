@@ -2,6 +2,11 @@
 layout: page
 title: Chili
 emoji: '🥘'
+category: dinner
+tags:
+- beef
+- one-pot
+- leftovers
 ---
 
 ## Ingredients:
@@ -21,8 +26,8 @@ emoji: '🥘'
 1. Cook meat. Drain fat.
 2. Add onion and peppers. Saute until they start to brown.
 3. Add all canned ingredients, including liquid from cans. Add spices.
-4. Bring to boil. Reduce heat and simmer for 30 minutes or until mixture reaches desired consistency. 
-5. Ladle into bowls and top with cheese and/or sour cream. 
+4. Bring to boil. Reduce heat and simmer for 30 minutes or until mixture reaches desired consistency.
+5. Ladle into bowls and top with cheese and/or sour cream.
 
 11/12/2019 - added extra chili powder. Good amount of garlic powder, cumin, smoked paprika, oregano. Let simmer for extra time.
 
