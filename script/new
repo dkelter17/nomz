@@ -1,0 +1,36 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "jekyll/utils"
+require "yaml"
+
+def ask(prompt)
+  print "#{prompt} > "
+  $stdin.gets.strip
+end
+
+title = ask "What's the recipe called?"
+url = ask "Enter the URL if it has one"
+category = ask "What's the category? (dinner/dessert/breakfast/toppings/etc)"
+tags = ask "What tags would you apply? (main protein, one-pot, etc) (space-separated)"
+
+data = {
+  "layout"   => "page",
+  "title"    => title,
+  "category" => category.downcase,
+  "tags"     => tags.split(" ").map(&:downcase),
+}
+
+if url
+  data["external-url"] = url
+end
+
+path = "_recipes/#{Jekyll::Utils.slugify(title)}.md"
+
+File.open(path, "wb") do |f|
+  f.puts(YAML.dump(data))
+  f.puts "---"
+  f.puts "\n\n"
+end
+
+puts "Written to #{path}"

@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "jekyll"
+
+site = Jekyll::Site.new(Jekyll.configuration)
+site.read
+
+meta = site.collections["recipes"].docs.each_with_object({"categories" => Set.new, "tags" => Set.new}) do |doc, memo|
+  memo["categories"] << doc.data["category"]
+  memo["tags"].merge doc.data["tags"]
+end
+
+puts "Categories: #{meta["categories"].to_a.sort.join(", ")}"
+puts "Tags:"
+meta["tags"].to_a.sort.each do |tag|
+  puts "  - #{tag}"
+end
