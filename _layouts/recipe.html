@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{% if page.external-url %}
+<p><a href="{{ page.external-url }}">&rarr; View Original Recipe</a></p>
+{% endif %}
+
+{{ content }}
+
+<p>Tags: {{ page.tags | join: " / " }}</p>
