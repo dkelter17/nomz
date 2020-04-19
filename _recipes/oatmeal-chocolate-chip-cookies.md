@@ -4,7 +4,7 @@ title: Oatmeal Chocolate Chip Cookies
 emoji: '🍪'
 category: dessert
 tags:
-- cookie
+- cookies
 - chocolate
 ---
 

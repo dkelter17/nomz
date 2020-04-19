@@ -9,6 +9,7 @@ github_username:  dkelter17
 exclude:
   - Gemfile
   - Gemfile.lock
+  - script
 collections:
   recipes:
     output: true
