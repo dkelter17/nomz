@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Chicken Marbella
 emoji: '🍗'
 category: dinner

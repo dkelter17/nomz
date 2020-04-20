@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Paleo Fudge
 emoji: '🍫'
+external-url: http://topchefcooking.com/primal-fudge-practical-paleo/
 category: dessert
 tags:
 - chocolate

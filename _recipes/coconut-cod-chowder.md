@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Coconut Cod Chowder
 category: dinner
 tags:

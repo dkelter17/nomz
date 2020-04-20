@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Parker's Salad
 emoji: '🥗'
 category: tapas

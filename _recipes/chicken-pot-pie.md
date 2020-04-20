@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: Chicken Pot Pie
 category: dinner
 tags:

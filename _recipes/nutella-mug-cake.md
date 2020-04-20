@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Nutella Mug Cake
 emoji: '🎂'
 external-url: https://www.babble.com/best-recipes/nutella-mug-cake/

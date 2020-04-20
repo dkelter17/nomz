@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Chili
 emoji: '🥘'
 category: dinner

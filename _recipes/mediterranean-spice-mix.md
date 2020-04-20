@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Mediterranean Spice Mix Marinade
 emoji: '𐂑'
+external-url: http://www.mensfitness.com/nutrition/what-to-eat/healthy-grilling-marinades/slide/3
 category: topping
 ---
 

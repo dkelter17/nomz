@@ -1,5 +1,4 @@
 ---
-layout: linkpost
 title: Ina Garten's Chocolate Pecan Scones
 external-url: https://www.bonappetit.com/recipe/ina-garten-chocolate-pecan-scones
 emoji: '🥐'

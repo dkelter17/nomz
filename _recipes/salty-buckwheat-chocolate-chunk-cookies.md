@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Salty Buckwheat Chocolate Chunk Cookies
 category: dessert
 tags:

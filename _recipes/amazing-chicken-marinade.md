@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Amazing Chicken Marinade
 emoji: '🍗'
+external-url: http://www.food.com/recipe/amazing-chicken-marinade-29598
 tags:
 - chicken
 category: topping

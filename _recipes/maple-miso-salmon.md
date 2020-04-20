@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Maple Miso Salmon
 category: dinner
 tags:

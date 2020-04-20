@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Gingery Chicken and Rice With Peanut Sauce
 category: dinner
 tags:

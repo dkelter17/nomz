@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Crockpot BBQ Chicken
 emoji: '🍖'
+external-url: http://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html
 category: dinner
 tags:
 - chicken

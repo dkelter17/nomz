@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Turmeric-Coconut Curry with Ground Pork
 category: dinner
 tags:

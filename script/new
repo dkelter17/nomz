@@ -15,7 +15,7 @@ category = ask "What's the category? (dinner/dessert/breakfast/toppings/etc)"
 tags = ask "What tags would you apply? (main protein, one-pot, etc) (space-separated)"
 
 data = {
-  "layout"   => "page",
+  "layout"   => "recipe",
   "title"    => title,
   "category" => category.downcase,
   "tags"     => tags.split(" ").map(&:downcase),

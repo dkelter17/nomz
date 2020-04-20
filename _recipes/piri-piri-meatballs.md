@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Piri-Piri Meatballs
 category: dinner
 tags:

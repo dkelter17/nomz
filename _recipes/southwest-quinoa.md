@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Southwest Quinoa
 emoji: '🌶'
+external-url: http://www.lecremedelacrumb.com/2014/12/slow-cooker-enchilada-quinoa.html
 category: dinner
 tags:
 - chicken

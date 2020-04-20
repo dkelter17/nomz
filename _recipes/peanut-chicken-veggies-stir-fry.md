@@ -1,5 +1,4 @@
 ---
-layout: linkpost
 title: Peanut Chicken & Veggies Stir Fry
 external-url: https://workweeklunch.com/recipe/peanut-stir-fry/
 emoji: '🥘'
