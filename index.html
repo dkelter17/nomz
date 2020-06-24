@@ -73,8 +73,12 @@ layout: default
   <h2>&rarr; Other!</h2>
 
   <ul class="recipe-list">
+    <pre>
     {% for recipe in site.recipes %}
-      {% if recipe.category != "dinner" and recipe.category != "breakfast" and recipe.category != "dessert" and recipe.category != "topping" %}{% continue %}{% endif %}
+      {% if recipe.category == "dinner" %}{% continue %}{% endif %}
+      {% if recipe.category == "breakfast" %}{% continue %}{% endif %}
+      {% if recipe.category == "dessert" %}{% continue %}{% endif %}
+      {% if recipe.category == "topping" %}{% continue %}{% endif %}
       <li>
         <h5>
           <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
