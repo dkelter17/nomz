@@ -73,7 +73,6 @@ layout: default
   <h2>&rarr; Other!</h2>
 
   <ul class="recipe-list">
-    <pre>
     {% for recipe in site.recipes %}
       {% if recipe.category == "dinner" %}{% continue %}{% endif %}
       {% if recipe.category == "breakfast" %}{% continue %}{% endif %}
