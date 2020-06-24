@@ -74,7 +74,7 @@ layout: default
 
   <ul class="recipe-list">
     {% for recipe in site.recipes %}
-      {% if recipe.category %}{% continue %}{% endif %}
+      {% if recipe.category != "dinner" and recipe.category != "breakfast" and recipe.category != "dessert" and recipe.category != "topping" %}{% continue %}{% endif %}
       <li>
         <h5>
           <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
