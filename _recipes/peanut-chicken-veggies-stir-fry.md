@@ -17,7 +17,7 @@ Don't go too heavy on the peanut butter! If you go too heavy on the fats, add so
 
 ![peanut-stir-fry-with-tofu](https://workweeklunch.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-21-at-1.08.13-PM.png)
 
-<div style="display:none">
+<div style="display:none" markdown="1">
 
 ### INSTRUCTIONS
 
