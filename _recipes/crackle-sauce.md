@@ -19,7 +19,7 @@ Don't forget to double it!
 - 1 tsp honey
 - 1 tsp ground turmeric
 - 1.5 tsp red pepper flakes
-- 3 Tbsp coconut milk (use the rest of the can to make [coconut rice]({{ site.baseurl }}/{% link _recipes/coconut-rice.md %})!)
+- 3 Tbsp coconut milk (use the rest of the can to make [coconut rice](coconut-rice.html))
 
 ## Instructions
 
