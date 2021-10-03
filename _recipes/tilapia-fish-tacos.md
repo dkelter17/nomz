@@ -22,8 +22,11 @@ Fish:
 0. 1 cup panko
 0. 1 cup flour
 0. 1 egg
+0. Tortillas
+0. Avocados (optional)
 
 ### Instructions:
 
 1. Combine ingredients in cabbage ingredient list and set aside.
 2. Bread tilapia in flour, egg, panko, then fry.
+3. Spoon some tilapia and cabbage slaw into tortilla. Serve.
