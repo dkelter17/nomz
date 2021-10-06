@@ -14,6 +14,8 @@ Cabbage Slaw:
 0. 1/4 cup mayo
 0. 2 Tbsp chipotle in adobo, minced
 0. 2 tsp lime juice
+0. 2 tsp honey
+0. 2 scallions, sliced
 0. Salt & pepper
 
 Fish:
