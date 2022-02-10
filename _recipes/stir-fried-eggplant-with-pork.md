@@ -6,6 +6,7 @@ tags:
 - eggplant
 - bon-appetit
 - asian-ish
+- diana
 external-url: https://www.bonappetit.com/recipe/stir-fried-eggplant-with-pork
 ---
 
