@@ -6,11 +6,19 @@ layout: default
 
   <h1 class="page-heading">Recipes</h1>
 
-  <h2>&rarr; Dinner!</h2>
+  <ul>
+  {% for category in site.data.categories %}
+    <li><a href="#{{category}}">{{ category | capitalize }}!</a></li>
+  {% endfor %}
+    <li><a href="#other">Other!</a></li>
+  </ul>
+
+  {% for category in site.data.categories %}
+  <h2 id="{{category}}">&rarr; {{ category | capitalize }}!</h2>
 
   <ul class="recipe-list">
     {% for recipe in site.recipes %}
-      {% unless recipe.category == "dinner" %}{% continue %}{% endunless %}
+      {% unless recipe.category == category %}{% continue %}{% endunless %}
       <li>
         <h5>
           <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
@@ -21,63 +29,13 @@ layout: default
       </li>
       {% endfor %}
   </ul>
+  {% endfor %}
 
-  <h2>&rarr; Breakfast!</h2>
-
-  <ul class="recipe-list">
-    {% for recipe in site.recipes %}
-      {% unless recipe.category == "breakfast" %}{% continue %}{% endunless %}
-      <li>
-        <h5>
-          <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
-          {% for tag in recipe.tags %}
-          <span class="post-meta">#{{tag}}</span>
-          {% endfor %}
-        </h5>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2>&rarr; Dessert!</h2>
+  <h2 id="other">&rarr; Other!</h2>
 
   <ul class="recipe-list">
     {% for recipe in site.recipes %}
-      {% unless recipe.category == "dessert" %}{% continue %}{% endunless %}
-      <li>
-        <h5>
-          <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
-          {% for tag in recipe.tags %}
-          <span class="post-meta">#{{tag}}</span>
-          {% endfor %}
-        </h5>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2>&rarr; Toppings!</h2>
-
-  <ul class="recipe-list">
-    {% for recipe in site.recipes %}
-      {% unless recipe.category == "topping" %}{% continue %}{% endunless %}
-      <li>
-        <h5>
-          <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
-          {% for tag in recipe.tags %}
-          <span class="post-meta">#{{tag}}</span>
-          {% endfor %}
-        </h5>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2>&rarr; Other!</h2>
-
-  <ul class="recipe-list">
-    {% for recipe in site.recipes %}
-      {% if recipe.category == "dinner" %}{% continue %}{% endif %}
-      {% if recipe.category == "breakfast" %}{% continue %}{% endif %}
-      {% if recipe.category == "dessert" %}{% continue %}{% endif %}
-      {% if recipe.category == "topping" %}{% continue %}{% endif %}
+      {% if site.data.categories contains recipe.category %}{% continue %}{% endif %}
       <li>
         <h5>
           <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
