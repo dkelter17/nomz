@@ -1,7 +1,22 @@
+function loadLunrIndex() {
+  var httpRequest = new XMLHttpRequest();
+  httpRequest.onreadystatechange = () => {
+    if (httpRequest.readyState === XMLHttpRequest.DONE) {
+      if (httpRequest.status === 200) {
+        document.recipesSearch.recipes = JSON.parse(httpRequest.responseText)
+        setupLunr(document)
+      } else {
+        console.error('There was a problem with the request.');
+      }
+    }
+  };
+  httpRequest.open('GET', document.recipesSearch.indexURL, true);
+  httpRequest.send();
+}
+
 function setupLunr(document){
-  console.log('document', document)
-  var recipes = document.recipes;
-  document.idx = lunr(function() {
+  var recipes = document.recipesSearch.recipes;
+  document.recipesSearch.idx = lunr(function() {
     this.field('id');
     this.field('title', { boost: 10 });
     this.field('category');
@@ -11,7 +26,6 @@ function setupLunr(document){
 
     for (var key in recipes) { // Add the data to lunr
       var document = recipes[key]
-      console.log('tags', document.tags)
       this.add({
         'id': key,
         'title': document.title,
@@ -33,7 +47,6 @@ function urlToSearchTokens(url) {
     var parsed = new URL(url)
     var paths = parsed.pathname.split('/')
     var result = [parsed.hostname].concat(paths).filter(function(val){if(val)return val})
-    console.log('urlToSearchTokens: produced <', result, '> from ', url)
     return result
   } catch(e) {
     console.warn(`${e} error encountered, skipping URL:`, url)
@@ -49,9 +62,9 @@ function searchWithLunr() {
     return
   }
 
-  var results = document.idx.search(searchTerm); // Get lunr to perform a search
+  var results = document.recipesSearch.idx.search(searchTerm); // Get lunr to perform a search
   console.log('term', searchTerm, 'results', results)
-  displaySearchResults(results, document.recipes); // We'll write this in the next section
+  displaySearchResults(results, document.recipesSearch.recipes); // We'll write this in the next section
 }
 
 function displaySearchResults(results, store) {
@@ -75,6 +88,6 @@ function displaySearchResults(results, store) {
 
 document.addEventListener('readystatechange', (event) => {
   if (document.readyState === 'complete') {
-    setupLunr(document)
+    loadLunrIndex(document)
   }
 });
