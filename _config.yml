@@ -20,3 +20,7 @@ defaults:
       type: "recipes" # previously `post` in Jekyll 2.2.
     values:
       layout: "recipe"
+
+plugins:
+- jekyll-include-cache
+- jekyll-seo-tag

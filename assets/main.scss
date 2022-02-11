@@ -49,3 +49,17 @@ $on-laptop:        800px;
 .recipe-link {
   @include relative-font-size(1.5);
 }
+
+.search-container {
+  float: right;
+  height: 100%;
+  width: 50%;
+  text-align: right;
+  margin: 1em auto;
+
+  input[type="text"] {
+    width: 100%;
+    height: 100%;
+    font-size: 1em;
+  }
+}
