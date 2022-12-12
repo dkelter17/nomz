@@ -7,6 +7,8 @@ tags:
 - one-pan
 ---
 
+**For a different spin with couscous, consider [Molly Baz's Chicken Marbella](https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/)**
+
 ## Ingredients:
 - 2 lbs chicken
 - 1 clove garlic
