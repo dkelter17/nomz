@@ -11,22 +11,22 @@ external-url: "https://www.bonappetit.com/recipe/hot-and-sweet-soppressata-and-f
 
 ### Dough
 
-- 1 envelope active dry yeast (~2¼ tsp)
-- 2 Tbsp plus ½ cup extra virgin olive oil, plus more for bowl
-- 2 tsp kosher salt
-- 4 cups all-purpose flour, divided, plus more for surface
+- [ ] 1 envelope active dry yeast (~2¼ tsp)
+- [ ] 2 Tbsp plus ½ cup extra virgin olive oil, plus more for bowl
+- [ ] 2 tsp kosher salt
+- [ ] 4 cups all-purpose flour, divided, plus more for surface
 
 ### Toppings
 
-- 12 ounces fresh mozzarella, grated (about 2½ cups)
-- 1 cup [Fresh Tomato Pizza Sauce](http://www.bonappetit.com/recipe/fresh-tomato-pizza-sauce)
-- 2 ounces thinly sliced hot soppressata
-- 2 ounces thinly sliced sweet soppressata
-- ½ fennel bulb, thinly sliced
-- 2–3 fresh red chiles, thinly sliced
-- 2 ounces Pecorino Romano, finely grated (about ½ cup)
-- ¼ cup olive oil
-- Coarsely chopped fennel fronds, flaky sea salt (such as Maldon), and crushed red pepper flakes (for serving; optional)
+- [ ] 12 ounces fresh mozzarella, grated (about 2½ cups)
+- [ ] 1 cup [Fresh Tomato Pizza Sauce](http://www.bonappetit.com/recipe/fresh-tomato-pizza-sauce)
+- [ ] 2 ounces thinly sliced hot soppressata
+- [ ] 2 ounces thinly sliced sweet soppressata
+- [ ] ½ fennel bulb, thinly sliced
+- [ ] 2–3 fresh red chiles, thinly sliced
+- [ ] 2 ounces Pecorino Romano, finely grated (about ½ cup)
+- [ ] ¼ cup olive oil
+- [ ] Coarsely chopped fennel fronds, flaky sea salt (such as Maldon), and crushed red pepper flakes (for serving; optional)
 
 ## Instructions
 
