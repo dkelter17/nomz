@@ -63,3 +63,47 @@ $on-laptop:        800px;
     font-size: 1em;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #adbac7;
+    background-color: #1f1f1f;
+  }
+
+  .site-header {
+    border-bottom: 1px solid #adbac7;
+  }
+
+  .site-footer {
+    border-top: 1px solid #adbac7;
+  }
+
+  .site-title, .site-title:visited {
+    color: #efefef;
+  }
+
+  a {
+    color: #4487de;
+    &:visited {
+      color: #1756a9;
+    }
+    &:hover {
+      color: #5e9cf4;
+    }
+  }
+
+  img {
+    opacity: .75;
+    transition: opacity .5s ease-in-out;
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .search-container input[type=text] {
+    background-color: #323233;
+    color: #efefef;
+    border: 0;
+  }
+
+}
