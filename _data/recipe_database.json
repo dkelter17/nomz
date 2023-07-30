@@ -13,7 +13,10 @@
     "rating": 1,
     "url": null,
     "tags": [
-      "fallback"
+      "chicken",
+      "dill",
+      "winter",
+      "weekend"
     ]
   },
   {
@@ -30,7 +33,10 @@
     "rating": 2,
     "url": null,
     "tags": [
-      "fallback"
+      "lamb",
+      "mint",
+      "winter",
+      "weekday"
     ]
   },
   {
@@ -47,7 +53,10 @@
     "rating": 2,
     "url": null,
     "tags": [
-      "fallback"
+      "shrimp",
+      "basil",
+      "summer",
+      "weekday"
     ]
   },
   {
@@ -83,10 +92,8 @@
     "url": null,
     "tags": [
       "chicken",
-      [
-        "dill",
-        "cilantro"
-      ],
+      "dill",
+      "cilantro",
       "weekday"
     ]
   },
@@ -106,12 +113,8 @@
     "url": null,
     "tags": [
       "chicken (optional)",
-      [
-        "cilantro"
-      ],
-      [
-        "parsley"
-      ],
+      "cilantro",
+      "parsley",
       "weekday"
     ]
   },
@@ -129,9 +132,7 @@
     "rating": 0,
     "url": null,
     "tags": [
-      [
-        "parsley"
-      ],
+      "parsley",
       "autumn",
       "weekend"
     ]
@@ -150,9 +151,7 @@
     "rating": 1,
     "url": null,
     "tags": [
-      [
-        "cilantro"
-      ],
+      "cilantro",
       "weekday"
     ]
   },
@@ -170,9 +169,7 @@
     "rating": 1,
     "url": null,
     "tags": [
-      [
-        "parsley"
-      ],
+      "parsley",
       "summer",
       "weekday"
     ]
@@ -243,9 +240,7 @@
     "rating": 1,
     "url": null,
     "tags": [
-      [
-        "basil"
-      ],
+      "basil",
       "summer",
       "weekday"
     ]
@@ -265,9 +260,7 @@
     "url": null,
     "tags": [
       "chicken",
-      [
-        "cilantro (optional)"
-      ],
+      "cilantro (optional)",
       "weekday"
     ]
   },
@@ -286,9 +279,7 @@
     "url": null,
     "tags": [
       "shrimps",
-      [
-        "cilantro (optional)"
-      ],
+      "cilantro (optional)",
       "weekday"
     ]
   },
@@ -307,9 +298,7 @@
     "url": null,
     "tags": [
       "pork",
-      [
-        "sage"
-      ],
+      "sage",
       "weekday"
     ]
   },
@@ -346,9 +335,7 @@
     "url": null,
     "tags": [
       "beef",
-      [
-        "cilantro (optional)"
-      ],
+      "cilantro (optional)",
       "weekday"
     ]
   },
@@ -367,9 +354,7 @@
     "url": null,
     "tags": [
       "beef",
-      [
-        "cilantro"
-      ],
+      "cilantro",
       "weekday"
     ]
   },
@@ -406,9 +391,7 @@
     "url": null,
     "tags": [
       "beef",
-      [
-        "parsley"
-      ],
+      "parsley",
       "weekday"
     ]
   },
@@ -426,7 +409,10 @@
     "rating": 2,
     "url": null,
     "tags": [
-      "fallback"
+      "beef",
+      "parsley (optional)",
+      "winter",
+      "weekday"
     ]
   },
   {
@@ -443,7 +429,9 @@
     "rating": 1,
     "url": null,
     "tags": [
-      "fallback"
+      "eggs",
+      "spring",
+      "weekday"
     ]
   },
   {
@@ -461,9 +449,7 @@
     "url": null,
     "tags": [
       "chicken",
-      [
-        "parsley"
-      ],
+      "parsley",
       "weekday"
     ]
   },
@@ -482,9 +468,7 @@
     "url": null,
     "tags": [
       "chicken",
-      [
-        "parsley"
-      ],
+      "parsley",
       "weekday"
     ]
   },
@@ -503,9 +487,7 @@
     "url": null,
     "tags": [
       "chicken",
-      [
-        "cilantro (optional)"
-      ],
+      "cilantro (optional)",
       "weekday"
     ]
   },
@@ -524,9 +506,7 @@
     "url": null,
     "tags": [
       "salmon",
-      [
-        "thyme"
-      ],
+      "thyme",
       "weekday"
     ]
   },
@@ -544,7 +524,10 @@
     "rating": 2,
     "url": null,
     "tags": [
-      "fallback"
+      "salmon",
+      "basil (optional)",
+      "summer",
+      "weekday"
     ]
   },
   {
@@ -561,7 +544,10 @@
     "rating": 1,
     "url": null,
     "tags": [
-      "fallback"
+      "tilapia",
+      "basil",
+      "summer",
+      "weekday"
     ]
   },
   {
@@ -578,7 +564,10 @@
     "rating": 1,
     "url": null,
     "tags": [
-      "fallback"
+      "halibut",
+      "thyme",
+      "summer",
+      "weekday"
     ]
   },
   {
@@ -614,9 +603,7 @@
     "url": null,
     "tags": [
       "shrimp",
-      [
-        "cilantro"
-      ],
+      "cilantro",
       "weekday"
     ]
   },
@@ -636,14 +623,10 @@
     "url": null,
     "tags": [
       "salmon",
-      [
-        "chives"
-      ],
-      [
-        "cilantro",
-        "dill",
-        "parsley"
-      ],
+      "chives",
+      "cilantro",
+      "dill",
+      "parsley",
       "weekday"
     ]
   },
@@ -662,9 +645,7 @@
     "url": null,
     "tags": [
       "chicken",
-      [
-        "cilantro"
-      ],
+      "cilantro",
       "weekday"
     ]
   },
@@ -682,7 +663,9 @@
     "rating": 2,
     "url": null,
     "tags": [
-      "fallback"
+      "chicken",
+      "winter",
+      "weekend"
     ]
   },
   {
@@ -700,9 +683,7 @@
     "url": null,
     "tags": [
       "grain",
-      [
-        "mint"
-      ],
+      "mint",
       "weekday"
     ]
   },
@@ -720,9 +701,7 @@
     "rating": 0,
     "url": null,
     "tags": [
-      [
-        "basil"
-      ],
+      "basil",
       "summer",
       "weekday"
     ]
@@ -811,9 +790,7 @@
     "rating": 0,
     "url": null,
     "tags": [
-      [
-        "sage"
-      ],
+      "sage",
       "weekday"
     ]
   },
@@ -831,9 +808,7 @@
     "rating": 0,
     "url": null,
     "tags": [
-      [
-        "basil"
-      ],
+      "basil",
       "summer",
       "weekday"
     ]
@@ -870,7 +845,9 @@
     "rating": 0,
     "url": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
     "tags": [
-      "fallback"
+      "chicken",
+      "winter",
+      "weekend"
     ]
   },
   {
@@ -887,7 +864,10 @@
     "rating": 0,
     "url": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
     "tags": [
-      "fallback"
+      "chicken",
+      "chives",
+      "winter",
+      "weekend"
     ]
   },
   {
@@ -923,12 +903,10 @@
     "url": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
     "tags": [
       "lamb",
-      [
-        "dill",
-        "cilantro",
-        "parsley",
-        "chives"
-      ],
+      "dill",
+      "cilantro",
+      "parsley",
+      "chives",
       "weekday"
     ]
   },
@@ -946,9 +924,7 @@
     "rating": 0,
     "url": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
     "tags": [
-      [
-        "mint"
-      ],
+      "mint",
       "weekday"
     ]
   },
@@ -966,9 +942,7 @@
     "rating": 0,
     "url": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
     "tags": [
-      [
-        "basil"
-      ],
+      "basil",
       "weekday"
     ]
   },
@@ -987,9 +961,7 @@
     "url": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
     "tags": [
       "beef",
-      [
-        "cilantro"
-      ],
+      "cilantro",
       "weekday"
     ]
   },
@@ -1043,9 +1015,7 @@
     "rating": 3,
     "url": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
     "tags": [
-      [
-        "mint"
-      ],
+      "mint",
       "weekday"
     ]
   },
@@ -1064,9 +1034,7 @@
     "url": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
     "tags": [
       "chicken",
-      [
-        "dill"
-      ],
+      "dill",
       "weekday"
     ]
   },
@@ -1084,9 +1052,7 @@
     "rating": 1,
     "url": "https://mollybaz.com/white-bean-bolognese/",
     "tags": [
-      [
-        "parsley"
-      ],
+      "parsley",
       "weekday"
     ]
   },
@@ -1104,9 +1070,7 @@
     "rating": 2,
     "url": "https://mollybaz.com/leaf-peepin-ragu/",
     "tags": [
-      [
-        "sage"
-      ],
+      "sage",
       "autumn",
       "weekend"
     ]
@@ -1161,9 +1125,7 @@
     "rating": 2,
     "url": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
     "tags": [
-      [
-        "mint"
-      ],
+      "mint",
       "weekend"
     ]
   },
@@ -1302,10 +1264,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
     "tags": [
-      [
-        "parsley",
-        "basil"
-      ]
+      "parsley",
+      "basil"
     ]
   },
   {

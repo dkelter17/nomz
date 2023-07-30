@@ -62,7 +62,7 @@ recipe_list = rows.each_with_object([]) do |row, memo|
       *row["Herbs"].to_s.split(",").map(&:strip).map(&:downcase).map{|s| s.split("/")},
       row["Season"].to_s.downcase,
       row["Day of Week"].to_s.downcase,
-    ].reject!(&:empty?) || ["fallback"]
+    ].reject(&:empty?).flatten || ["fallback"]
   )
 end
 
