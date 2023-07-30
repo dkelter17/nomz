@@ -24,3 +24,4 @@ defaults:
 plugins:
 - jekyll-include-cache
 - jekyll-seo-tag
+- jekyll-github-metadata
