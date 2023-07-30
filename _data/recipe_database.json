@@ -839,7 +839,7 @@
     ]
   },
   {
-    "title": "Homeroom",
+    "title": "Homeroom Pasta",
     "source": "Homeroom",
     "author": null,
     "protein": "",
@@ -1035,32 +1035,39 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "mint"
     ],
-    "day_of_week": "",
+    "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
-    "rating": 0,
+    "rating": 3,
     "url": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
     "tags": [
-
+      [
+        "mint"
+      ],
+      "weekday"
     ]
   },
   {
     "title": "Harissa Grilled Chicken Flat Bread with Pistachio-Lime Yogurt",
     "source": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "chicken",
     "herbs": [
-
+      "dill"
     ],
-    "day_of_week": "",
+    "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
-    "rating": 0,
+    "rating": 1,
     "url": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
     "tags": [
-
+      "chicken",
+      [
+        "dill"
+      ],
+      "weekday"
     ]
   },
   {
@@ -1069,15 +1076,18 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "parsley"
     ],
-    "day_of_week": "",
+    "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
-    "rating": 0,
+    "rating": 1,
     "url": "https://mollybaz.com/white-bean-bolognese/",
     "tags": [
-
+      [
+        "parsley"
+      ],
+      "weekday"
     ]
   },
   {
@@ -1086,49 +1096,55 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "sage"
     ],
-    "day_of_week": "",
+    "day_of_week": "weekend",
     "feeds": 0,
     "season": "autumn",
-    "rating": 0,
+    "rating": 2,
     "url": "https://mollybaz.com/leaf-peepin-ragu/",
     "tags": [
-      "autumn"
+      [
+        "sage"
+      ],
+      "autumn",
+      "weekend"
     ]
   },
   {
     "title": "Crispy Salmon with Coconut Rice and Crackle Sauce",
     "source": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "salmon",
     "herbs": [
 
     ],
-    "day_of_week": "",
+    "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
-    "rating": 0,
+    "rating": 3,
     "url": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
     "tags": [
-
+      "salmon",
+      "weekday"
     ]
   },
   {
     "title": "Chicky Chicky Bread Bread",
     "source": "https://mollybaz.com/chicky-chicky-bread-bread/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "chicken",
     "herbs": [
 
     ],
-    "day_of_week": "",
+    "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
     "rating": 0,
     "url": "https://mollybaz.com/chicky-chicky-bread-bread/",
     "tags": [
-
+      "chicken",
+      "weekend"
     ]
   },
   {
@@ -1137,15 +1153,18 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "mint"
     ],
-    "day_of_week": "",
+    "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
-    "rating": 0,
+    "rating": 2,
     "url": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
     "tags": [
-
+      [
+        "mint"
+      ],
+      "weekend"
     ]
   },
   {
@@ -1169,34 +1188,36 @@
     "title": "Steak with Jammy Vinegar and Shallots",
     "source": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "beef",
     "herbs": [
 
     ],
-    "day_of_week": "",
+    "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
     "rating": 0,
     "url": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
     "tags": [
-
+      "beef",
+      "weekday"
     ]
   },
   {
     "title": "Farro and Crunchy Thangs Salad",
     "source": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "grain",
     "herbs": [
 
     ],
-    "day_of_week": "",
+    "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
-    "rating": 0,
+    "rating": 3,
     "url": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
     "tags": [
-
+      "grain",
+      "weekday"
     ]
   },
   {
@@ -1220,7 +1241,7 @@
     "title": "Caesared Egg Sally Salad",
     "source": "https://mollybaz.com/caesared-egg-sally/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "egg",
     "herbs": [
 
     ],
@@ -1230,14 +1251,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/caesared-egg-sally/",
     "tags": [
-
+      "egg"
     ]
   },
   {
     "title": "Spiced Green Meatballs with Pickle Rice and Salty Yogurt",
     "source": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "beef",
     "herbs": [
 
     ],
@@ -1247,14 +1268,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
     "tags": [
-
+      "beef"
     ]
   },
   {
     "title": "Summer Ragu with Pork, Zucchini, and Mint",
     "source": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "pork",
     "herbs": [
 
     ],
@@ -1264,7 +1285,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
     "tags": [
-
+      "pork"
     ]
   },
   {
@@ -1308,7 +1329,7 @@
     "title": "Chicken Piccata with Sungolds, Chilies, and Wilted Basil",
     "source": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "chicken",
     "herbs": [
 
     ],
@@ -1318,14 +1339,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
     "tags": [
-
+      "chicken"
     ]
   },
   {
     "title": "Grilled Pork Steaks Giardiniera",
     "source": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "pork",
     "herbs": [
 
     ],
@@ -1335,6 +1356,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
     "tags": [
+      "pork",
       "weekend"
     ]
   },
@@ -1342,7 +1364,7 @@
     "title": "Skirt Steak with Tomatoes and Salsa Macha",
     "source": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "steak",
     "herbs": [
 
     ],
@@ -1352,7 +1374,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
     "tags": [
-
+      "steak"
     ]
   },
   {
@@ -1376,7 +1398,7 @@
     "title": "Minty Lamb Chops with Charred Dates, Whipped Feta, and Smashed Cukes",
     "source": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "lamb",
     "herbs": [
 
     ],
@@ -1386,6 +1408,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
     "tags": [
+      "lamb",
       "weekend"
     ]
   },
@@ -1393,7 +1416,7 @@
     "title": "Pork Milanese with Tonnato and Celery Salad",
     "source": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "pork",
     "herbs": [
 
     ],
@@ -1403,14 +1426,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
     "tags": [
-
+      "pork"
     ]
   },
   {
     "title": "Crispy Pork Cutlets with Curry Salt",
     "source": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "pork",
     "herbs": [
 
     ],
@@ -1420,7 +1443,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
     "tags": [
-
+      "pork"
     ]
   },
   {
@@ -1461,7 +1484,7 @@
     "title": "Gochujang and Honey Braised Short Ribs",
     "source": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "beef",
     "herbs": [
 
     ],
@@ -1471,14 +1494,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
     "tags": [
-
+      "beef"
     ]
   },
   {
     "title": "Slow Roast Salmon with Citrus, Soy Butter, and Basil",
     "source": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "salmon",
     "herbs": [
 
     ],
@@ -1488,14 +1511,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
     "tags": [
-
+      "salmon"
     ]
   },
   {
     "title": "Rib Eye Steaks with Cracked Olive",
     "source": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "beef",
     "herbs": [
 
     ],
@@ -1505,14 +1528,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
     "tags": [
-
+      "beef"
     ]
   },
   {
     "title": "Crispy Chicken Cutlets with Lemon Poppy",
     "source": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "chicken",
     "herbs": [
 
     ],
@@ -1522,7 +1545,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
     "tags": [
-
+      "chicken"
     ]
   },
   {
@@ -1563,7 +1586,7 @@
     "title": "Beef and Scallion Skewer with Spicy Coconut Green Sauce",
     "source": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "beef",
     "herbs": [
 
     ],
@@ -1573,14 +1596,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
     "tags": [
-
+      "beef"
     ]
   },
   {
     "title": "Pork and Pistachio Meat Balls",
     "source": "https://mollybaz.com/pork-and-pistachio-meatballs/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "pork",
     "herbs": [
 
     ],
@@ -1590,14 +1613,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/pork-and-pistachio-meatballs/",
     "tags": [
-
+      "pork"
     ]
   },
   {
     "title": "Reverse Sear Ribeye with Caesar Butter",
     "source": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "beef",
     "herbs": [
 
     ],
@@ -1607,14 +1630,14 @@
     "rating": 0,
     "url": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
     "tags": [
-
+      "beef"
     ]
   },
   {
     "title": "Salt and Vinegar Pork Ribs with Seedy Hot Honey",
     "source": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "pork",
     "herbs": [
 
     ],
@@ -1624,6 +1647,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
     "tags": [
+      "pork",
       "weekend"
     ]
   },
@@ -1665,7 +1689,7 @@
     "title": "5 Spice Short Ribs with Chilies and Wilted Basil",
     "source": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": "beef",
     "herbs": [
 
     ],
@@ -1675,6 +1699,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
     "tags": [
+      "beef",
       "weekend"
     ]
   },
@@ -1693,6 +1718,178 @@
     "url": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
     "tags": [
 
+    ]
+  },
+  {
+    "title": "Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill",
+    "source": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
+    "author": "Lidey Heuck",
+    "protein": "chicken",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
+    "tags": [
+      "chicken"
+    ]
+  },
+  {
+    "title": "Cumin Lamb Meatballs with Tahini Yogurt Dipping Sauce",
+    "source": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
+    "author": "Melissa Clark",
+    "protein": "lamb",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
+    "tags": [
+      "lamb"
+    ]
+  },
+  {
+    "title": "Slow-Cooker Chipotle Honey Chicken Tacos",
+    "source": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos",
+    "author": "Sarah DiGregorio",
+    "protein": "chicken",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos",
+    "tags": [
+      "chicken"
+    ]
+  },
+  {
+    "title": "Spicy Sesame Noodles with Chicken and Peanuts",
+    "source": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+    "author": null,
+    "protein": "pork",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+    "tags": [
+      "pork"
+    ]
+  },
+  {
+    "title": "Classic Lasagna",
+    "source": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
+    "author": null,
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Sweet and Salty Grilled Steak with Cucumber Salad",
+    "source": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
+    "author": null,
+    "protein": "beef",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
+    "tags": [
+      "beef"
+    ]
+  },
+  {
+    "title": "Chicken Quesadillas With Avocado-Cucumber Salsa",
+    "source": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
+    "author": null,
+    "protein": "chicken",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
+    "tags": [
+      "chicken"
+    ]
+  },
+  {
+    "title": "Beef and Bacon Stew",
+    "source": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
+    "author": "Molly Baz",
+    "protein": "beef",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
+    "tags": [
+      "beef"
+    ]
+  },
+  {
+    "title": "Sheet Pan Harissa Salmon with Potatoes and Citrus",
+    "source": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
+    "author": null,
+    "protein": "salmon",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
+    "tags": [
+      "salmon",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Maple and Miso Sheet Pan Salmon with Green Beans",
+    "source": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
+    "author": null,
+    "protein": "salmon",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
+    "tags": [
+      "salmon",
+      "weekday"
     ]
   },
   {

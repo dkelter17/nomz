@@ -32,7 +32,7 @@ rows = CSV.read(tsv_db_file_path, headers: true, col_sep: "\t", liberal_parsing:
 
 class Recipe < Struct.new(:title, :source, :author, :protein, :herbs, :day_of_week, :feeds, :season, :rating, :url, :tags)
   def self.create(title:, source:, author:, protein:, herbs:, day_of_week:, feeds:, season:, rating:, tags:)
-    url = if source.start_with?("http")
+    url = if source.to_s.start_with?("http")
       source
     else
       nil
@@ -46,6 +46,7 @@ class Recipe < Struct.new(:title, :source, :author, :protein, :herbs, :day_of_we
 end
 
 recipe_list = rows.each_with_object([]) do |row, memo|
+  next if row["Source"].nil?
   memo << Recipe.create(
     title: row["Recipe Name"],
     source: row["Source"],
