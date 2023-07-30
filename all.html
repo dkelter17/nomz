@@ -1,0 +1,31 @@
+---
+layout: page
+title: Browse All
+include_in_header: true
+---
+
+<ul>
+    {%- for category in site.data.categories -%}
+    <li><a href="#{{category}}">{{ category | capitalize }}!</a></li>
+    {%- endfor -%}
+    <li><a href="#other">Other!</a></li>
+</ul>
+
+{%- for category in site.data.categories -%}
+<h2 id="{{category}}">&rarr; {{ category | capitalize }}!</h2>
+
+<ul class="recipe-list">
+    {%- for recipe in site.recipes -%}
+    {%- unless recipe.category == category -%}{%- continue -%}{%- endunless -%}
+    <li>
+        <h5>
+            <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title |
+                escape }}</a>
+            {%- for tag in recipe.tags -%}
+            <span class="post-meta">#{{tag}}</span>
+            {%- endfor -%}
+        </h5>
+    </li>
+    {%- endfor -%}
+</ul>
+{%- endfor -%}
