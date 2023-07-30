@@ -7,6 +7,13 @@ tags:
 - one-pot
 - stew
 external-url: https://www.youtube.com/watch?v=tV7q_ZoR1AE
+author: null
+protein: beef
+herbs: null
+day_of_week: weekend
+feeds: 4
+season: winter
+rating: 2
 ---
 
 ### Ingredients

@@ -1,0 +1,7 @@
+---
+---
+[
+{% for recipe_from_db in site.data.recipe_database %}
+  {{ recipe_from_db | jsonify }}{% unless forloop.last %},{% endunless -%}
+{% endfor %}
+]

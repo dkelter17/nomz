@@ -64,6 +64,10 @@ $on-laptop:        800px;
   }
 }
 
+.site-nav {
+  padding-right: 1em;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;

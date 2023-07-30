@@ -1,0 +1,23 @@
+---
+layout: default
+title: Randomizer
+include_in_header: true
+---
+
+<div class="home">
+
+  <div id="search-results"></div>
+
+  <h1 class="page-heading">Randomizer</h1>
+
+  <p>
+    How many recipes?
+    <input type="text" id="randomizer-numResults" value="10" />
+    <input type="submit" id="randomizer-submit" value="Generate" />
+  </p>
+
+  <div id="randomizer-results"></div>
+
+</div>
+
+<script type="application/javascript">document.recipesRandomizer = {indexURL: "{{ '/assets/db.json' | relative_url }}"};</script>

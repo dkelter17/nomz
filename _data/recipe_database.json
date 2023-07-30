@@ -1,0 +1,2142 @@
+[
+  {
+    "title": "Pastrami Roast Chicken with Schmaltzy Onions & Dill",
+    "source": "Cook This Book p. 61",
+    "author": "Molly Baz",
+    "protein": "chicken",
+    "herbs": [
+      "dill"
+    ],
+    "day_of_week": "weekend",
+    "feeds": 4,
+    "season": "winter",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Minty Lamb Meatballs with Crispy Cabbage and Tahini Sauce",
+    "source": "Cook This Book p. 97",
+    "author": "Molly Baz",
+    "protein": "lamb",
+    "herbs": [
+      "mint"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "winter",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Coconut Shrimp with Crushed Chickpeas and Basil",
+    "source": "Cook This Book p. 107",
+    "author": "Molly Baz",
+    "protein": "shrimp",
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "summer",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Crispy Buttered Shrimp with 20 Cloves of Garlic",
+    "source": "Cook This Book p. 116",
+    "author": "Molly Baz",
+    "protein": "shrimp",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "shrimp",
+      "weekday"
+    ]
+  },
+  {
+    "title": "One Pot Chicken and Schmalzy Rice and Lemony Yog",
+    "source": "Cook This Book p. 116",
+    "author": "Molly Baz",
+    "protein": "chicken",
+    "herbs": [
+      "dill/cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "chicken",
+      [
+        "dill",
+        "cilantro"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Fried Eggplant Stacks",
+    "source": "One Pan, Two Plates Vegetarian p. 77",
+    "author": "Carla Synder",
+    "protein": "chicken (optional)",
+    "herbs": [
+      "cilantro",
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "chicken (optional)",
+      [
+        "cilantro"
+      ],
+      [
+        "parsley"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Butternut Risotto",
+    "source": "One Pan, Two Plates Vegetarian p. 122",
+    "author": "Carla Synder",
+    "protein": "",
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekend",
+    "feeds": 2,
+    "season": "autumn",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      [
+        "parsley"
+      ],
+      "autumn",
+      "weekend"
+    ]
+  },
+  {
+    "title": "Crunchy Black Bean Tacos",
+    "source": "One Pan, Two Plates Vegetarian p. 139",
+    "author": "Carla Synder",
+    "protein": "",
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      [
+        "cilantro"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Linguinie with Ricotta, Zucchini, Sundried Tomato, and Lemon",
+    "source": "One Pan, Two Plates Vegetarian p. 150",
+    "author": "Carla Synder",
+    "protein": "",
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "summer",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      [
+        "parsley"
+      ],
+      "summer",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Fig Pizza with Brie and Arugula",
+    "source": "One Pan, Two Plates Vegetarian p. 179",
+    "author": "Carla Synder",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 2,
+    "season": "",
+    "rating": 3,
+    "url": null,
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Roasted Moroccan Tart with Harissa",
+    "source": "One Pan, Two Plates Vegetarian p. 187",
+    "author": "Carla Synder",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 3,
+    "url": null,
+    "tags": [
+      "weekday"
+    ]
+  },
+  {
+    "title": "Three-Cheese Mac with Crispy Prosciutto",
+    "source": "One Pan, Two Plates p. 19",
+    "author": "Carla Synder",
+    "protein": "prosciutto",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "prosciutto",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Fresh Summer Pasta with Tomatoes, Garlic, Basil, and Buttery Croutons",
+    "source": "One Pan, Two Plates p. 21",
+    "author": "Carla Synder",
+    "protein": "",
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "summer",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      [
+        "basil"
+      ],
+      "summer",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Lo Mein Noodles with Chicken, Snow Peas, and Peanut Sauce",
+    "source": "One Pan, Two Plates p. 34",
+    "author": "Carla Synder",
+    "protein": "chicken",
+    "herbs": [
+      "cilantro (optional)"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 3,
+    "url": null,
+    "tags": [
+      "chicken",
+      [
+        "cilantro (optional)"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Pad Thai",
+    "source": "One Pan, Two Plates p. 36",
+    "author": "Carla Synder",
+    "protein": "shrimps",
+    "herbs": [
+      "cilantro (optional)"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "shrimps",
+      [
+        "cilantro (optional)"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Crispy Sage Pork Cutlets, with Couscous, Peas, Figs, and Pistachios",
+    "source": "One Pan, Two Plates p. 76",
+    "author": "Carla Synder",
+    "protein": "pork",
+    "herbs": [
+      "sage"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "pork",
+      [
+        "sage"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Spicy Pork Stir-Fry with Lime, Cashews, and Noodles",
+    "source": "One Pan, Two Plates p. 84",
+    "author": "Carla Synder",
+    "protein": "pork",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "pork",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Spicy Orange Beef Stir Fry with Snow Peas and Carrots",
+    "source": "One Pan, Two Plates p. 86",
+    "author": "Carla Synder",
+    "protein": "beef",
+    "herbs": [
+      "cilantro (optional)"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "beef",
+      [
+        "cilantro (optional)"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Skirt Steak Fajitas with Pico de Gallo and Avocado",
+    "source": "One Pan, Two Plates p. 90",
+    "author": "Carla Synder",
+    "protein": "beef",
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 3,
+    "url": null,
+    "tags": [
+      "beef",
+      [
+        "cilantro"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Rib Eye Steaks Florentine, with Parsnip and Potato Gallette",
+    "source": "One Pan, Two Plates p. 92",
+    "author": "Carla Synder",
+    "protein": "beef",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "beef",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Flank Steak with Chimichurri and Summer Squash Hash",
+    "source": "One Pan, Two Plates p. 97",
+    "author": "Carla Synder",
+    "protein": "beef",
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 3,
+    "url": null,
+    "tags": [
+      "beef",
+      [
+        "parsley"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Beef Stew in High Heels",
+    "source": "One Pan, Two Plates p. 102",
+    "author": "Carla Synder",
+    "protein": "beef",
+    "herbs": [
+      "parsley (optional)"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "winter",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Fluffy Spring Frittatta with Asparagus, Bell Peppers, and Gruyere",
+    "source": "One Pan, Two Plates p. 118",
+    "author": "Carla Synder",
+    "protein": "eggs",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "spring",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Chicken Stew with Tomatoes, Oranges, and Olives",
+    "source": "One Pan, Two Plates p. 133",
+    "author": "Carla Synder",
+    "protein": "chicken",
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "chicken",
+      [
+        "parsley"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "One Pan Roast Deviled Chicken, with Carrots, Turnips, and Parsnips",
+    "source": "One Pan, Two Plates p. 141",
+    "author": "Carla Synder",
+    "protein": "chicken",
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "chicken",
+      [
+        "parsley"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Yellow Curry Chicken with Green Beans and Potatoes",
+    "source": "One Pan, Two Plates p. 148",
+    "author": "Carla Synder",
+    "protein": "chicken",
+    "herbs": [
+      "cilantro (optional)"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "chicken",
+      [
+        "cilantro (optional)"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Thyme-Rubbed Salmon with Shallots and Carmelized Cauliflower \"Risotto\"",
+    "source": "One Pan, Two Plates p. 166",
+    "author": "Carla Synder",
+    "protein": "salmon",
+    "herbs": [
+      "thyme"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "salmon",
+      [
+        "thyme"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Prosciutto-Wrapped Salmon with Corn and Poblano Succotash",
+    "source": "One Pan, Two Plates p. 171",
+    "author": "Carla Synder",
+    "protein": "salmon",
+    "herbs": [
+      "basil (optional)"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "summer",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Flash-Roasted Tilapia with New Potatoes, Peas, and Pesto Mayo",
+    "source": "One Pan, Two Plates p. 176",
+    "author": "Carla Synder",
+    "protein": "tilapia",
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "summer",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Baked Halibut with Warm Fennel Zucchini Chopped Salad",
+    "source": "One Pan, Two Plates p. 183",
+    "author": "Carla Synder",
+    "protein": "halibut",
+    "herbs": [
+      "thyme"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "summer",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Fish Tacos with Chipotle Slaw",
+    "source": "One Pan, Two Plates p. 191",
+    "author": "Carla Synder",
+    "protein": "tilapia",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 3,
+    "url": null,
+    "tags": [
+      "tilapia",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Stir-Fried Ginger Shrimp with Sugar Snap Peas, Red Bell Peppers, and Corn",
+    "source": "One Pan, Two Plates p. 196",
+    "author": "Carla Synder",
+    "protein": "shrimp",
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 2,
+    "season": "",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "shrimp",
+      [
+        "cilantro"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Pan-Roasted Salmon with Cauli-tarter sauce and chive vinaigrette",
+    "source": "Where Cooking Begins, p. 187",
+    "author": "Carla Lalli Music",
+    "protein": "salmon",
+    "herbs": [
+      "chives",
+      "cilantro/dill/parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "salmon",
+      [
+        "chives"
+      ],
+      [
+        "cilantro",
+        "dill",
+        "parsley"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Chicken Cutlets with Spicy Coconut Dressing",
+    "source": "Where Cooking Begins, p. 167",
+    "author": "Carla Lalli Music",
+    "protein": "chicken",
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "chicken",
+      [
+        "cilantro"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Rack-Roasted Chicken with Gravy Potatoes",
+    "source": "Where Cooking Begins, p. 163",
+    "author": "Carla Lalli Music",
+    "protein": "chicken",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 4,
+    "season": "winter",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Greek-ish grain salad",
+    "source": "Where Cooking Begins, p. 151",
+    "author": "Carla Lalli Music",
+    "protein": "grain",
+    "herbs": [
+      "mint"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "grain",
+      [
+        "mint"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Caprese Mac & Cheese",
+    "source": "Where Cooking Begins, p. 144",
+    "author": "Carla Lalli Music",
+    "protein": "",
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 6,
+    "season": "summer",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      [
+        "basil"
+      ],
+      "summer",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Teriyaki Crispy Tofu with Broccolini + Carrots",
+    "source": "Mostly Plants p. 150",
+    "author": "Pollen Family",
+    "protein": "tofu",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "tofu",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Red Lentil and Bean Chili",
+    "source": "Mostly Plants p. 88",
+    "author": "Pollen Family",
+    "protein": "lentil, bean",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 6,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "lentil, bean",
+      "weekday"
+    ]
+  },
+  {
+    "title": "White Bean and Kale Quesadillas",
+    "source": "Mostly Plants p. 96",
+    "author": "Pollen Family",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "weekday"
+    ]
+  },
+  {
+    "title": "Buddha Bowl with Roasted Sweet Potatoes, Spiced Chickpeas, and Chard",
+    "source": "Mostly Plants p. 113",
+    "author": "Pollen Family",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "weekday"
+    ]
+  },
+  {
+    "title": "Cavatappi with Broccolini, Brown Butter, and Sage",
+    "source": "Mostly Plants p. 129",
+    "author": "Pollen Family",
+    "protein": "",
+    "herbs": [
+      "sage"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      [
+        "sage"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Penne with Roasted Vegetables and Mozarella",
+    "source": "Mostly Plants p. 126",
+    "author": "Pollen Family",
+    "protein": "",
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "summer",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      [
+        "basil"
+      ],
+      "summer",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Homeroom",
+    "source": "Homeroom",
+    "author": null,
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 8,
+    "season": "winter",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "winter",
+      "weekend"
+    ]
+  },
+  {
+    "title": "Rack-Roasted Chicken with Winter Squash and Chile Yogurt",
+    "source": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
+    "author": "Carla Lalli Music",
+    "protein": "chicken",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 6,
+    "season": "winter",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Crispy Chicken Confit and Potatoes",
+    "source": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
+    "author": "Carla Lalli Music",
+    "protein": "chicken",
+    "herbs": [
+      "chives"
+    ],
+    "day_of_week": "weekend",
+    "feeds": 6,
+    "season": "winter",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
+    "tags": [
+      "fallback"
+    ]
+  },
+  {
+    "title": "Crispy Fish Sandwich with Super Special Tarter Sauce",
+    "source": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
+    "author": "Carla Lalli Music",
+    "protein": "tilapia",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
+    "tags": [
+      "tilapia",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Seared Lamb Patty with Marinated Halloumi and Herbs",
+    "source": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
+    "author": "Carla Lalli Music",
+    "protein": "lamb",
+    "herbs": [
+      "dill/cilantro/parsley/chives"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 4,
+    "season": "",
+    "rating": 3,
+    "url": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
+    "tags": [
+      "lamb",
+      [
+        "dill",
+        "cilantro",
+        "parsley",
+        "chives"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Spaghetti with Melted Caulfilower Sauce",
+    "source": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
+    "author": "Carla Lalli Music",
+    "protein": "",
+    "herbs": [
+      "mint"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
+    "tags": [
+      [
+        "mint"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Summery Corn Pasta",
+    "source": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
+    "author": "Carla Lalli Music",
+    "protein": "",
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
+    "tags": [
+      [
+        "basil"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Gingery Ground Beef with Lime and Herbs",
+    "source": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
+    "author": "Carla Lalli Music",
+    "protein": "beef",
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
+    "tags": [
+      "beef",
+      [
+        "cilantro"
+      ],
+      "weekday"
+    ]
+  },
+  {
+    "title": "Peanut Tofu Quinoa Stir Fry",
+    "source": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
+    "author": "Work Week Lunch",
+    "protein": "tofu",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
+    "tags": [
+      "tofu",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Fried Rice",
+    "source": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
+    "author": null,
+    "protein": "pork",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
+    "tags": [
+      "pork",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Cheesy Fennel and Beans Baked in Cream",
+    "source": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Harissa Grilled Chicken Flat Bread with Pistachio-Lime Yogurt",
+    "source": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "White Bean Bolognese",
+    "source": "https://mollybaz.com/white-bean-bolognese/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/white-bean-bolognese/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Leaf-Peepin' Ragu",
+    "source": "https://mollybaz.com/leaf-peepin-ragu/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "autumn",
+    "rating": 0,
+    "url": "https://mollybaz.com/leaf-peepin-ragu/",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "title": "Crispy Salmon with Coconut Rice and Crackle Sauce",
+    "source": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Chicky Chicky Bread Bread",
+    "source": "https://mollybaz.com/chicky-chicky-bread-bread/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/chicky-chicky-bread-bread/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Spicy Cauliflower Ragu",
+    "source": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Crispy Broccoli and Chickpea Bowls with Peanut Sauce",
+    "source": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Steak with Jammy Vinegar and Shallots",
+    "source": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Farro and Crunchy Thangs Salad",
+    "source": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Rigatoni with Creamed Leeks and Chivey Breadcrumbs",
+    "source": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Caesared Egg Sally Salad",
+    "source": "https://mollybaz.com/caesared-egg-sally/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/caesared-egg-sally/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Spiced Green Meatballs with Pickle Rice and Salty Yogurt",
+    "source": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Summer Ragu with Pork, Zucchini, and Mint",
+    "source": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Salad Pizza with Ricotta, and Anchovy-Garlic Oil",
+    "source": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+      "parsley/basil"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
+    "tags": [
+      [
+        "parsley",
+        "basil"
+      ]
+    ]
+  },
+  {
+    "title": "Corn and Tomato Salad with Spicy Bagna Cauda and Salty Peanuts",
+    "source": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Chicken Piccata with Sungolds, Chilies, and Wilted Basil",
+    "source": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Grilled Pork Steaks Giardiniera",
+    "source": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Skirt Steak with Tomatoes and Salsa Macha",
+    "source": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Corn and Basil Cacio e Pepe",
+    "source": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Minty Lamb Chops with Charred Dates, Whipped Feta, and Smashed Cukes",
+    "source": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Pork Milanese with Tonnato and Celery Salad",
+    "source": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Crispy Pork Cutlets with Curry Salt",
+    "source": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Crazy Pasta Salad with Cucumber Corn Salad",
+    "source": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Spaghetti with Melted Onions and Pecorino",
+    "source": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Gochujang and Honey Braised Short Ribs",
+    "source": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Slow Roast Salmon with Citrus, Soy Butter, and Basil",
+    "source": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Rib Eye Steaks with Cracked Olive",
+    "source": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Crispy Chicken Cutlets with Lemon Poppy",
+    "source": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Braised Big Beans and Squash with Feta and Chopped Lemon",
+    "source": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Zuppa all’Amatriciana with Crispy Cacio e Pepe",
+    "source": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Beef and Scallion Skewer with Spicy Coconut Green Sauce",
+    "source": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Pork and Pistachio Meat Balls",
+    "source": "https://mollybaz.com/pork-and-pistachio-meatballs/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/pork-and-pistachio-meatballs/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Reverse Sear Ribeye with Caesar Butter",
+    "source": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Salt and Vinegar Pork Ribs with Seedy Hot Honey",
+    "source": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Big Noods alla Gin with Sungold Tomatoes",
+    "source": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Smoky Pepper and Chickpea Pasta Salad",
+    "source": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "5 Spice Short Ribs with Chilies and Wilted Basil",
+    "source": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Molly Marbella with Dates and Israeli Couscous",
+    "source": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
+    "author": "Molly Baz",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Braised Lemongrass Short Rib Noodle Bowl",
+    "source": "https://dkelter17.github.io/nomz/recipes/braised-lemongrass-short-rib-noodle-bowl.html",
+    "author": null,
+    "protein": "beef",
+    "herbs": null,
+    "day_of_week": "weekend",
+    "feeds": 4,
+    "season": "winter",
+    "rating": 2,
+    "url": "https://dkelter17.github.io/nomz/recipes/braised-lemongrass-short-rib-noodle-bowl.html",
+    "tags": [
+      "beef",
+      "one-pot",
+      "stew"
+    ]
+  },
+  {
+    "title": "Carla's Calabrian Chicken Thighs & Cooling Salad",
+    "source": "https://dkelter17.github.io/nomz/recipes/carlas-calabrian-chicken-thigs-and-cooling-salad.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/carlas-calabrian-chicken-thigs-and-cooling-salad.html",
+    "tags": [
+      "chicken"
+    ]
+  },
+  {
+    "title": "Carla's White Beans",
+    "source": "https://dkelter17.github.io/nomz/recipes/carlas-white-beans.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/carlas-white-beans.html",
+    "tags": [
+      "veg",
+      "bon-appetit"
+    ]
+  },
+  {
+    "title": "Cheesy Taco Rice with Chicken",
+    "source": "https://dkelter17.github.io/nomz/recipes/cheesy-taco-rice-with-chicken.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/cheesy-taco-rice-with-chicken.html",
+    "tags": [
+      "chicken",
+      "rice",
+      "workweeklunch"
+    ]
+  },
+  {
+    "title": "Chicken Marbella",
+    "source": "https://dkelter17.github.io/nomz/recipes/chicken-marbella.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/chicken-marbella.html",
+    "tags": [
+      "chicken",
+      "one-pan"
+    ]
+  },
+  {
+    "title": "Chili",
+    "source": "https://dkelter17.github.io/nomz/recipes/chili.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/chili.html",
+    "tags": [
+      "beef",
+      "one-pot",
+      "leftovers"
+    ]
+  },
+  {
+    "title": "Coconut Cod Chowder",
+    "source": "https://dkelter17.github.io/nomz/recipes/coconut-cod-chowder.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/coconut-cod-chowder.html",
+    "tags": [
+      "fish",
+      "bon-appetit",
+      "asian-ish"
+    ]
+  },
+  {
+    "title": "Corn Chowder",
+    "source": "https://dkelter17.github.io/nomz/recipes/corn-chowder.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/corn-chowder.html",
+    "tags": [
+      "chicken",
+      "coconut"
+    ]
+  },
+  {
+    "title": "Crockpot BBQ Chicken",
+    "source": "https://dkelter17.github.io/nomz/recipes/crockpot-bbq-chicken.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/crockpot-bbq-chicken.html",
+    "tags": [
+      "chicken",
+      "one-pot"
+    ]
+  },
+  {
+    "title": "Sheet-Pan Garlicky Shrimp and White Beans",
+    "source": "https://dkelter17.github.io/nomz/recipes/garlicky-shrimp-and-white-beans.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/garlicky-shrimp-and-white-beans.html",
+    "tags": [
+      "bread"
+    ]
+  },
+  {
+    "title": "Gingery Chicken and Rice With Peanut Sauce",
+    "source": "https://dkelter17.github.io/nomz/recipes/gingery-chicken-and-rice-with-peanut-sauce.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/gingery-chicken-and-rice-with-peanut-sauce.html",
+    "tags": [
+      "chicken",
+      "bon-appetit",
+      "asian-ish",
+      "peanut",
+      "rice"
+    ]
+  },
+  {
+    "title": "Gochujang Burgers",
+    "source": "https://dkelter17.github.io/nomz/recipes/gochujang-burgers.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/gochujang-burgers.html",
+    "tags": [
+      "spicy"
+    ]
+  },
+  {
+    "title": "Grandma Pie",
+    "source": "https://dkelter17.github.io/nomz/recipes/grandma-pie.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/grandma-pie.html",
+    "tags": [
+      "pizza"
+    ]
+  },
+  {
+    "title": "Jamie Oliver's Spicy Sausage Fusilli",
+    "source": "https://dkelter17.github.io/nomz/recipes/jamie-oliver-spicy-sausage-fusilli.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/jamie-oliver-spicy-sausage-fusilli.html",
+    "tags": [
+      "pasta",
+      "sausage",
+      "jamie-oliver"
+    ]
+  },
+  {
+    "title": "Maple Miso Salmon",
+    "source": "https://dkelter17.github.io/nomz/recipes/maple-miso-salmon.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/maple-miso-salmon.html",
+    "tags": [
+      "salmon",
+      "fast",
+      "sheet-pan",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "One Skillet Rotisserie Chicken Pot Pie",
+    "source": "https://dkelter17.github.io/nomz/recipes/one-skillet-rotisserie-chicken-pot-pie-ba.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/one-skillet-rotisserie-chicken-pot-pie-ba.html",
+    "tags": [
+      "meal",
+      "bon-appetit",
+      "external"
+    ]
+  },
+  {
+    "title": "Peanut Chicken & Veggies Stir Fry",
+    "source": "https://dkelter17.github.io/nomz/recipes/peanut-chicken-veggies-stir-fry.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/peanut-chicken-veggies-stir-fry.html",
+    "tags": [
+      "chicken",
+      "asian-ish",
+      "workweeklunch"
+    ]
+  },
+  {
+    "title": "Piri-Piri Meatballs",
+    "source": "https://dkelter17.github.io/nomz/recipes/piri-piri-meatballs.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/piri-piri-meatballs.html",
+    "tags": [
+      "beef",
+      "bon-appetit",
+      "fast"
+    ]
+  },
+  {
+    "title": "Pizza Pasta",
+    "source": "https://dkelter17.github.io/nomz/recipes/pizza-pasta.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/pizza-pasta.html",
+    "tags": [
+      "pasta",
+      "sausage"
+    ]
+  },
+  {
+    "title": "Roasted Cauliflower with Whipped Cheese",
+    "source": "https://dkelter17.github.io/nomz/recipes/roasted-cauliflower-with-whipped-cheese.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/roasted-cauliflower-with-whipped-cheese.html",
+    "tags": [
+      "veg"
+    ]
+  },
+  {
+    "title": "Slow-Roast Gochujang Chicken",
+    "source": "https://dkelter17.github.io/nomz/recipes/slow-roast-gochujang-chicken.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/slow-roast-gochujang-chicken.html",
+    "tags": [
+      "bon-appetit"
+    ]
+  },
+  {
+    "title": "Southwest Quinoa",
+    "source": "https://dkelter17.github.io/nomz/recipes/southwest-quinoa.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/southwest-quinoa.html",
+    "tags": [
+      "chicken",
+      "grain",
+      "leftovers"
+    ]
+  },
+  {
+    "title": "Stir-fried Eggplant with Pork",
+    "source": "https://dkelter17.github.io/nomz/recipes/stir-fried-eggplant-with-pork.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/stir-fried-eggplant-with-pork.html",
+    "tags": [
+      "pork",
+      "eggplant",
+      "bon-appetit",
+      "asian-ish",
+      "diana"
+    ]
+  },
+  {
+    "title": "Thai Yellow Curry",
+    "source": "https://dkelter17.github.io/nomz/recipes/thai-yellow-curry.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/thai-yellow-curry.html",
+    "tags": [
+      "chicken",
+      "leftovers",
+      "asian-ish"
+    ]
+  },
+  {
+    "title": "Fish Tacos with Cabbage Slaw",
+    "source": "https://dkelter17.github.io/nomz/recipes/tilapia-fish-tacos.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/tilapia-fish-tacos.html",
+    "tags": [
+      "tilapia"
+    ]
+  },
+  {
+    "title": "Turmeric-Coconut Curry with Ground Pork",
+    "source": "https://dkelter17.github.io/nomz/recipes/turmeric-coconut-curry-with-ground-pork.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/turmeric-coconut-curry-with-ground-pork.html",
+    "tags": [
+      "pork",
+      "bon-appetit",
+      "asian-ish"
+    ]
+  },
+  {
+    "title": "Vegan Red Lentil Curry",
+    "source": "https://dkelter17.github.io/nomz/recipes/vegan-red-lentil-curry.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/vegan-red-lentil-curry.html",
+    "tags": [
+      "curry",
+      "vegan"
+    ]
+  }
+]
