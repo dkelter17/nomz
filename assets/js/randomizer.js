@@ -66,7 +66,7 @@ function displayRecipeResults(recipes) {
 (function(){
   document.addEventListener('readystatechange', (event) => {
     if (document.readyState === 'complete') {
-      if (document.location.pathname == '/randomizer.html'){
+      if (document.location.pathname == document.recipesRandomizer.htmlURL){
         loadRecipeDatabase(document)
       }
     }
