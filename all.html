@@ -5,27 +5,36 @@ include_in_header: true
 ---
 
 <ul>
-    {%- for category in site.data.categories -%}
-    <li><a href="#{{category}}">{{ category | capitalize }}!</a></li>
+    {%- for author in site.data.authors -%}
+    <li><a href="#{{author | slugify}}">{{ author }}</a></li>
     {%- endfor -%}
-    <li><a href="#other">Other!</a></li>
+    <li><a href="#other">Other</a></li>
 </ul>
 
-{%- for category in site.data.categories -%}
-<h2 id="{{category}}">&rarr; {{ category | capitalize }}!</h2>
+{%- for author in site.data.authors -%}
+<h2 id="{{ author | slugify }}">&rarr; {{ author }}</h2>
 
 <ul class="recipe-list">
-    {%- for recipe in site.recipes -%}
-    {%- unless recipe.category == category -%}{%- continue -%}{%- endunless -%}
+    {%- for recipe in site.data.recipe_database -%}
+    {%- unless recipe.author == author -%}{%- continue -%}{%- endunless -%}
     <li>
         <h5>
-            <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title |
-                escape }}</a>
-            {%- for tag in recipe.tags -%}
-            <span class="post-meta">#{{tag}}</span>
-            {%- endfor -%}
+            {% include db_recipe_full.html recipe=recipe %}
         </h5>
     </li>
     {%- endfor -%}
 </ul>
 {%- endfor -%}
+
+<h2 id="other">&rarr; Other!</h2>
+
+<ul class="recipe-list">
+  {%- for recipe in site.data.recipe_database -%}
+    {%- if site.data.authors contains recipe.author -%}{%- continue -%}{%- endif -%}
+    <li>
+      <h5>
+        {% include db_recipe_full.html recipe=recipe %}
+      </h5>
+    </li>
+  {%- endfor -%}
+</ul>

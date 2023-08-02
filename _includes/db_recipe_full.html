@@ -1,0 +1,10 @@
+{% if recipe.url %}
+<a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">
+    {{ recipe.emoji }} {{ recipe.title | escape }}
+</a>
+{% else %}
+<span class="recipe-link">{{ recipe.title }}</span> ({{ recipe.source }})
+{% endif %}
+{%- for tag in recipe.tags -%}
+<span class="post-meta">#{{tag}}</span>
+{%- endfor -%}
