@@ -68,6 +68,10 @@ $on-laptop:        800px;
   padding-right: 1em;
 }
 
+.no-bottom-margin {
+  margin-bottom: 0;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;

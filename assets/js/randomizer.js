@@ -17,7 +17,8 @@ function loadRecipeDatabase(document) {
 function setupRandomizer(document) {
   document.getElementById("randomizer-submit").addEventListener("click", (event) => {
     const randomizerQuery = {
-      numResults: document.getElementById("randomizer-numResults").value || 10
+      numResults: document.getElementById("randomizer-numResults").value || 10,
+      maxWeekendRecipes: document.getElementById("randomizer-maxWeekendRecipes").value || 1
     }
     const recipes = randomize(randomizerQuery)
     displayRecipeResults(recipes)
@@ -25,11 +26,19 @@ function setupRandomizer(document) {
 }
 
 function randomize(randomizerQuery) {
+  var weekendRecipesSeen = 0
   var recipes = []
   for (var i = 0; i < randomizerQuery.numResults; i++) {  // Generate random return values
-    recipes.push(
-      document.recipesRandomizer.recipes[Math.floor(Math.random() * document.recipesRandomizer.recipes.length)]
-    )
+    const randomIndex = Math.floor(Math.random() * document.recipesRandomizer.recipes.length)
+    const candidate = document.recipesRandomizer.recipes[randomIndex]
+    if (candidate.day_of_week == "weekend" && weekendRecipesSeen < randomizerQuery.maxWeekendRecipes){
+      recipes.push(candidate)
+      seenWeekend = true
+    } else if (candidate.day_of_week == "weekend") {
+      i--
+    } else {
+      recipes.push(candidate)
+    }
   }
   return recipes
 }
@@ -48,12 +57,13 @@ function displayRecipeResults(recipes) {
       if (item.url) {
         title = '<a href="' + item.url + '">' + title + '</a>'
       } else {
-        source = '<p>Source: ' + item.source + '</p>'
+        source = '<p class="no-bottom-margin">Source: ' + item.source + '</p>'
       }
       var tags = item.tags || []
       appendString += '<li>' + title + source + '</li>'
       if (tags.length > 0) {
-        appendString += '<p>Tags: ' + tags.join(" ") + '</p>'
+        const tagsWithHash = tags.map((tag) => `#${tag}`)
+        appendString += '<p>Tags: ' + tagsWithHash.join(" ") + '</p>'
       }
     }
 
