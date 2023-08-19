@@ -1853,6 +1853,98 @@
     ]
   },
   {
+    "title": "Grilled Squash with Nuoc Cham Chimichurri",
+    "source": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
+    "author": "Shuai Wang",
+    "protein": "",
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "summer",
+    "rating": 0,
+    "url": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
+    "tags": [
+      "parsley",
+      "summer",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Crispy Miso Beef",
+    "source": "https://www.mehreenkarim.com/recipes/crispy-miso-beef",
+    "author": "Mehreen Karim",
+    "protein": "beef",
+    "herbs": [
+      "ginger"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 3,
+    "url": "https://www.mehreenkarim.com/recipes/crispy-miso-beef",
+    "tags": [
+      "beef",
+      "ginger",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Toasted Sesame Oat Chocolate Chip Cookies",
+    "source": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
+    "author": "Mehreen Karim",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
+    "tags": [
+      "weekend"
+    ]
+  },
+  {
+    "title": "Crispy Chicken Au Poivre with Miso and Creme Fraiche",
+    "source": "https://mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche/",
+    "author": "Molly Baz",
+    "protein": "chicken",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "url": "https://mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche/",
+    "tags": [
+      "chicken",
+      "weekend"
+    ]
+  },
+  {
+    "title": "Chicken Thighs and Couscous",
+    "source": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
+    "author": "Hana Asbrink",
+    "protein": "chicken ",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "summer",
+    "rating": 1,
+    "url": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
+    "tags": [
+      "chicken ",
+      "summer",
+      "weekday"
+    ]
+  },
+  {
     "title": "Braised Lemongrass Short Rib Noodle Bowl",
     "source": "https://dkelter17.github.io/nomz/recipes/braised-lemongrass-short-rib-noodle-bowl.html",
     "author": null,
