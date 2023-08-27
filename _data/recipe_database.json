@@ -1945,6 +1945,45 @@
     ]
   },
   {
+    "title": "Salt and Pepper Tofu",
+    "source": "https://cooking.nytimes.com/recipes/1023343-salt-and-pepper-tofu",
+    "author": "Hetty Lui McKinnon",
+    "protein": "tofu",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "url": "https://cooking.nytimes.com/recipes/1023343-salt-and-pepper-tofu",
+    "tags": [
+      "tofu",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Crispy Mongolian Tofu",
+    "source": "https://chejorge.com/2020/07/06/crispy-mongolian-tofu/",
+    "author": "George L. ",
+    "protein": "tofu",
+    "herbs": [
+      "ginger",
+      "scallions"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "url": "https://chejorge.com/2020/07/06/crispy-mongolian-tofu/",
+    "tags": [
+      "tofu",
+      "ginger",
+      "scallions",
+      "weekday"
+    ]
+  },
+  {
     "title": "Braised Lemongrass Short Rib Noodle Bowl",
     "source": "https://dkelter17.github.io/nomz/recipes/braised-lemongrass-short-rib-noodle-bowl.html",
     "author": null,
