@@ -6,8 +6,9 @@
       "title": "{{ recipe.title | xml_escape }}",
       "category": "dinner",
       "tags": {{recipe.tags|jsonify}},
-      "content": "",
-      "url": "{{ recipe.source }}"
+      "content": {{ recipe.source | strip_newlines | jsonify }},
+      "url": "{{ recipe.url | xml_escape }}",
+      "external_url": "{{ recipe.url | xml_escape }}"
     },
   {% endfor -%}
   {%- for recipe in site.recipes -%}
