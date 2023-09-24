@@ -795,25 +795,6 @@
     ]
   },
   {
-    "title": "Penne with Roasted Vegetables and Mozarella",
-    "source": "Mostly Plants p. 126",
-    "author": "Pollen Family",
-    "protein": "",
-    "herbs": [
-      "basil"
-    ],
-    "day_of_week": "weekday",
-    "feeds": 4,
-    "season": "summer",
-    "rating": 0,
-    "url": null,
-    "tags": [
-      "basil",
-      "summer",
-      "weekday"
-    ]
-  },
-  {
     "title": "Homeroom Pasta",
     "source": "Homeroom",
     "author": null,
@@ -1998,6 +1979,25 @@
     "url": "https://mollybaz.com/spicy-scampi-with-burrata-and-pistachios/",
     "tags": [
       "shrimp",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Spiced, Grilled, and Swaddled Chicken Thighs with the Works",
+    "source": "Cook this Book p. 71",
+    "author": "Molly Baz",
+    "protein": "chicken",
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "chicken",
+      "cilantro",
       "weekday"
     ]
   },
