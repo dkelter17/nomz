@@ -36,6 +36,8 @@ function randomize(randomizerQuery) {
       seenWeekend = true
     } else if (candidate.day_of_week == "weekend") {
       i--
+    } else if (recipes.indexOf(candidate)) {
+      i--
     } else {
       recipes.push(candidate)
     }
