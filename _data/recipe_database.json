@@ -2002,6 +2002,24 @@
     ]
   },
   {
+    "title": "Salmon Curry",
+    "source": "https://www.mehreenkarim.com/recipes/salmon-curry",
+    "author": "Mehreen Karim",
+    "protein": "salmon",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "url": "https://www.mehreenkarim.com/recipes/salmon-curry",
+    "tags": [
+      "salmon",
+      "weekday"
+    ]
+  },
+  {
     "title": "Braised Lemongrass Short Rib Noodle Bowl",
     "source": "https://dkelter17.github.io/nomz/recipes/braised-lemongrass-short-rib-noodle-bowl.html",
     "author": null,
