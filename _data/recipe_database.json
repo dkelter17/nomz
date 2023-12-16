@@ -797,7 +797,7 @@
   {
     "title": "Homeroom Pasta",
     "source": "Homeroom",
-    "author": null,
+    "author": "Homeroom",
     "protein": "",
     "herbs": [
 
@@ -967,7 +967,7 @@
   {
     "title": "Fried Rice",
     "source": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
-    "author": null,
+    "author": "Jason's Mom",
     "protein": "pork",
     "herbs": [
 
@@ -1715,7 +1715,7 @@
   {
     "title": "Spicy Sesame Noodles with Chicken and Peanuts",
     "source": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
-    "author": null,
+    "author": "Ali Slagle",
     "protein": "pork",
     "herbs": [
 
@@ -1732,7 +1732,7 @@
   {
     "title": "Classic Lasagna",
     "source": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
-    "author": null,
+    "author": "Alison Roman",
     "protein": "",
     "herbs": [
 
@@ -1749,7 +1749,7 @@
   {
     "title": "Sweet and Salty Grilled Steak with Cucumber Salad",
     "source": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
-    "author": null,
+    "author": "Melissa Clark",
     "protein": "beef",
     "herbs": [
 
@@ -1766,7 +1766,7 @@
   {
     "title": "Chicken Quesadillas With Avocado-Cucumber Salsa",
     "source": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
-    "author": null,
+    "author": "Melissa Clark",
     "protein": "chicken",
     "herbs": [
 
@@ -1800,7 +1800,7 @@
   {
     "title": "Sheet Pan Harissa Salmon with Potatoes and Citrus",
     "source": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
-    "author": null,
+    "author": "Colu Henry",
     "protein": "salmon",
     "herbs": [
 
@@ -1818,7 +1818,7 @@
   {
     "title": "Maple and Miso Sheet Pan Salmon with Green Beans",
     "source": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
-    "author": null,
+    "author": "Colu Henry",
     "protein": "salmon",
     "herbs": [
 
@@ -2033,6 +2033,59 @@
     "rating": 2,
     "url": "https://www.bonappetit.com/recipe/melted-fennel-pasta",
     "tags": [
+      "weekday"
+    ]
+  },
+  {
+    "title": "Turkey, Farro and Chickpea Soup",
+    "source": "https://cooking.nytimes.com/recipes/1024864-turkey-farro-and-chickpea-soup",
+    "author": "Melissa Clark",
+    "protein": "chicken",
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "url": "https://cooking.nytimes.com/recipes/1024864-turkey-farro-and-chickpea-soup",
+    "tags": [
+      "chicken",
+      "cilantro",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Miso Macaroni & Cheese",
+    "source": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
+    "author": "Chris Rogienski",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "url": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
+    "tags": [
+      "weekday"
+    ]
+  },
+  {
+    "title": "Roasted Salmon with Marinated Olives and Potato Chips",
+    "source": "Cook This Book p. 115",
+    "author": "Molly Baz",
+    "protein": "salmon",
+    "herbs": [
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "url": null,
+    "tags": [
+      "salmon",
       "weekday"
     ]
   },

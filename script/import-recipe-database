@@ -85,4 +85,4 @@ site.collections["recipes"].docs.each do |doc|
   )
 end
 
-File.write(output_json_file_path, JSON.pretty_generate(recipe_list))
+File.write(output_json_file_path, JSON.pretty_generate(recipe_list)+"\n")
