@@ -1116,7 +1116,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "ginger"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1124,7 +1124,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
     "tags": [
-
+      "ginger"
     ]
   },
   {
@@ -1151,7 +1151,10 @@
     "author": "Molly Baz",
     "protein": "grain",
     "herbs": [
-
+      "cilantro",
+      "mint",
+      "parsley",
+      "basil"
     ],
     "day_of_week": "weekday",
     "feeds": 0,
@@ -1160,6 +1163,10 @@
     "url": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
     "tags": [
       "grain",
+      "cilantro",
+      "mint",
+      "parsley",
+      "basil",
       "weekday"
     ]
   },
@@ -1169,7 +1176,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "chives"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1177,7 +1184,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
     "tags": [
-
+      "chives"
     ]
   },
   {
@@ -1186,7 +1193,7 @@
     "author": "Molly Baz",
     "protein": "egg",
     "herbs": [
-
+      "celery"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1194,7 +1201,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/caesared-egg-sally/",
     "tags": [
-      "egg"
+      "egg",
+      "celery"
     ]
   },
   {
@@ -1203,7 +1211,10 @@
     "author": "Molly Baz",
     "protein": "beef",
     "herbs": [
-
+      "cilantro",
+      "mint",
+      "parsley",
+      "dill"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1211,7 +1222,11 @@
     "rating": 0,
     "url": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
     "tags": [
-      "beef"
+      "beef",
+      "cilantro",
+      "mint",
+      "parsley",
+      "dill"
     ]
   },
   {
@@ -1220,7 +1235,7 @@
     "author": "Molly Baz",
     "protein": "pork",
     "herbs": [
-
+      "mint"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1228,7 +1243,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
     "tags": [
-      "pork"
+      "pork",
+      "mint"
     ]
   },
   {
@@ -1237,7 +1253,8 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-      "parsley/basil"
+      "parsley",
+      "basil"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1255,7 +1272,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "cilantro"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1263,7 +1280,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
     "tags": [
-
+      "cilantro"
     ]
   },
   {
@@ -1272,7 +1289,7 @@
     "author": "Molly Baz",
     "protein": "chicken",
     "herbs": [
-
+      "basil"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1280,7 +1297,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
     "tags": [
-      "chicken"
+      "chicken",
+      "basil"
     ]
   },
   {
@@ -1289,7 +1307,7 @@
     "author": "Molly Baz",
     "protein": "pork",
     "herbs": [
-
+      "parsley"
     ],
     "day_of_week": "weekend",
     "feeds": 0,
@@ -1298,6 +1316,7 @@
     "url": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
     "tags": [
       "pork",
+      "parsley",
       "weekend"
     ]
   },
@@ -1324,7 +1343,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "basil"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1332,7 +1351,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
     "tags": [
-
+      "basil"
     ]
   },
   {
@@ -1341,7 +1360,7 @@
     "author": "Molly Baz",
     "protein": "lamb",
     "herbs": [
-
+      "mint"
     ],
     "day_of_week": "weekend",
     "feeds": 0,
@@ -1350,6 +1369,7 @@
     "url": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
     "tags": [
       "lamb",
+      "mint",
       "weekend"
     ]
   },
@@ -1359,7 +1379,8 @@
     "author": "Molly Baz",
     "protein": "pork",
     "herbs": [
-
+      "parsley",
+      "celery"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1367,7 +1388,9 @@
     "rating": 0,
     "url": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
     "tags": [
-      "pork"
+      "pork",
+      "parsley",
+      "celery"
     ]
   },
   {
@@ -1393,7 +1416,9 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "parsley",
+      "cilantro",
+      "dill"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1401,7 +1426,9 @@
     "rating": 0,
     "url": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
     "tags": [
-
+      "parsley",
+      "cilantro",
+      "dill"
     ]
   },
   {
@@ -1427,7 +1454,7 @@
     "author": "Molly Baz",
     "protein": "beef",
     "herbs": [
-
+      "parsley"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1435,7 +1462,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
     "tags": [
-      "beef"
+      "beef",
+      "parsley"
     ]
   },
   {
@@ -1444,7 +1472,7 @@
     "author": "Molly Baz",
     "protein": "salmon",
     "herbs": [
-
+      "basil"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1452,7 +1480,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
     "tags": [
-      "salmon"
+      "salmon",
+      "basil"
     ]
   },
   {
@@ -1461,7 +1490,9 @@
     "author": "Molly Baz",
     "protein": "beef",
     "herbs": [
-
+      "parsley",
+      "chives",
+      "scallions"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1469,7 +1500,10 @@
     "rating": 0,
     "url": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
     "tags": [
-      "beef"
+      "beef",
+      "parsley",
+      "chives",
+      "scallions"
     ]
   },
   {
@@ -1478,7 +1512,7 @@
     "author": "Molly Baz",
     "protein": "chicken",
     "herbs": [
-
+      "chives"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1486,7 +1520,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
     "tags": [
-      "chicken"
+      "chicken",
+      "chives"
     ]
   },
   {
@@ -1495,7 +1530,8 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "rosemary",
+      "parsley"
     ],
     "day_of_week": "weekend",
     "feeds": 0,
@@ -1503,6 +1539,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
     "tags": [
+      "rosemary",
+      "parsley",
       "weekend"
     ]
   },
@@ -1512,7 +1550,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "mint"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1520,7 +1558,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
     "tags": [
-
+      "mint"
     ]
   },
   {
@@ -1529,7 +1567,9 @@
     "author": "Molly Baz",
     "protein": "beef",
     "herbs": [
-
+      "ginger",
+      "scallions",
+      "cilantro"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1537,7 +1577,10 @@
     "rating": 0,
     "url": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
     "tags": [
-      "beef"
+      "beef",
+      "ginger",
+      "scallions",
+      "cilantro"
     ]
   },
   {
@@ -1546,7 +1589,7 @@
     "author": "Molly Baz",
     "protein": "pork",
     "herbs": [
-
+      "parsley"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1554,7 +1597,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/pork-and-pistachio-meatballs/",
     "tags": [
-      "pork"
+      "pork",
+      "parsley"
     ]
   },
   {
@@ -1563,7 +1607,7 @@
     "author": "Molly Baz",
     "protein": "beef",
     "herbs": [
-
+      "chives"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1571,7 +1615,8 @@
     "rating": 0,
     "url": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
     "tags": [
-      "beef"
+      "beef",
+      "chives"
     ]
   },
   {
@@ -1598,7 +1643,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "basil"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1606,7 +1651,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
     "tags": [
-
+      "basil"
     ]
   },
   {
@@ -1615,7 +1660,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "parsley"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1623,7 +1668,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
     "tags": [
-
+      "parsley"
     ]
   },
   {
@@ -1632,7 +1677,8 @@
     "author": "Molly Baz",
     "protein": "beef",
     "herbs": [
-
+      "ginger",
+      "basil"
     ],
     "day_of_week": "weekend",
     "feeds": 0,
@@ -1641,6 +1687,8 @@
     "url": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
     "tags": [
       "beef",
+      "ginger",
+      "basil",
       "weekend"
     ]
   },
@@ -1650,7 +1698,7 @@
     "author": "Molly Baz",
     "protein": "",
     "herbs": [
-
+      "thyme"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1658,7 +1706,7 @@
     "rating": 0,
     "url": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
     "tags": [
-
+      "thyme"
     ]
   },
   {
@@ -1667,7 +1715,7 @@
     "author": "Lidey Heuck",
     "protein": "chicken",
     "herbs": [
-
+      "dill"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1675,7 +1723,8 @@
     "rating": 0,
     "url": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
     "tags": [
-      "chicken"
+      "chicken",
+      "dill"
     ]
   },
   {
@@ -1684,7 +1733,8 @@
     "author": "Melissa Clark",
     "protein": "lamb",
     "herbs": [
-
+      "scallions",
+      "parsley"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1692,7 +1742,9 @@
     "rating": 0,
     "url": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
     "tags": [
-      "lamb"
+      "lamb",
+      "scallions",
+      "parsley"
     ]
   },
   {
@@ -1718,7 +1770,7 @@
     "author": "Ali Slagle",
     "protein": "pork",
     "herbs": [
-
+      "chives"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1726,7 +1778,8 @@
     "rating": 0,
     "url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
     "tags": [
-      "pork"
+      "pork",
+      "chives"
     ]
   },
   {
@@ -1752,7 +1805,7 @@
     "author": "Melissa Clark",
     "protein": "beef",
     "herbs": [
-
+      "scallions"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1760,7 +1813,8 @@
     "rating": 0,
     "url": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
     "tags": [
-      "beef"
+      "beef",
+      "scallions"
     ]
   },
   {
@@ -1769,7 +1823,7 @@
     "author": "Melissa Clark",
     "protein": "chicken",
     "herbs": [
-
+      "cilantro"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1777,7 +1831,8 @@
     "rating": 0,
     "url": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
     "tags": [
-      "chicken"
+      "chicken",
+      "cilantro"
     ]
   },
   {
@@ -1786,7 +1841,8 @@
     "author": "Molly Baz",
     "protein": "beef",
     "herbs": [
-
+      "thyme",
+      "parsley"
     ],
     "day_of_week": "",
     "feeds": 0,
@@ -1794,7 +1850,9 @@
     "rating": 0,
     "url": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
     "tags": [
-      "beef"
+      "beef",
+      "thyme",
+      "parsley"
     ]
   },
   {
@@ -1803,7 +1861,8 @@
     "author": "Colu Henry",
     "protein": "salmon",
     "herbs": [
-
+      "cilantro",
+      "scallions"
     ],
     "day_of_week": "weekday",
     "feeds": 0,
@@ -1812,6 +1871,8 @@
     "url": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
     "tags": [
       "salmon",
+      "cilantro",
+      "scallions",
       "weekday"
     ]
   },
@@ -1821,7 +1882,7 @@
     "author": "Colu Henry",
     "protein": "salmon",
     "herbs": [
-
+      "cilantro"
     ],
     "day_of_week": "weekday",
     "feeds": 0,
@@ -1830,6 +1891,7 @@
     "url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
     "tags": [
       "salmon",
+      "cilantro",
       "weekday"
     ]
   },
@@ -2078,6 +2140,7 @@
     "author": "Molly Baz",
     "protein": "salmon",
     "herbs": [
+
     ],
     "day_of_week": "weekday",
     "feeds": 0,
@@ -2087,6 +2150,78 @@
     "tags": [
       "salmon",
       "weekday"
+    ]
+  },
+  {
+    "title": "Double Pepper Diavolo with Shrimp",
+    "source": "p. 22 Feb 2024 Bon Appetit",
+    "author": "Shilpa Uskokovic",
+    "protein": "shrimp",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "shrimp",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Mustardy Cider-Braised Pork Chops",
+    "source": "p. 47 Feb 2024 Bon Appetit",
+    "author": "Inés Anguiano",
+    "protein": "pork",
+    "herbs": [
+      "thyme"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "url": null,
+    "tags": [
+      "pork",
+      "thyme",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Brown Butter Toffee Cookies",
+    "source": "https://whatmollymade.com/toffee-cookies/#recipe",
+    "author": "Molly Thompson",
+    "protein": "",
+    "herbs": [
+
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 3,
+    "url": "https://whatmollymade.com/toffee-cookies/#recipe",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "Gumbo",
+    "source": "NOMZ",
+    "author": "New Orleans School of Cooking",
+    "protein": "pork, chicken",
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "url": null,
+    "tags": [
+      "pork, chicken",
+      "weekend"
     ]
   },
   {
@@ -2298,6 +2433,21 @@
     "url": "https://dkelter17.github.io/nomz/recipes/grandma-pie.html",
     "tags": [
       "pizza"
+    ]
+  },
+  {
+    "title": "Gumbo",
+    "source": "https://dkelter17.github.io/nomz/recipes/gumbo.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "url": "https://dkelter17.github.io/nomz/recipes/gumbo.html",
+    "tags": [
+      "soup"
     ]
   },
   {
