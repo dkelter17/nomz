@@ -23,16 +23,20 @@ function setupLunr(document){
     this.field('tags');
     this.field('content');
     this.field('external_url');
+    this.field('author');
+    this.field('source');
 
     for (var key in recipes) { // Add the data to lunr
-      var document = recipes[key]
+      var recipe = recipes[key]
       this.add({
         'id': key,
-        'title': document.title,
-        'category': document.category,
-        'tags': document.tags,
-        'content': document.content,
-        'external_url': urlToSearchTokens(document.external_url)
+        'title': recipe.title,
+        'category': recipe.category,
+        'tags': recipe.tags,
+        'content': recipe.content,
+        'external_url': urlToSearchTokens(recipe.external_url),
+        'author': recipe.author,
+        'source': recipe.source,
       });
     }
   });
@@ -75,19 +79,29 @@ function displaySearchResults(results, store) {
 
     for (var i = 0; i < results.length; i++) {  // Iterate over the results
       var item = store[results[i].ref];
-      if (item.url != "") {
-        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-      } else {
-        appendString += '<li><h3>' + item.title + '</h3>';
-      }
-      appendString += '<p>' + item.content.substring(0, 190) + ' ...</p></li>';
-      appendString += '<p> Tags: ' + item.tags.join(" ") + '</p>'
+      appendString += '<li>' + formatSearchResult(item) + '</li>';
     }
 
-    searchResults.innerHTML = appendString + "</ol>";
+    searchResults.innerHTML = appendString + '</ol>';
   } else {
     searchResults.innerHTML = '<li>No results found</li>';
   }
+}
+
+function formatSearchResult(item) {
+  var appendString = '';
+  if (item.url != '') {
+    appendString += '<a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
+    if (item.content != '') {
+      appendString += '<p>' + item.content.substring(0, 190) + ' ...</p>';
+    }
+  } else {
+    appendString += `<h3>${item.title}</h3>`;
+    appendString += `<p>${item.source} by ${item.author}</p>`;
+  }
+
+  appendString += '<p> Tags: ' + item.tags.join(" ") + '</p>';
+  return appendString
 }
 
 document.addEventListener('readystatechange', (event) => {
