@@ -3,7 +3,9 @@
     "title": "Pastrami Roast Chicken with Schmaltzy Onions & Dill",
     "source": "Cook This Book p. 61",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "dill"
     ],
@@ -23,7 +25,9 @@
     "title": "Minty Lamb Meatballs with Crispy Cabbage and Tahini Sauce",
     "source": "Cook This Book p. 97",
     "author": "Molly Baz",
-    "protein": "lamb",
+    "protein": [
+      "lamb"
+    ],
     "herbs": [
       "mint"
     ],
@@ -43,7 +47,9 @@
     "title": "Coconut Shrimp with Crushed Chickpeas and Basil",
     "source": "Cook This Book p. 107",
     "author": "Molly Baz",
-    "protein": "shrimp",
+    "protein": [
+      "shrimp"
+    ],
     "herbs": [
       "basil"
     ],
@@ -63,7 +69,9 @@
     "title": "Crispy Buttered Shrimp with 20 Cloves of Garlic",
     "source": "Cook This Book p. 116",
     "author": "Molly Baz",
-    "protein": "shrimp",
+    "protein": [
+      "shrimp"
+    ],
     "herbs": [
 
     ],
@@ -81,7 +89,9 @@
     "title": "One Pot Chicken and Schmalzy Rice and Lemony Yog",
     "source": "Cook This Book p. 116",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "dill/cilantro"
     ],
@@ -101,7 +111,9 @@
     "title": "Fried Eggplant Stacks",
     "source": "One Pan, Two Plates Vegetarian p. 77",
     "author": "Carla Snyder",
-    "protein": "chicken (optional)",
+    "protein": [
+      "chicken (optional)"
+    ],
     "herbs": [
       "cilantro",
       "parsley"
@@ -122,7 +134,9 @@
     "title": "Butternut Risotto",
     "source": "One Pan, Two Plates Vegetarian p. 122",
     "author": "Carla Snyder",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "parsley"
     ],
@@ -141,7 +155,9 @@
     "title": "Crunchy Black Bean Tacos",
     "source": "One Pan, Two Plates Vegetarian p. 139",
     "author": "Carla Snyder",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -159,7 +175,9 @@
     "title": "Linguinie with Ricotta, Zucchini, Sundried Tomato, and Lemon",
     "source": "One Pan, Two Plates Vegetarian p. 150",
     "author": "Carla Snyder",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "parsley"
     ],
@@ -178,7 +196,9 @@
     "title": "Fig Pizza with Brie and Arugula",
     "source": "One Pan, Two Plates Vegetarian p. 179",
     "author": "Carla Snyder",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -195,7 +215,9 @@
     "title": "Roasted Moroccan Tart with Harissa",
     "source": "One Pan, Two Plates Vegetarian p. 187",
     "author": "Carla Snyder",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -212,7 +234,9 @@
     "title": "Three-Cheese Mac with Crispy Prosciutto",
     "source": "One Pan, Two Plates p. 19",
     "author": "Carla Snyder",
-    "protein": "prosciutto",
+    "protein": [
+      "prosciutto"
+    ],
     "herbs": [
 
     ],
@@ -230,7 +254,9 @@
     "title": "Fresh Summer Pasta with Tomatoes, Garlic, Basil, and Buttery Croutons",
     "source": "One Pan, Two Plates p. 21",
     "author": "Carla Snyder",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "basil"
     ],
@@ -249,7 +275,9 @@
     "title": "Lo Mein Noodles with Chicken, Snow Peas, and Peanut Sauce",
     "source": "One Pan, Two Plates p. 34",
     "author": "Carla Snyder",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "cilantro (optional)"
     ],
@@ -268,7 +296,9 @@
     "title": "Pad Thai",
     "source": "One Pan, Two Plates p. 36",
     "author": "Carla Snyder",
-    "protein": "shrimps",
+    "protein": [
+      "shrimps"
+    ],
     "herbs": [
       "cilantro (optional)"
     ],
@@ -287,7 +317,9 @@
     "title": "Crispy Sage Pork Cutlets, with Couscous, Peas, Figs, and Pistachios",
     "source": "One Pan, Two Plates p. 76",
     "author": "Carla Snyder",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
       "sage"
     ],
@@ -306,7 +338,9 @@
     "title": "Spicy Pork Stir-Fry with Lime, Cashews, and Noodles",
     "source": "One Pan, Two Plates p. 84",
     "author": "Carla Snyder",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
 
     ],
@@ -324,7 +358,9 @@
     "title": "Spicy Orange Beef Stir Fry with Snow Peas and Carrots",
     "source": "One Pan, Two Plates p. 86",
     "author": "Carla Snyder",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "cilantro (optional)"
     ],
@@ -343,7 +379,9 @@
     "title": "Skirt Steak Fajitas with Pico de Gallo and Avocado",
     "source": "One Pan, Two Plates p. 90",
     "author": "Carla Snyder",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -362,7 +400,9 @@
     "title": "Rib Eye Steaks Florentine, with Parsnip and Potato Gallette",
     "source": "One Pan, Two Plates p. 92",
     "author": "Carla Snyder",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
 
     ],
@@ -380,7 +420,9 @@
     "title": "Flank Steak with Chimichurri and Summer Squash Hash",
     "source": "One Pan, Two Plates p. 97",
     "author": "Carla Snyder",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "parsley"
     ],
@@ -399,7 +441,9 @@
     "title": "Beef Stew in High Heels",
     "source": "One Pan, Two Plates p. 102",
     "author": "Carla Snyder",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "parsley (optional)"
     ],
@@ -419,7 +463,9 @@
     "title": "Fluffy Spring Frittatta with Asparagus, Bell Peppers, and Gruyere",
     "source": "One Pan, Two Plates p. 118",
     "author": "Carla Snyder",
-    "protein": "eggs",
+    "protein": [
+      "eggs"
+    ],
     "herbs": [
 
     ],
@@ -438,7 +484,9 @@
     "title": "Chicken Stew with Tomatoes, Oranges, and Olives",
     "source": "One Pan, Two Plates p. 133",
     "author": "Carla Snyder",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "parsley"
     ],
@@ -457,7 +505,9 @@
     "title": "One Pan Roast Deviled Chicken, with Carrots, Turnips, and Parsnips",
     "source": "One Pan, Two Plates p. 141",
     "author": "Carla Snyder",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "parsley"
     ],
@@ -476,7 +526,9 @@
     "title": "Yellow Curry Chicken with Green Beans and Potatoes",
     "source": "One Pan, Two Plates p. 148",
     "author": "Carla Snyder",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "cilantro (optional)"
     ],
@@ -495,7 +547,9 @@
     "title": "Thyme-Rubbed Salmon with Shallots and Carmelized Cauliflower \"Risotto\"",
     "source": "One Pan, Two Plates p. 166",
     "author": "Carla Snyder",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
       "thyme"
     ],
@@ -514,7 +568,9 @@
     "title": "Prosciutto-Wrapped Salmon with Corn and Poblano Succotash",
     "source": "One Pan, Two Plates p. 171",
     "author": "Carla Snyder",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
       "basil (optional)"
     ],
@@ -534,7 +590,9 @@
     "title": "Flash-Roasted Tilapia with New Potatoes, Peas, and Pesto Mayo",
     "source": "One Pan, Two Plates p. 176",
     "author": "Carla Snyder",
-    "protein": "tilapia",
+    "protein": [
+      "tilapia"
+    ],
     "herbs": [
       "basil"
     ],
@@ -554,7 +612,9 @@
     "title": "Baked Halibut with Warm Fennel Zucchini Chopped Salad",
     "source": "One Pan, Two Plates p. 183",
     "author": "Carla Snyder",
-    "protein": "halibut",
+    "protein": [
+      "halibut"
+    ],
     "herbs": [
       "thyme"
     ],
@@ -574,7 +634,9 @@
     "title": "Fish Tacos with Chipotle Slaw",
     "source": "One Pan, Two Plates p. 191",
     "author": "Carla Snyder",
-    "protein": "tilapia",
+    "protein": [
+      "tilapia"
+    ],
     "herbs": [
 
     ],
@@ -592,7 +654,9 @@
     "title": "Stir-Fried Ginger Shrimp with Sugar Snap Peas, Red Bell Peppers, and Corn",
     "source": "One Pan, Two Plates p. 196",
     "author": "Carla Snyder",
-    "protein": "shrimp",
+    "protein": [
+      "shrimp"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -611,7 +675,9 @@
     "title": "Pan-Roasted Salmon with Cauli-tarter sauce and chive vinaigrette",
     "source": "Where Cooking Begins, p. 187",
     "author": "Carla Lalli Music",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
       "chives",
       "cilantro/dill/parsley"
@@ -634,7 +700,9 @@
     "title": "Chicken Cutlets with Spicy Coconut Dressing",
     "source": "Where Cooking Begins, p. 167",
     "author": "Carla Lalli Music",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -653,7 +721,9 @@
     "title": "Rack-Roasted Chicken with Gravy Potatoes",
     "source": "Where Cooking Begins, p. 163",
     "author": "Carla Lalli Music",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
 
     ],
@@ -672,7 +742,9 @@
     "title": "Greek-ish grain salad",
     "source": "Where Cooking Begins, p. 151",
     "author": "Carla Lalli Music",
-    "protein": "grain",
+    "protein": [
+      "grain"
+    ],
     "herbs": [
       "mint"
     ],
@@ -691,7 +763,9 @@
     "title": "Caprese Mac & Cheese",
     "source": "Where Cooking Begins, p. 144",
     "author": "Carla Lalli Music",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "basil"
     ],
@@ -710,7 +784,9 @@
     "title": "Teriyaki Crispy Tofu with Broccolini + Carrots",
     "source": "Mostly Plants p. 150",
     "author": "Pollen Family",
-    "protein": "tofu",
+    "protein": [
+      "tofu"
+    ],
     "herbs": [
 
     ],
@@ -728,7 +804,10 @@
     "title": "Red Lentil and Bean Chili",
     "source": "Mostly Plants p. 88",
     "author": "Pollen Family",
-    "protein": "lentil, bean",
+    "protein": [
+      "lentil",
+      "bean"
+    ],
     "herbs": [
 
     ],
@@ -746,7 +825,9 @@
     "title": "White Bean and Kale Quesadillas",
     "source": "Mostly Plants p. 96",
     "author": "Pollen Family",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -763,7 +844,9 @@
     "title": "Buddha Bowl with Roasted Sweet Potatoes, Spiced Chickpeas, and Chard",
     "source": "Mostly Plants p. 113",
     "author": "Pollen Family",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -780,7 +863,9 @@
     "title": "Cavatappi with Broccolini, Brown Butter, and Sage",
     "source": "Mostly Plants p. 129",
     "author": "Pollen Family",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "sage"
     ],
@@ -798,7 +883,9 @@
     "title": "Homeroom Pasta",
     "source": "Homeroom",
     "author": "Homeroom",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -816,7 +903,9 @@
     "title": "Rack-Roasted Chicken with Winter Squash and Chile Yogurt",
     "source": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
 
     ],
@@ -835,7 +924,9 @@
     "title": "Crispy Chicken Confit and Potatoes",
     "source": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "chives"
     ],
@@ -855,7 +946,9 @@
     "title": "Crispy Fish Sandwich with Super Special Tarter Sauce",
     "source": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": "tilapia",
+    "protein": [
+      "tilapia"
+    ],
     "herbs": [
 
     ],
@@ -873,7 +966,9 @@
     "title": "Seared Lamb Patty with Marinated Halloumi and Herbs",
     "source": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": "lamb",
+    "protein": [
+      "lamb"
+    ],
     "herbs": [
       "dill/cilantro/parsley/chives"
     ],
@@ -895,7 +990,9 @@
     "title": "Spaghetti with Melted Caulfilower Sauce",
     "source": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "mint"
     ],
@@ -913,7 +1010,9 @@
     "title": "Summery Corn Pasta",
     "source": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "basil"
     ],
@@ -931,7 +1030,9 @@
     "title": "Gingery Ground Beef with Lime and Herbs",
     "source": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -950,7 +1051,9 @@
     "title": "Peanut Tofu Quinoa Stir Fry",
     "source": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
     "author": "Work Week Lunch",
-    "protein": "tofu",
+    "protein": [
+      "tofu"
+    ],
     "herbs": [
 
     ],
@@ -968,7 +1071,9 @@
     "title": "Fried Rice",
     "source": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
     "author": "Jason's Mom",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
 
     ],
@@ -986,7 +1091,9 @@
     "title": "Cheesy Fennel and Beans Baked in Cream",
     "source": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "mint"
     ],
@@ -1004,7 +1111,9 @@
     "title": "Harissa Grilled Chicken Flat Bread with Pistachio-Lime Yogurt",
     "source": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "dill"
     ],
@@ -1023,7 +1132,9 @@
     "title": "White Bean Bolognese",
     "source": "https://mollybaz.com/white-bean-bolognese/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "parsley"
     ],
@@ -1041,7 +1152,9 @@
     "title": "Leaf-Peepin' Ragu",
     "source": "https://mollybaz.com/leaf-peepin-ragu/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "sage"
     ],
@@ -1060,7 +1173,9 @@
     "title": "Crispy Salmon with Coconut Rice and Crackle Sauce",
     "source": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
     "author": "Molly Baz",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
 
     ],
@@ -1078,7 +1193,9 @@
     "title": "Chicky Chicky Bread Bread",
     "source": "https://mollybaz.com/chicky-chicky-bread-bread/",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
 
     ],
@@ -1096,7 +1213,9 @@
     "title": "Spicy Cauliflower Ragu",
     "source": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "mint"
     ],
@@ -1114,7 +1233,9 @@
     "title": "Crispy Broccoli and Chickpea Bowls with Peanut Sauce",
     "source": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "ginger"
     ],
@@ -1131,7 +1252,9 @@
     "title": "Steak with Jammy Vinegar and Shallots",
     "source": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
 
     ],
@@ -1149,7 +1272,9 @@
     "title": "Farro and Crunchy Thangs Salad",
     "source": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
     "author": "Molly Baz",
-    "protein": "grain",
+    "protein": [
+      "grain"
+    ],
     "herbs": [
       "cilantro",
       "mint",
@@ -1174,7 +1299,9 @@
     "title": "Rigatoni with Creamed Leeks and Chivey Breadcrumbs",
     "source": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "chives"
     ],
@@ -1191,7 +1318,9 @@
     "title": "Caesared Egg Sally Salad",
     "source": "https://mollybaz.com/caesared-egg-sally/",
     "author": "Molly Baz",
-    "protein": "egg",
+    "protein": [
+      "egg"
+    ],
     "herbs": [
       "celery"
     ],
@@ -1209,7 +1338,9 @@
     "title": "Spiced Green Meatballs with Pickle Rice and Salty Yogurt",
     "source": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "cilantro",
       "mint",
@@ -1233,7 +1364,9 @@
     "title": "Summer Ragu with Pork, Zucchini, and Mint",
     "source": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
     "author": "Molly Baz",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
       "mint"
     ],
@@ -1251,7 +1384,9 @@
     "title": "Salad Pizza with Ricotta, and Anchovy-Garlic Oil",
     "source": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "parsley",
       "basil"
@@ -1270,7 +1405,9 @@
     "title": "Corn and Tomato Salad with Spicy Bagna Cauda and Salty Peanuts",
     "source": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -1287,7 +1424,9 @@
     "title": "Chicken Piccata with Sungolds, Chilies, and Wilted Basil",
     "source": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "basil"
     ],
@@ -1305,7 +1444,9 @@
     "title": "Grilled Pork Steaks Giardiniera",
     "source": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
     "author": "Molly Baz",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
       "parsley"
     ],
@@ -1324,7 +1465,9 @@
     "title": "Skirt Steak with Tomatoes and Salsa Macha",
     "source": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
     "author": "Molly Baz",
-    "protein": "steak",
+    "protein": [
+      "steak"
+    ],
     "herbs": [
 
     ],
@@ -1341,7 +1484,9 @@
     "title": "Corn and Basil Cacio e Pepe",
     "source": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "basil"
     ],
@@ -1358,7 +1503,9 @@
     "title": "Minty Lamb Chops with Charred Dates, Whipped Feta, and Smashed Cukes",
     "source": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
     "author": "Molly Baz",
-    "protein": "lamb",
+    "protein": [
+      "lamb"
+    ],
     "herbs": [
       "mint"
     ],
@@ -1377,7 +1524,9 @@
     "title": "Pork Milanese with Tonnato and Celery Salad",
     "source": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
     "author": "Molly Baz",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
       "parsley",
       "celery"
@@ -1397,7 +1546,9 @@
     "title": "Crispy Pork Cutlets with Curry Salt",
     "source": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
     "author": "Molly Baz",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
 
     ],
@@ -1414,7 +1565,9 @@
     "title": "Crazy Pasta Salad with Cucumber Corn Salad",
     "source": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "parsley",
       "cilantro",
@@ -1435,7 +1588,9 @@
     "title": "Spaghetti with Melted Onions and Pecorino",
     "source": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -1452,7 +1607,9 @@
     "title": "Gochujang and Honey Braised Short Ribs",
     "source": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "parsley"
     ],
@@ -1470,7 +1627,9 @@
     "title": "Slow Roast Salmon with Citrus, Soy Butter, and Basil",
     "source": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
     "author": "Molly Baz",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
       "basil"
     ],
@@ -1488,7 +1647,9 @@
     "title": "Rib Eye Steaks with Cracked Olive",
     "source": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "parsley",
       "chives",
@@ -1510,7 +1671,9 @@
     "title": "Crispy Chicken Cutlets with Lemon Poppy",
     "source": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "chives"
     ],
@@ -1528,7 +1691,9 @@
     "title": "Braised Big Beans and Squash with Feta and Chopped Lemon",
     "source": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "rosemary",
       "parsley"
@@ -1548,7 +1713,9 @@
     "title": "Zuppa all’Amatriciana with Crispy Cacio e Pepe",
     "source": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "mint"
     ],
@@ -1565,7 +1732,9 @@
     "title": "Beef and Scallion Skewer with Spicy Coconut Green Sauce",
     "source": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "ginger",
       "scallions",
@@ -1587,7 +1756,9 @@
     "title": "Pork and Pistachio Meat Balls",
     "source": "https://mollybaz.com/pork-and-pistachio-meatballs/",
     "author": "Molly Baz",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
       "parsley"
     ],
@@ -1605,7 +1776,9 @@
     "title": "Reverse Sear Ribeye with Caesar Butter",
     "source": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "chives"
     ],
@@ -1623,7 +1796,9 @@
     "title": "Salt and Vinegar Pork Ribs with Seedy Hot Honey",
     "source": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
     "author": "Molly Baz",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
 
     ],
@@ -1641,7 +1816,9 @@
     "title": "Big Noods alla Gin with Sungold Tomatoes",
     "source": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "basil"
     ],
@@ -1658,7 +1835,9 @@
     "title": "Smoky Pepper and Chickpea Pasta Salad",
     "source": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "parsley"
     ],
@@ -1675,7 +1854,9 @@
     "title": "5 Spice Short Ribs with Chilies and Wilted Basil",
     "source": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "ginger",
       "basil"
@@ -1696,7 +1877,9 @@
     "title": "Molly Marbella with Dates and Israeli Couscous",
     "source": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
     "author": "Molly Baz",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "thyme"
     ],
@@ -1713,7 +1896,9 @@
     "title": "Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill",
     "source": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
     "author": "Lidey Heuck",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "dill"
     ],
@@ -1731,7 +1916,9 @@
     "title": "Cumin Lamb Meatballs with Tahini Yogurt Dipping Sauce",
     "source": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
     "author": "Melissa Clark",
-    "protein": "lamb",
+    "protein": [
+      "lamb"
+    ],
     "herbs": [
       "scallions",
       "parsley"
@@ -1751,7 +1938,9 @@
     "title": "Slow-Cooker Chipotle Honey Chicken Tacos",
     "source": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos",
     "author": "Sarah DiGregorio",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
 
     ],
@@ -1768,7 +1957,9 @@
     "title": "Spicy Sesame Noodles with Chicken and Peanuts",
     "source": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
     "author": "Ali Slagle",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
       "chives"
     ],
@@ -1786,7 +1977,9 @@
     "title": "Classic Lasagna",
     "source": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
     "author": "Alison Roman",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -1803,7 +1996,9 @@
     "title": "Sweet and Salty Grilled Steak with Cucumber Salad",
     "source": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
     "author": "Melissa Clark",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "scallions"
     ],
@@ -1821,7 +2016,9 @@
     "title": "Chicken Quesadillas With Avocado-Cucumber Salsa",
     "source": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
     "author": "Melissa Clark",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -1839,7 +2036,9 @@
     "title": "Beef and Bacon Stew",
     "source": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
     "author": "Molly Baz",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "thyme",
       "parsley"
@@ -1859,7 +2058,9 @@
     "title": "Sheet Pan Harissa Salmon with Potatoes and Citrus",
     "source": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
     "author": "Colu Henry",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
       "cilantro",
       "scallions"
@@ -1880,7 +2081,9 @@
     "title": "Maple and Miso Sheet Pan Salmon with Green Beans",
     "source": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
     "author": "Colu Henry",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -1899,7 +2102,9 @@
     "title": "Grilled Squash with Nuoc Cham Chimichurri",
     "source": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
     "author": "Shuai Wang",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
       "parsley"
     ],
@@ -1918,7 +2123,9 @@
     "title": "Crispy Miso Beef",
     "source": "https://www.mehreenkarim.com/recipes/crispy-miso-beef",
     "author": "Mehreen Karim",
-    "protein": "beef",
+    "protein": [
+      "beef"
+    ],
     "herbs": [
       "ginger"
     ],
@@ -1937,7 +2144,9 @@
     "title": "Toasted Sesame Oat Chocolate Chip Cookies",
     "source": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
     "author": "Mehreen Karim",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -1954,7 +2163,9 @@
     "title": "Crispy Chicken Au Poivre with Miso and Creme Fraiche",
     "source": "https://mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche/",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
 
     ],
@@ -1972,7 +2183,9 @@
     "title": "Chicken Thighs and Couscous",
     "source": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
     "author": "Hana Asbrink",
-    "protein": "chicken ",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
 
     ],
@@ -1991,7 +2204,9 @@
     "title": "Salt and Pepper Tofu",
     "source": "https://cooking.nytimes.com/recipes/1023343-salt-and-pepper-tofu",
     "author": "Hetty Lui McKinnon",
-    "protein": "tofu",
+    "protein": [
+      "tofu"
+    ],
     "herbs": [
 
     ],
@@ -2009,7 +2224,9 @@
     "title": "Crispy Mongolian Tofu",
     "source": "https://chejorge.com/2020/07/06/crispy-mongolian-tofu/",
     "author": "George L. ",
-    "protein": "tofu",
+    "protein": [
+      "tofu"
+    ],
     "herbs": [
       "ginger",
       "scallions"
@@ -2030,7 +2247,9 @@
     "title": "Shrimp Scampi with Buratta and Pistachios",
     "source": "https://mollybaz.com/spicy-scampi-with-burrata-and-pistachios/",
     "author": "Molly Baz",
-    "protein": "shrimp",
+    "protein": [
+      "shrimp"
+    ],
     "herbs": [
 
     ],
@@ -2048,7 +2267,9 @@
     "title": "Spiced, Grilled, and Swaddled Chicken Thighs with the Works",
     "source": "Cook this Book p. 71",
     "author": "Molly Baz",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -2067,7 +2288,9 @@
     "title": "Salmon Curry",
     "source": "https://www.mehreenkarim.com/recipes/salmon-curry",
     "author": "Mehreen Karim",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
 
     ],
@@ -2085,7 +2308,9 @@
     "title": "Melted Fennel Pasta",
     "source": "https://www.bonappetit.com/recipe/melted-fennel-pasta",
     "author": "Amelia Rampe",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -2102,7 +2327,9 @@
     "title": "Turkey, Farro and Chickpea Soup",
     "source": "https://cooking.nytimes.com/recipes/1024864-turkey-farro-and-chickpea-soup",
     "author": "Melissa Clark",
-    "protein": "chicken",
+    "protein": [
+      "chicken"
+    ],
     "herbs": [
       "cilantro"
     ],
@@ -2121,7 +2348,9 @@
     "title": "Miso Macaroni & Cheese",
     "source": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
     "author": "Chris Rogienski",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -2138,7 +2367,9 @@
     "title": "Roasted Salmon with Marinated Olives and Potato Chips",
     "source": "Cook This Book p. 115",
     "author": "Molly Baz",
-    "protein": "salmon",
+    "protein": [
+      "salmon"
+    ],
     "herbs": [
 
     ],
@@ -2156,7 +2387,9 @@
     "title": "Double Pepper Diavolo with Shrimp",
     "source": "p. 22 Feb 2024 Bon Appetit",
     "author": "Shilpa Uskokovic",
-    "protein": "shrimp",
+    "protein": [
+      "shrimp"
+    ],
     "herbs": [
 
     ],
@@ -2174,7 +2407,9 @@
     "title": "Mustardy Cider-Braised Pork Chops",
     "source": "p. 47 Feb 2024 Bon Appetit",
     "author": "Inés Anguiano",
-    "protein": "pork",
+    "protein": [
+      "pork"
+    ],
     "herbs": [
       "thyme"
     ],
@@ -2193,7 +2428,9 @@
     "title": "Brown Butter Toffee Cookies",
     "source": "https://whatmollymade.com/toffee-cookies/#recipe",
     "author": "Molly Thompson",
-    "protein": "",
+    "protein": [
+
+    ],
     "herbs": [
 
     ],
@@ -2204,24 +2441,6 @@
     "url": "https://whatmollymade.com/toffee-cookies/#recipe",
     "tags": [
 
-    ]
-  },
-  {
-    "title": "Gumbo",
-    "source": "NOMZ",
-    "author": "New Orleans School of Cooking",
-    "protein": "pork, chicken",
-    "herbs": [
-
-    ],
-    "day_of_week": "weekend",
-    "feeds": 0,
-    "season": "",
-    "rating": 2,
-    "url": null,
-    "tags": [
-      "pork, chicken",
-      "weekend"
     ]
   },
   {
@@ -2439,12 +2658,15 @@
     "title": "Gumbo",
     "source": "https://dkelter17.github.io/nomz/recipes/gumbo.html",
     "author": null,
-    "protein": null,
+    "protein": [
+      "pork",
+      "chicken"
+    ],
     "herbs": null,
-    "day_of_week": null,
+    "day_of_week": "weekend",
     "feeds": 0,
     "season": null,
-    "rating": 0,
+    "rating": 2,
     "url": "https://dkelter17.github.io/nomz/recipes/gumbo.html",
     "tags": [
       "soup"

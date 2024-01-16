@@ -17,7 +17,7 @@ function loadLunrIndex() {
 function setupLunr(document){
   var recipes = document.recipesSearch.recipes;
   document.recipesSearch.idx = lunr(function() {
-    this.field('id');
+    this.ref('id');
     this.field('title', { boost: 10 });
     this.field('category');
     this.field('tags');
@@ -75,8 +75,12 @@ function displaySearchResults(results, store) {
 
     for (var i = 0; i < results.length; i++) {  // Iterate over the results
       var item = store[results[i].ref];
-      appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-      appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+      if (item.url != "") {
+        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
+      } else {
+        appendString += '<li><h3>' + item.title + '</h3>';
+      }
+      appendString += '<p>' + item.content.substring(0, 190) + ' ...</p></li>';
       appendString += '<p> Tags: ' + item.tags.join(" ") + '</p>'
     }
 

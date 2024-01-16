@@ -51,7 +51,7 @@ recipe_list = rows.each_with_object([]) do |row, memo|
     title: row["Recipe Name"],
     source: row["Source"],
     author: row["Author"],
-    protein: row["Protein"].to_s.downcase,
+    protein: row["Protein"].to_s.split(",").map(&:strip).map(&:downcase),
     herbs: row["Herbs"].to_s.split(",").map(&:strip).map(&:downcase),
     day_of_week: row["Day of Week"].to_s.downcase,
     feeds: row["Feeds"].to_i,
@@ -72,7 +72,7 @@ site.collections["recipes"].docs.each do |doc|
   next unless doc.data["category"].to_s.downcase == "dinner"
   row = {}
   recipe_list << Recipe.create(
-    title: doc.data["title"],
+    title: doc.data.fetch("title"),
     source: NOMZ_PROD_URL + doc.url,
     author: doc.data["author"],
     protein: doc.data["protein"],
