@@ -4,6 +4,11 @@ emoji: '🥣'
 category: dinner
 tags:
 - soup
+protein:
+- pork
+- chicken
+day_of_week: weekend
+rating: 2
 ---
 
 Riffing on a recipe we received after taking a class at the New Orleans School of Cooking.
