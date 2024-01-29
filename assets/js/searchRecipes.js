@@ -23,7 +23,7 @@ function setupLunr(document){
     this.field('tags');
     this.field('content');
     this.field('external_url');
-    this.field('author');
+    this.field('author', { boost: 5 });
     this.field('source');
 
     for (var key in recipes) { // Add the data to lunr

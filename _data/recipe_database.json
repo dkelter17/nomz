@@ -13,7 +13,9 @@
     "feeds": 4,
     "season": "winter",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "dill",
@@ -35,7 +37,9 @@
     "feeds": 4,
     "season": "winter",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "lamb",
       "mint",
@@ -57,7 +61,9 @@
     "feeds": 4,
     "season": "summer",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "shrimp",
       "basil",
@@ -79,7 +85,9 @@
     "feeds": 4,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "shrimp",
       "weekday"
@@ -99,7 +107,9 @@
     "feeds": 4,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "dill",
@@ -122,7 +132,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken (optional)",
       "cilantro",
@@ -144,7 +156,9 @@
     "feeds": 2,
     "season": "autumn",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "parsley",
       "autumn",
@@ -165,7 +179,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "cilantro",
       "weekday"
@@ -185,7 +201,9 @@
     "feeds": 2,
     "season": "summer",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "parsley",
       "summer",
@@ -206,7 +224,9 @@
     "feeds": 2,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "weekend"
     ]
@@ -225,7 +245,9 @@
     "feeds": 2,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "weekday"
     ]
@@ -244,7 +266,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "prosciutto",
       "weekday"
@@ -264,7 +288,9 @@
     "feeds": 2,
     "season": "summer",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "basil",
       "summer",
@@ -285,7 +311,9 @@
     "feeds": 2,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "cilantro (optional)",
@@ -306,7 +334,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "shrimps",
       "cilantro (optional)",
@@ -327,7 +357,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "pork",
       "sage",
@@ -348,7 +380,9 @@
     "feeds": 2,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "pork",
       "weekday"
@@ -368,7 +402,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "beef",
       "cilantro (optional)",
@@ -389,7 +425,9 @@
     "feeds": 2,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "beef",
       "cilantro",
@@ -410,7 +448,9 @@
     "feeds": 2,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "beef",
       "weekday"
@@ -430,7 +470,9 @@
     "feeds": 2,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "beef",
       "parsley",
@@ -451,7 +493,9 @@
     "feeds": 2,
     "season": "winter",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "beef",
       "parsley (optional)",
@@ -473,7 +517,9 @@
     "feeds": 2,
     "season": "spring",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "eggs",
       "spring",
@@ -494,7 +540,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "parsley",
@@ -515,7 +563,9 @@
     "feeds": 2,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "parsley",
@@ -536,7 +586,9 @@
     "feeds": 2,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "cilantro (optional)",
@@ -557,7 +609,9 @@
     "feeds": 2,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "salmon",
       "thyme",
@@ -578,7 +632,9 @@
     "feeds": 2,
     "season": "summer",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "salmon",
       "basil (optional)",
@@ -600,7 +656,9 @@
     "feeds": 2,
     "season": "summer",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "tilapia",
       "basil",
@@ -622,7 +680,9 @@
     "feeds": 2,
     "season": "summer",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "halibut",
       "thyme",
@@ -644,7 +704,9 @@
     "feeds": 2,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "tilapia",
       "weekday"
@@ -664,7 +726,9 @@
     "feeds": 2,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "shrimp",
       "cilantro",
@@ -686,7 +750,9 @@
     "feeds": 4,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "salmon",
       "chives",
@@ -710,7 +776,9 @@
     "feeds": 4,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "cilantro",
@@ -731,7 +799,9 @@
     "feeds": 4,
     "season": "winter",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "winter",
@@ -752,7 +822,9 @@
     "feeds": 4,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "grain",
       "mint",
@@ -773,7 +845,9 @@
     "feeds": 6,
     "season": "summer",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "basil",
       "summer",
@@ -794,7 +868,9 @@
     "feeds": 4,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "tofu",
       "weekday"
@@ -815,7 +891,9 @@
     "feeds": 6,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "lentil, bean",
       "weekday"
@@ -835,7 +913,9 @@
     "feeds": 4,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "weekday"
     ]
@@ -854,7 +934,9 @@
     "feeds": 4,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "weekday"
     ]
@@ -873,7 +955,9 @@
     "feeds": 4,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "sage",
       "weekday"
@@ -893,7 +977,9 @@
     "feeds": 8,
     "season": "winter",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "winter",
       "weekend"
@@ -913,7 +999,9 @@
     "feeds": 6,
     "season": "winter",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
     "tags": [
       "chicken",
       "winter",
@@ -934,7 +1022,9 @@
     "feeds": 6,
     "season": "winter",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
     "tags": [
       "chicken",
       "chives",
@@ -956,7 +1046,9 @@
     "feeds": 4,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
     "tags": [
       "tilapia",
       "weekday"
@@ -976,7 +1068,9 @@
     "feeds": 4,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
     "tags": [
       "lamb",
       "dill",
@@ -1000,7 +1094,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
     "tags": [
       "mint",
       "weekday"
@@ -1020,7 +1116,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
     "tags": [
       "basil",
       "weekday"
@@ -1040,7 +1138,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
     "tags": [
       "beef",
       "cilantro",
@@ -1061,7 +1161,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
     "tags": [
       "tofu",
       "weekday"
@@ -1081,7 +1183,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
+    "external_url": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
     "tags": [
       "pork",
       "weekday"
@@ -1101,7 +1205,9 @@
     "feeds": 0,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
+    "external_url": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
     "tags": [
       "mint",
       "weekday"
@@ -1121,7 +1227,9 @@
     "feeds": 0,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
+    "external_url": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
     "tags": [
       "chicken",
       "dill",
@@ -1142,7 +1250,9 @@
     "feeds": 0,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": "https://mollybaz.com/white-bean-bolognese/",
+    "external_url": "https://mollybaz.com/white-bean-bolognese/",
     "tags": [
       "parsley",
       "weekday"
@@ -1162,7 +1272,9 @@
     "feeds": 0,
     "season": "autumn",
     "rating": 2,
+    "category": "dinner",
     "url": "https://mollybaz.com/leaf-peepin-ragu/",
+    "external_url": "https://mollybaz.com/leaf-peepin-ragu/",
     "tags": [
       "sage",
       "autumn",
@@ -1183,7 +1295,9 @@
     "feeds": 0,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
+    "external_url": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
     "tags": [
       "salmon",
       "weekday"
@@ -1203,7 +1317,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/chicky-chicky-bread-bread/",
+    "external_url": "https://mollybaz.com/chicky-chicky-bread-bread/",
     "tags": [
       "chicken",
       "weekend"
@@ -1223,7 +1339,9 @@
     "feeds": 0,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
+    "external_url": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
     "tags": [
       "mint",
       "weekend"
@@ -1243,7 +1361,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
+    "external_url": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
     "tags": [
       "ginger"
     ]
@@ -1262,7 +1382,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
+    "external_url": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
     "tags": [
       "beef",
       "weekday"
@@ -1285,7 +1407,9 @@
     "feeds": 0,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
+    "external_url": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
     "tags": [
       "grain",
       "cilantro",
@@ -1309,7 +1433,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
+    "external_url": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
     "tags": [
       "chives"
     ]
@@ -1328,7 +1454,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/caesared-egg-sally/",
+    "external_url": "https://mollybaz.com/caesared-egg-sally/",
     "tags": [
       "egg",
       "celery"
@@ -1351,7 +1479,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
+    "external_url": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
     "tags": [
       "beef",
       "cilantro",
@@ -1374,7 +1504,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
+    "external_url": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
     "tags": [
       "pork",
       "mint"
@@ -1395,7 +1527,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
+    "external_url": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
     "tags": [
       "parsley",
       "basil"
@@ -1415,7 +1549,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
+    "external_url": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
     "tags": [
       "cilantro"
     ]
@@ -1434,7 +1570,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
+    "external_url": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
     "tags": [
       "chicken",
       "basil"
@@ -1454,7 +1592,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
+    "external_url": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
     "tags": [
       "pork",
       "parsley",
@@ -1475,7 +1615,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
+    "external_url": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
     "tags": [
       "steak"
     ]
@@ -1494,7 +1636,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
+    "external_url": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
     "tags": [
       "basil"
     ]
@@ -1513,7 +1657,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
+    "external_url": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
     "tags": [
       "lamb",
       "mint",
@@ -1535,7 +1681,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
+    "external_url": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
     "tags": [
       "pork",
       "parsley",
@@ -1556,7 +1704,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
+    "external_url": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
     "tags": [
       "pork"
     ]
@@ -1577,7 +1727,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
+    "external_url": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
     "tags": [
       "parsley",
       "cilantro",
@@ -1598,7 +1750,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
+    "external_url": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
     "tags": [
 
     ]
@@ -1617,7 +1771,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
+    "external_url": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
     "tags": [
       "beef",
       "parsley"
@@ -1637,7 +1793,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
+    "external_url": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
     "tags": [
       "salmon",
       "basil"
@@ -1659,7 +1817,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
+    "external_url": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
     "tags": [
       "beef",
       "parsley",
@@ -1681,7 +1841,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
+    "external_url": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
     "tags": [
       "chicken",
       "chives"
@@ -1702,7 +1864,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
+    "external_url": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
     "tags": [
       "rosemary",
       "parsley",
@@ -1723,7 +1887,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
+    "external_url": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
     "tags": [
       "mint"
     ]
@@ -1744,7 +1910,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
+    "external_url": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
     "tags": [
       "beef",
       "ginger",
@@ -1766,7 +1934,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/pork-and-pistachio-meatballs/",
+    "external_url": "https://mollybaz.com/pork-and-pistachio-meatballs/",
     "tags": [
       "pork",
       "parsley"
@@ -1786,7 +1956,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
+    "external_url": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
     "tags": [
       "beef",
       "chives"
@@ -1806,7 +1978,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
+    "external_url": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
     "tags": [
       "pork",
       "weekend"
@@ -1826,7 +2000,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
+    "external_url": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
     "tags": [
       "basil"
     ]
@@ -1845,7 +2021,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
+    "external_url": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
     "tags": [
       "parsley"
     ]
@@ -1865,7 +2043,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
+    "external_url": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
     "tags": [
       "beef",
       "ginger",
@@ -1887,7 +2067,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
+    "external_url": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
     "tags": [
       "thyme"
     ]
@@ -1906,7 +2088,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
+    "external_url": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
     "tags": [
       "chicken",
       "dill"
@@ -1927,7 +2111,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
+    "external_url": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
     "tags": [
       "lamb",
       "scallions",
@@ -1948,7 +2134,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos",
+    "external_url": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos",
     "tags": [
       "chicken"
     ]
@@ -1967,7 +2155,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+    "external_url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
     "tags": [
       "pork",
       "chives"
@@ -1987,7 +2177,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
+    "external_url": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
     "tags": [
       "weekend"
     ]
@@ -2006,7 +2198,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
+    "external_url": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
     "tags": [
       "beef",
       "scallions"
@@ -2026,7 +2220,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
+    "external_url": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
     "tags": [
       "chicken",
       "cilantro"
@@ -2047,7 +2243,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
+    "external_url": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
     "tags": [
       "beef",
       "thyme",
@@ -2069,7 +2267,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
+    "external_url": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
     "tags": [
       "salmon",
       "cilantro",
@@ -2091,7 +2291,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
+    "external_url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
     "tags": [
       "salmon",
       "cilantro",
@@ -2112,7 +2314,9 @@
     "feeds": 0,
     "season": "summer",
     "rating": 0,
+    "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
+    "external_url": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
     "tags": [
       "parsley",
       "summer",
@@ -2133,7 +2337,9 @@
     "feeds": 0,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": "https://www.mehreenkarim.com/recipes/crispy-miso-beef",
+    "external_url": "https://www.mehreenkarim.com/recipes/crispy-miso-beef",
     "tags": [
       "beef",
       "ginger",
@@ -2154,7 +2360,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "snack",
     "url": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
+    "external_url": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
     "tags": [
       "weekend"
     ]
@@ -2173,7 +2381,9 @@
     "feeds": 0,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": "https://mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche/",
+    "external_url": "https://mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche/",
     "tags": [
       "chicken",
       "weekend"
@@ -2193,7 +2403,9 @@
     "feeds": 0,
     "season": "summer",
     "rating": 1,
+    "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
+    "external_url": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
     "tags": [
       "chicken ",
       "summer",
@@ -2214,7 +2426,9 @@
     "feeds": 0,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1023343-salt-and-pepper-tofu",
+    "external_url": "https://cooking.nytimes.com/recipes/1023343-salt-and-pepper-tofu",
     "tags": [
       "tofu",
       "weekday"
@@ -2235,7 +2449,9 @@
     "feeds": 0,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": "https://chejorge.com/2020/07/06/crispy-mongolian-tofu/",
+    "external_url": "https://chejorge.com/2020/07/06/crispy-mongolian-tofu/",
     "tags": [
       "tofu",
       "ginger",
@@ -2257,7 +2473,9 @@
     "feeds": 0,
     "season": "",
     "rating": 3,
+    "category": "dinner",
     "url": "https://mollybaz.com/spicy-scampi-with-burrata-and-pistachios/",
+    "external_url": "https://mollybaz.com/spicy-scampi-with-burrata-and-pistachios/",
     "tags": [
       "shrimp",
       "weekday"
@@ -2277,7 +2495,9 @@
     "feeds": 0,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "chicken",
       "cilantro",
@@ -2298,7 +2518,9 @@
     "feeds": 0,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": "https://www.mehreenkarim.com/recipes/salmon-curry",
+    "external_url": "https://www.mehreenkarim.com/recipes/salmon-curry",
     "tags": [
       "salmon",
       "weekday"
@@ -2318,7 +2540,9 @@
     "feeds": 0,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/melted-fennel-pasta",
+    "external_url": "https://www.bonappetit.com/recipe/melted-fennel-pasta",
     "tags": [
       "weekday"
     ]
@@ -2337,7 +2561,9 @@
     "feeds": 0,
     "season": "",
     "rating": 2,
+    "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1024864-turkey-farro-and-chickpea-soup",
+    "external_url": "https://cooking.nytimes.com/recipes/1024864-turkey-farro-and-chickpea-soup",
     "tags": [
       "chicken",
       "cilantro",
@@ -2358,7 +2584,9 @@
     "feeds": 0,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
+    "external_url": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
     "tags": [
       "weekday"
     ]
@@ -2377,7 +2605,9 @@
     "feeds": 0,
     "season": "",
     "rating": 1,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "salmon",
       "weekday"
@@ -2397,7 +2627,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "shrimp",
       "weekday"
@@ -2417,7 +2649,9 @@
     "feeds": 0,
     "season": "",
     "rating": 0,
+    "category": "dinner",
     "url": null,
+    "external_url": "",
     "tags": [
       "pork",
       "thyme",
@@ -2438,9 +2672,106 @@
     "feeds": 0,
     "season": "",
     "rating": 3,
+    "category": "dessert",
     "url": "https://whatmollymade.com/toffee-cookies/#recipe",
+    "external_url": "https://whatmollymade.com/toffee-cookies/#recipe",
     "tags": [
 
+    ]
+  },
+  {
+    "title": "Carrot Risotto with Chile Crisp",
+    "source": "https://cooking.nytimes.com/recipes/1024086-carrot-risotto-with-chile-crisp",
+    "author": "Alexa Weibel",
+    "protein": [
+
+    ],
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "https://cooking.nytimes.com/recipes/1024086-carrot-risotto-with-chile-crisp",
+    "external_url": "https://cooking.nytimes.com/recipes/1024086-carrot-risotto-with-chile-crisp",
+    "tags": [
+      "weekday"
+    ]
+  },
+  {
+    "title": "Rice Noodles With Shrimp and Coconut-Lime Dressing",
+    "source": "https://www.bonappetit.com/recipe/rice-noodles-with-shrimp-and-coconut-lime-dressing",
+    "author": "Claire Saffitz",
+    "protein": [
+
+    ],
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "https://www.bonappetit.com/recipe/rice-noodles-with-shrimp-and-coconut-lime-dressing",
+    "external_url": "https://www.bonappetit.com/recipe/rice-noodles-with-shrimp-and-coconut-lime-dressing",
+    "tags": [
+      "cilantro",
+      "weekday"
+    ]
+  },
+  {
+    "title": "\"$250\" Chocolate Chip Cookies",
+    "source": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
+    "external_url": "https://cooking.nytimes.com/recipes/9465-the-250-cookie-recipe",
+    "tags": [
+      "cookies",
+      "chocolate"
+    ]
+  },
+  {
+    "title": "Amazing Chicken Marinade",
+    "source": "https://dkelter17.github.io/nomz/recipes/amazing-chicken-marinade.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "topping",
+    "url": "https://dkelter17.github.io/nomz/recipes/amazing-chicken-marinade.html",
+    "external_url": "http://www.food.com/recipe/amazing-chicken-marinade-29598",
+    "tags": [
+      "chicken"
+    ]
+  },
+  {
+    "title": "Banana Bread",
+    "source": "https://dkelter17.github.io/nomz/recipes/banana-bread.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/banana-bread.html",
+    "external_url": "",
+    "tags": [
+      "baking"
     ]
   },
   {
@@ -2453,7 +2784,9 @@
     "feeds": 4,
     "season": "winter",
     "rating": 2,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/braised-lemongrass-short-rib-noodle-bowl.html",
+    "external_url": "https://www.youtube.com/watch?v=tV7q_ZoR1AE",
     "tags": [
       "beef",
       "one-pot",
@@ -2470,7 +2803,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/carlas-calabrian-chicken-thigs-and-cooling-salad.html",
+    "external_url": "https://www.youtube.com/watch?v=Q-IiJa76kG4",
     "tags": [
       "chicken"
     ]
@@ -2485,7 +2820,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/carlas-white-beans.html",
+    "external_url": "https://www.bonappetit.com/story/the-best-pot-of-beans-is-in-your-future",
     "tags": [
       "veg",
       "bon-appetit"
@@ -2501,7 +2838,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/cheesy-taco-rice-with-chicken.html",
+    "external_url": "https://workweeklunch.com/recipe/easy-cheesy-taco-rice/",
     "tags": [
       "chicken",
       "rice",
@@ -2518,7 +2857,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/chicken-marbella.html",
+    "external_url": "",
     "tags": [
       "chicken",
       "one-pan"
@@ -2534,7 +2875,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/chili.html",
+    "external_url": "",
     "tags": [
       "beef",
       "one-pot",
@@ -2551,11 +2894,31 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/coconut-cod-chowder.html",
+    "external_url": "https://www.bonappetit.com/recipe/coconut-cod-chowder",
     "tags": [
       "fish",
       "bon-appetit",
       "asian-ish"
+    ]
+  },
+  {
+    "title": "Coconut Rice",
+    "source": "https://dkelter17.github.io/nomz/recipes/coconut-rice.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "breakfast",
+    "url": "https://dkelter17.github.io/nomz/recipes/coconut-rice.html",
+    "external_url": "",
+    "tags": [
+      "coconut",
+      "rice"
     ]
   },
   {
@@ -2568,10 +2931,30 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/corn-chowder.html",
+    "external_url": "https://www.tasteofhome.com/recipes/curried-chicken-corn-chowder/",
     "tags": [
       "chicken",
       "coconut"
+    ]
+  },
+  {
+    "title": "Crackle Sauce",
+    "source": "https://dkelter17.github.io/nomz/recipes/crackle-sauce.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "topping",
+    "url": "https://dkelter17.github.io/nomz/recipes/crackle-sauce.html",
+    "external_url": "",
+    "tags": [
+      "rice",
+      "peanut"
     ]
   },
   {
@@ -2584,10 +2967,48 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/crockpot-bbq-chicken.html",
+    "external_url": "http://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html",
     "tags": [
       "chicken",
       "one-pot"
+    ]
+  },
+  {
+    "title": "Date Cinnamon Buns",
+    "source": "https://dkelter17.github.io/nomz/recipes/date-cinnamon-buns.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/date-cinnamon-buns.html",
+    "external_url": "https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns",
+    "tags": [
+      "bon-appetit",
+      "basically"
+    ]
+  },
+  {
+    "title": "Eric's Famous Orange Granola",
+    "source": "https://dkelter17.github.io/nomz/recipes/erics-famous-orange-granola.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "breakfast",
+    "url": "https://dkelter17.github.io/nomz/recipes/erics-famous-orange-granola.html",
+    "external_url": "",
+    "tags": [
+      "cereal",
+      "nuts"
     ]
   },
   {
@@ -2600,7 +3021,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/garlicky-shrimp-and-white-beans.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1024174-sheet-pan-garlicky-shrimp-and-white-beans",
     "tags": [
       "bread"
     ]
@@ -2615,7 +3038,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/gingery-chicken-and-rice-with-peanut-sauce.html",
+    "external_url": "https://www.bonappetit.com/recipe/one-pot-chicken-and-rice",
     "tags": [
       "chicken",
       "bon-appetit",
@@ -2634,7 +3059,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/gochujang-burgers.html",
+    "external_url": "",
     "tags": [
       "spicy"
     ]
@@ -2649,7 +3076,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/grandma-pie.html",
+    "external_url": "https://www.bonappetit.com/recipe/hot-and-sweet-soppressata-and-fennel-grandma-pie",
     "tags": [
       "pizza"
     ]
@@ -2667,9 +3096,28 @@
     "feeds": 0,
     "season": null,
     "rating": 2,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/gumbo.html",
+    "external_url": "",
     "tags": [
       "soup"
+    ]
+  },
+  {
+    "title": "Ina Garten's Chocolate Pecan Scones",
+    "source": "https://dkelter17.github.io/nomz/recipes/ina-garten-chocolate-pecan-scones-ba.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/ina-garten-chocolate-pecan-scones-ba.html",
+    "external_url": "https://www.bonappetit.com/recipe/ina-garten-chocolate-pecan-scones",
+    "tags": [
+      "bon-appetit"
     ]
   },
   {
@@ -2682,11 +3130,30 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/jamie-oliver-spicy-sausage-fusilli.html",
+    "external_url": "https://www.jamieoliver.com/recipes/pasta-recipes/spicy-sausage-fusilli/",
     "tags": [
       "pasta",
       "sausage",
       "jamie-oliver"
+    ]
+  },
+  {
+    "title": "English Muffin Toasting Bread",
+    "source": "https://dkelter17.github.io/nomz/recipes/king-arthur-english-muffin-bread.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "breakfast",
+    "url": "https://dkelter17.github.io/nomz/recipes/king-arthur-english-muffin-bread.html",
+    "external_url": "https://www.kingarthurflour.com/recipes/english-muffin-toasting-bread-recipe",
+    "tags": [
+      "bread"
     ]
   },
   {
@@ -2699,12 +3166,102 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/maple-miso-salmon.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
     "tags": [
       "salmon",
       "fast",
       "sheet-pan",
       "nytimes"
+    ]
+  },
+  {
+    "title": "Mediterranean Spice Mix Marinade",
+    "source": "https://dkelter17.github.io/nomz/recipes/mediterranean-spice-mix.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "topping",
+    "url": "https://dkelter17.github.io/nomz/recipes/mediterranean-spice-mix.html",
+    "external_url": "http://www.mensfitness.com/nutrition/what-to-eat/healthy-grilling-marinades/slide/3",
+    "tags": [
+
+    ]
+  },
+  {
+    "title": "No-Knead Focaccia Bread",
+    "source": "https://dkelter17.github.io/nomz/recipes/no-knead-focaccia.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "side",
+    "url": "https://dkelter17.github.io/nomz/recipes/no-knead-focaccia.html",
+    "external_url": "https://www.bonappetit.com/recipe/easy-no-knead-focaccia",
+    "tags": [
+      "baking"
+    ]
+  },
+  {
+    "title": "Nutella Mug Cake",
+    "source": "https://dkelter17.github.io/nomz/recipes/nutella-mug-cake.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/nutella-mug-cake.html",
+    "external_url": "https://www.babble.com/best-recipes/nutella-mug-cake/",
+    "tags": [
+      "chocolate",
+      "cake",
+      "fast"
+    ]
+  },
+  {
+    "title": "Oat Banana Breakfast Cookies",
+    "source": "https://dkelter17.github.io/nomz/recipes/oat-banana-breakfast-cookies.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/oat-banana-breakfast-cookies.html",
+    "external_url": "",
+    "tags": [
+      "chocolate"
+    ]
+  },
+  {
+    "title": "Oatmeal Chocolate Chip Cookies",
+    "source": "https://dkelter17.github.io/nomz/recipes/oatmeal-chocolate-chip-cookies.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/oatmeal-chocolate-chip-cookies.html",
+    "external_url": "https://www.quakeroats.com/cooking-and-recipes/vanishing-oatmeal-raisin-cookies",
+    "tags": [
+      "cookies",
+      "chocolate"
     ]
   },
   {
@@ -2717,11 +3274,49 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/one-skillet-rotisserie-chicken-pot-pie-ba.html",
+    "external_url": "https://www.bonappetit.com/recipe/one-skillet-rotisserie-chicken-pot-pie",
     "tags": [
       "meal",
       "bon-appetit",
       "external"
+    ]
+  },
+  {
+    "title": "Paleo Fudge",
+    "source": "https://dkelter17.github.io/nomz/recipes/paleo-fudge.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/paleo-fudge.html",
+    "external_url": "http://topchefcooking.com/primal-fudge-practical-paleo/",
+    "tags": [
+      "chocolate",
+      "frozen"
+    ]
+  },
+  {
+    "title": "Parker's Salad",
+    "source": "https://dkelter17.github.io/nomz/recipes/parkers-salad.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "tapas",
+    "url": "https://dkelter17.github.io/nomz/recipes/parkers-salad.html",
+    "external_url": "",
+    "tags": [
+      "salad",
+      "sweet"
     ]
   },
   {
@@ -2734,7 +3329,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/peanut-chicken-veggies-stir-fry.html",
+    "external_url": "https://workweeklunch.com/peanut-stir-fry/",
     "tags": [
       "chicken",
       "asian-ish",
@@ -2751,7 +3348,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/piri-piri-meatballs.html",
+    "external_url": "https://www.bonappetit.com/recipe/piri-piri-meatballs",
     "tags": [
       "beef",
       "bon-appetit",
@@ -2768,10 +3367,29 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/pizza-pasta.html",
+    "external_url": "http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/",
     "tags": [
       "pasta",
       "sausage"
+    ]
+  },
+  {
+    "title": "Pumpkin Bread",
+    "source": "https://dkelter17.github.io/nomz/recipes/pumpkin-bread.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "breakfast",
+    "url": "https://dkelter17.github.io/nomz/recipes/pumpkin-bread.html",
+    "external_url": "",
+    "tags": [
+      "baking"
     ]
   },
   {
@@ -2784,9 +3402,84 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/roasted-cauliflower-with-whipped-cheese.html",
+    "external_url": "http://saltedsugaredspiced.blogspot.com/2016/02/whole-roasted-cauliflower-with-whipped.html",
     "tags": [
       "veg"
+    ]
+  },
+  {
+    "title": "Salted Chocolate Chunk Shortbread Cookies",
+    "source": "https://dkelter17.github.io/nomz/recipes/salted-chocolate-chunk-shortbread-cookies.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/salted-chocolate-chunk-shortbread-cookies.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies",
+    "tags": [
+      "cookies",
+      "chocolate",
+      "shortbread"
+    ]
+  },
+  {
+    "title": "Salty Buckwheat Chocolate Chunk Cookies",
+    "source": "https://dkelter17.github.io/nomz/recipes/salty-buckwheat-chocolate-chunk-cookies.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/salty-buckwheat-chocolate-chunk-cookies.html",
+    "external_url": "https://www.bonappetit.com/recipe/salty-buckwheat-chocolate-chunk-cookies",
+    "tags": [
+      "cookies",
+      "chocolate",
+      "bon-appetit"
+    ]
+  },
+  {
+    "title": "Samin's Best Granola Ever",
+    "source": "https://dkelter17.github.io/nomz/recipes/samins-best-granola-ever.html",
+    "author": "Samin Nosrat",
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "breakfast",
+    "url": "https://dkelter17.github.io/nomz/recipes/samins-best-granola-ever.html",
+    "external_url": "",
+    "tags": [
+      "cereal",
+      "nuts"
+    ]
+  },
+  {
+    "title": "Shortbread",
+    "source": "https://dkelter17.github.io/nomz/recipes/shortbread.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/shortbread.html",
+    "external_url": "",
+    "tags": [
+      "cookies"
     ]
   },
   {
@@ -2799,7 +3492,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/slow-roast-gochujang-chicken.html",
+    "external_url": "https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken",
     "tags": [
       "bon-appetit"
     ]
@@ -2814,7 +3509,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/southwest-quinoa.html",
+    "external_url": "http://www.lecremedelacrumb.com/2014/12/slow-cooker-enchilada-quinoa.html",
     "tags": [
       "chicken",
       "grain",
@@ -2831,13 +3528,32 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/stir-fried-eggplant-with-pork.html",
+    "external_url": "https://www.bonappetit.com/recipe/stir-fried-eggplant-with-pork",
     "tags": [
       "pork",
       "eggplant",
       "bon-appetit",
       "asian-ish",
       "diana"
+    ]
+  },
+  {
+    "title": "Swedish Cardamom Buns",
+    "source": "https://dkelter17.github.io/nomz/recipes/swedish-cardamom-buns.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "breakfast",
+    "url": "https://dkelter17.github.io/nomz/recipes/swedish-cardamom-buns.html",
+    "external_url": "https://food52.com/recipes/39535-leila-lindholm-s-classic-swedish-cinnamon-cardamom-buns",
+    "tags": [
+      "baking"
     ]
   },
   {
@@ -2850,7 +3566,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/thai-yellow-curry.html",
+    "external_url": "http://thefoodcharlatan.com/2016/02/16/slow-cooker-basil-chicken-in-coconut-curry-sauce/",
     "tags": [
       "chicken",
       "leftovers",
@@ -2867,7 +3585,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/tilapia-fish-tacos.html",
+    "external_url": "",
     "tags": [
       "tilapia"
     ]
@@ -2882,7 +3602,9 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/turmeric-coconut-curry-with-ground-pork.html",
+    "external_url": "https://www.bonappetit.com/recipe/turmeric-coconut-curry-with-pork",
     "tags": [
       "pork",
       "bon-appetit",
@@ -2899,10 +3621,65 @@
     "feeds": 0,
     "season": null,
     "rating": 0,
+    "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/vegan-red-lentil-curry.html",
+    "external_url": "https://www.rainbowplantlife.com/blog/vegan-red-lentil-curry",
     "tags": [
       "curry",
       "vegan"
+    ]
+  },
+  {
+    "title": "Whiskey & Rye Chocolate Chip Cookies",
+    "source": "https://dkelter17.github.io/nomz/recipes/whiskey-and-rye-chocolate-chip-cookies.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "https://dkelter17.github.io/nomz/recipes/whiskey-and-rye-chocolate-chip-cookies.html",
+    "external_url": "https://www.bonappetit.com/recipe/whiskey-and-rye-chocolate-chip-cookies",
+    "tags": [
+      "cookies",
+      "chocolate"
+    ]
+  },
+  {
+    "title": "Yoghurt",
+    "source": "https://dkelter17.github.io/nomz/recipes/yoghurt.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "breakfast",
+    "url": "https://dkelter17.github.io/nomz/recipes/yoghurt.html",
+    "external_url": "",
+    "tags": [
+      "instant-pot"
+    ]
+  },
+  {
+    "title": "Zingerman's Pimento Cheese",
+    "source": "https://dkelter17.github.io/nomz/recipes/zingermans-pimento-cheese.html",
+    "author": null,
+    "protein": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "tapas",
+    "url": "https://dkelter17.github.io/nomz/recipes/zingermans-pimento-cheese.html",
+    "external_url": "https://www.zingermansroadhouse.com/2010/01/zingermans-pimento-cheese-recipe/",
+    "tags": [
+      "cheese",
+      "dip"
     ]
   }
 ]
