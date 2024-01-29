@@ -65,14 +65,14 @@ function displayRecipeResults(recipes) {
       if (item.url) {
         const titleLink = document.createElement('a')
         titleLink.href = item.url
-        titleLink.innerText = item.title
+        titleLink.appendChild(document.createTextNode(item.title))
         titleH3.appendChild(titleLink)
         recipeListItem.appendChild(titleH3)
       } else {
         titleH3.innerText = item.title
         const source = document.createElement('p')
         source.classList.add('no-bottom-margin')
-        source.innerText = `Source: ${item.source}`
+        source.appendChild(document.createTextNode(`Source: ${item.source} by ${item.author}`))
         recipeListItem.appendChild(titleH3)
         recipeListItem.appendChild(source)
       }

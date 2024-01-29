@@ -73,35 +73,58 @@ function searchWithLunr() {
 
 function displaySearchResults(results, store) {
   var searchResults = document.getElementById('search-results');
+  for(const childNode of searchResults.childNodes) {
+    searchResults.removeChild(childNode)
+  }
 
   if (results.length) { // Are there any results?
-    var appendString = '<ol>';
+    const resultsList = document.createElement('ol')
 
     for (var i = 0; i < results.length; i++) {  // Iterate over the results
-      var item = store[results[i].ref];
-      appendString += '<li>' + formatSearchResult(item) + '</li>';
+      const item = store[results[i].ref];
+      const listItem = document.createElement('li')
+      formatSearchResult(listItem, item)
+      resultsList.appendChild(listItem)
     }
 
-    searchResults.innerHTML = appendString + '</ol>';
+    searchResults.appendChild(resultsList)
   } else {
-    searchResults.innerHTML = '<li>No results found</li>';
+    const noResultsFound = document.createElement('li')
+    noResultsFound.innerText = 'No results found.'
+    searchResults.appendChild(noResultsFound)
   }
 }
 
-function formatSearchResult(item) {
-  var appendString = '';
-  if (item.url != '') {
-    appendString += '<a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
+function formatSearchResult(listItemEl, item) {
+  const titleH3 = document.createElement('h3')
+  if (item.url && item.url != '') {
+    const titleLink = document.createElement('a')
+    titleLink.href = item.url
+    titleLink.appendChild(document.createTextNode(item.title))
+    titleH3.appendChild(titleLink)
+    listItemEl.appendChild(titleH3)
+
     if (item.content != '') {
-      appendString += '<p>' + item.content.substring(0, 190) + ' ...</p>';
+      const contentEl = document.createElement('p')
+      contentEl.innerText = item.content.substring(0, 190) + ' ...'
+      listItemEl.appendChild(contentEl)
     }
   } else {
-    appendString += `<h3>${item.title}</h3>`;
-    appendString += `<p>${item.source} by ${item.author}</p>`;
+    titleH3.innerText = item.title
+    const source = document.createElement('p')
+    source.classList.add('no-bottom-margin')
+    source.innerText = `${item.source} by ${item.author}`
+    listItemEl.appendChild(titleH3)
+    listItemEl.appendChild(source)
   }
 
-  appendString += '<p> Tags: ' + item.tags.join(" ") + '</p>';
-  return appendString
+  const tags = item.tags || []
+  if (tags.length > 0) {
+    const tagsWithHash = tags.map((tag) => `#${tag}`)
+    const tagsListEl = document.createElement('p')
+    tagsListEl.innerText = `Tags: ${tagsWithHash.join(' ')}`
+    listItemEl.appendChild(tagsListEl)
+  }
 }
 
 document.addEventListener('readystatechange', (event) => {

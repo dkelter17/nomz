@@ -3,7 +3,7 @@
 {
   {%- for recipe in site.data.recipe_database -%}
     "{{ recipe.source | slugify }}": {
-      "title": "{{ recipe.title | xml_escape }}",
+      "title": "{{ recipe.title | replace:'"', "'" }}",
       "category": "dinner",
       "tags": {{ recipe.tags | jsonify}},
       "content": {{ recipe.content | strip_newlines | jsonify }},
