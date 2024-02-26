@@ -2723,6 +2723,28 @@
     ]
   },
   {
+    "title": "Chez Panisse's Blueberry Cobbler",
+    "source": "https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler",
+    "author": "Lindsey Remolif Shere",
+    "protein": [
+
+    ],
+    "herbs": [
+
+    ],
+    "day_of_week": "weekend",
+    "feeds": 0,
+    "season": "spring",
+    "rating": 3,
+    "category": "dessert",
+    "url": "https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler",
+    "external_url": "https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler",
+    "tags": [
+      "spring",
+      "weekend"
+    ]
+  },
+  {
     "title": "\"$250\" Chocolate Chip Cookies",
     "source": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
     "author": null,
