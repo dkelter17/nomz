@@ -118,6 +118,14 @@ function formatSearchResult(listItemEl, item) {
     listItemEl.appendChild(source)
   }
 
+  if (item.drive_url && item.drive_url != ''){
+    const driveURLIconLink = document.createElement('a')
+    driveURLIconLink.title = `View ${item.title} on Google Drive`
+    driveURLIconLink.href = item.drive_url
+    driveURLIconLink.innerText = ` △`
+    titleH3.appendChild(driveURLIconLink)
+  }
+
   const tags = item.tags || []
   if (tags.length > 0) {
     const tagsWithHash = tags.map((tag) => `#${tag}`)

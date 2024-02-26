@@ -43,6 +43,7 @@ class Recipe < Struct.new(
   :category,
   :url,
   :external_url,
+  :drive_url,
   :tags)
 
   def self.create(
@@ -57,6 +58,7 @@ class Recipe < Struct.new(
       rating:,
       category:,
       external_url:,
+      drive_url:,
       tags:)
     url = if source.to_s.start_with?("http")
       source
@@ -64,7 +66,22 @@ class Recipe < Struct.new(
       nil
     end
     external_url = "" if external_url.nil? || external_url.empty? || !external_url.start_with?("http")
-    new(title, source, author, protein, herbs, day_of_week, feeds, season, rating, category, url, external_url, tags)
+    new(
+      title,
+      source,
+      author,
+      protein,
+      herbs,
+      day_of_week,
+      feeds,
+      season,
+      rating,
+      category,
+      url,
+      external_url,
+      drive_url,
+      tags
+    )
   end
 
   def to_json(json_state = nil)
@@ -74,6 +91,7 @@ end
 
 recipe_list = rows.each_with_object([]) do |row, memo|
   next if row["Source"].nil?
+
   memo << Recipe.create(
     title: row["Recipe Name"],
     source: row["Source"],
@@ -86,6 +104,7 @@ recipe_list = rows.each_with_object([]) do |row, memo|
     rating: row["Rating (3)"].to_i,
     category: row["Category"].to_s.downcase,
     external_url: row["Source"].to_s,
+    drive_url: row["Drive URL"].to_s,
     tags: [
       row["Protein"].to_s.downcase,
       *row["Herbs"].to_s.split(",").map(&:strip).map(&:downcase).map{|s| s.split("/")},
@@ -98,7 +117,6 @@ end
 site = Jekyll::Site.new(Jekyll.configuration)
 site.read
 site.collections["recipes"].docs.each do |doc|
-  row = {}
   recipe_list << Recipe.create(
     title: doc.data.fetch("title"),
     source: NOMZ_PROD_URL + doc.url,
@@ -110,6 +128,7 @@ site.collections["recipes"].docs.each do |doc|
     season: doc.data["season"],
     rating: doc.data["rating"].to_i,
     category: doc.data["category"].to_s.downcase,
+    drive_url: (doc.data["drive-url"] || doc.data["drive_url"]).to_s,
     external_url: doc.data["external-url"].to_s,
     tags: doc.data["tags"],
   )

@@ -16,6 +16,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "dill",
@@ -40,6 +41,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "lamb",
       "mint",
@@ -64,6 +66,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "shrimp",
       "basil",
@@ -88,6 +91,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "shrimp",
       "weekday"
@@ -110,6 +114,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "dill",
@@ -135,6 +140,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken (optional)",
       "cilantro",
@@ -159,6 +165,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "parsley",
       "autumn",
@@ -182,6 +189,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "cilantro",
       "weekday"
@@ -204,6 +212,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "parsley",
       "summer",
@@ -227,6 +236,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "weekend"
     ]
@@ -248,6 +258,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "weekday"
     ]
@@ -269,6 +280,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "prosciutto",
       "weekday"
@@ -291,6 +303,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "basil",
       "summer",
@@ -314,6 +327,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "cilantro (optional)",
@@ -337,6 +351,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "shrimps",
       "cilantro (optional)",
@@ -360,6 +375,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "pork",
       "sage",
@@ -383,6 +399,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "pork",
       "weekday"
@@ -405,6 +422,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "beef",
       "cilantro (optional)",
@@ -428,6 +446,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "beef",
       "cilantro",
@@ -451,6 +470,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "beef",
       "weekday"
@@ -473,6 +493,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "beef",
       "parsley",
@@ -496,6 +517,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "beef",
       "parsley (optional)",
@@ -520,6 +542,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "eggs",
       "spring",
@@ -543,6 +566,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "parsley",
@@ -566,6 +590,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "parsley",
@@ -589,6 +614,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "cilantro (optional)",
@@ -612,6 +638,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "salmon",
       "thyme",
@@ -635,6 +662,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "salmon",
       "basil (optional)",
@@ -659,6 +687,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "tilapia",
       "basil",
@@ -683,6 +712,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "halibut",
       "thyme",
@@ -707,6 +737,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "tilapia",
       "weekday"
@@ -729,6 +760,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "shrimp",
       "cilantro",
@@ -753,6 +785,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "salmon",
       "chives",
@@ -779,6 +812,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "cilantro",
@@ -802,6 +836,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "winter",
@@ -825,6 +860,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "grain",
       "mint",
@@ -848,6 +884,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "basil",
       "summer",
@@ -871,6 +908,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "tofu",
       "weekday"
@@ -894,6 +932,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "lentil, bean",
       "weekday"
@@ -916,6 +955,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "weekday"
     ]
@@ -937,6 +977,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "weekday"
     ]
@@ -958,6 +999,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "sage",
       "weekday"
@@ -980,6 +1022,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "winter",
       "weekend"
@@ -1002,6 +1045,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/1cT_ts1GMZD-X9QxpBlv113TfRXQXTw80/view?usp=drive_link",
     "tags": [
       "chicken",
       "winter",
@@ -1025,6 +1069,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/18Tk5SEI1g-tbmP-BOqdTvY8kJn43A8kO/view?usp=drive_link",
     "tags": [
       "chicken",
       "chives",
@@ -1049,6 +1094,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/1Y93y6j5D98aw-LHoAkVu0z7f6rG6vL9l/view?usp=drive_link",
     "tags": [
       "tilapia",
       "weekday"
@@ -1071,6 +1117,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/1o4pRTMSoL9sLmxqz1eEbMKUNEiYjIJnM/view?usp=drive_link",
     "tags": [
       "lamb",
       "dill",
@@ -1097,6 +1144,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
     "tags": [
       "mint",
       "weekday"
@@ -1119,6 +1167,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
     "tags": [
       "basil",
       "weekday"
@@ -1141,6 +1190,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/106RWW9MWFck6RNLnyZTow2pF_Q768WFI/view?usp=drive_link",
     "tags": [
       "beef",
       "cilantro",
@@ -1164,6 +1214,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/1rM9ppFvtmi7HY-FcC4GUdjK2_hE2q145/view?usp=drive_link",
     "tags": [
       "tofu",
       "weekday"
@@ -1186,6 +1237,7 @@
     "category": "dinner",
     "url": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
     "external_url": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
+    "drive_url": "https://drive.google.com/file/d/1OV80NlItrPd3CUydjmOTzKr6NaZqLeix/view?usp=drive_link",
     "tags": [
       "pork",
       "weekday"
@@ -1208,6 +1260,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
     "external_url": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
+    "drive_url": "https://drive.google.com/file/d/1bA3aMSexnZyKo2i_v3x-rh1jdO0QtXwn/view?usp=drive_link",
     "tags": [
       "mint",
       "weekday"
@@ -1230,6 +1283,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
     "external_url": "https://mollybaz.com/harissa-grilled-chicken-flatbreads-with-pistachio-lime-yogurt/",
+    "drive_url": "https://drive.google.com/file/d/10mconTwBCSvDIycVMv5LIeseJejpwfbn/view?usp=drive_link",
     "tags": [
       "chicken",
       "dill",
@@ -1253,6 +1307,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/white-bean-bolognese/",
     "external_url": "https://mollybaz.com/white-bean-bolognese/",
+    "drive_url": "https://drive.google.com/file/d/1i2NINlv6ujFc2WQzJyle2GWOeCgrXowx/view?usp=drive_link",
     "tags": [
       "parsley",
       "weekday"
@@ -1275,6 +1330,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/leaf-peepin-ragu/",
     "external_url": "https://mollybaz.com/leaf-peepin-ragu/",
+    "drive_url": "https://drive.google.com/file/d/1NeEQEvTC50Iy8056LRHf-NHc2ftGAtEn/view?usp=drive_link",
     "tags": [
       "sage",
       "autumn",
@@ -1298,6 +1354,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
     "external_url": "https://mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce/",
+    "drive_url": "https://drive.google.com/file/d/1OlEInFox5UZp2WMWePJltD3Az9pMn_ok/view?usp=drive_link",
     "tags": [
       "salmon",
       "weekday"
@@ -1320,6 +1377,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/chicky-chicky-bread-bread/",
     "external_url": "https://mollybaz.com/chicky-chicky-bread-bread/",
+    "drive_url": "https://drive.google.com/file/d/15Dd-N0FtHiXg76iA9LnYBJls63mFxalw/view?usp=drive_link",
     "tags": [
       "chicken",
       "weekend"
@@ -1342,6 +1400,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
     "external_url": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
+    "drive_url": "https://drive.google.com/file/d/1aojiqn1QgrBddL1gyduWnDk6e0eWk29R/view?usp=drive_link",
     "tags": [
       "mint",
       "weekend"
@@ -1364,6 +1423,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
     "external_url": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
+    "drive_url": "https://drive.google.com/file/d/1JeQ2fhD0ybgadPB_8I3K2qUl3b0tn_mT/view?usp=drive_link",
     "tags": [
       "ginger"
     ]
@@ -1385,6 +1445,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
     "external_url": "https://mollybaz.com/celebration-steak-with-jammy-vinegar-shallots/",
+    "drive_url": "https://drive.google.com/file/d/1HnjG4DLFBQSxSgdIYPUCteeLRppXwenq/view?usp=drive_link",
     "tags": [
       "beef",
       "weekday"
@@ -1410,6 +1471,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
     "external_url": "https://mollybaz.com/farro-and-crunchy-thangs-salad-with-herby-feta-dressing/",
+    "drive_url": "https://drive.google.com/file/d/1xoGIhQSc4k1QlO0phAL6EAXAELEUm55K/view?usp=drive_link",
     "tags": [
       "grain",
       "cilantro",
@@ -1436,6 +1498,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
     "external_url": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
+    "drive_url": "https://drive.google.com/file/d/1II0ZAc6yZ449m6L-cn2pHVvObqTB8_Qj/view?usp=drive_link",
     "tags": [
       "chives"
     ]
@@ -1457,6 +1520,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/caesared-egg-sally/",
     "external_url": "https://mollybaz.com/caesared-egg-sally/",
+    "drive_url": "https://drive.google.com/file/d/1B9euFpBkBE2ubOTKqCpj3Z_LNDX1jqTK/view?usp=drive_link",
     "tags": [
       "egg",
       "celery"
@@ -1482,6 +1546,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
     "external_url": "https://mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt/",
+    "drive_url": "https://drive.google.com/file/d/1zI9fqvfEAULsvG2qmPEtLQPwkbNfsHs-/view?usp=drive_link",
     "tags": [
       "beef",
       "cilantro",
@@ -1507,6 +1572,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
     "external_url": "https://mollybaz.com/summer-ragu-with-zucchini-ricotta-and-mint/",
+    "drive_url": "https://drive.google.com/file/d/1butv0HYqVw45wCu_YKboP-TZw2tP0Zir/view?usp=drive_link",
     "tags": [
       "pork",
       "mint"
@@ -1530,6 +1596,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
     "external_url": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
+    "drive_url": "https://drive.google.com/file/d/11s7GGujfMEKf6zT4uqXDYa58gzADNwew/view?usp=drive_link",
     "tags": [
       "parsley",
       "basil"
@@ -1552,6 +1619,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
     "external_url": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
+    "drive_url": "https://drive.google.com/file/d/1Gn0DzmST8qUH8PFXxKHhGvpn48s0-v4Z/view?usp=drive_link",
     "tags": [
       "cilantro"
     ]
@@ -1573,6 +1641,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
     "external_url": "https://mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil/",
+    "drive_url": "https://drive.google.com/file/d/10e6w0TbtxDvdZa5otHaSOs6dDQrx1RUI/view?usp=drive_link",
     "tags": [
       "chicken",
       "basil"
@@ -1595,6 +1664,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
     "external_url": "https://mollybaz.com/grilled-pork-steaks-with-giardiniera/",
+    "drive_url": "https://drive.google.com/file/d/1is4wFUYEaYVHqtUm2PA9AlhQRqljxjT8/view?usp=drive_link",
     "tags": [
       "pork",
       "parsley",
@@ -1618,6 +1688,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
     "external_url": "https://mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha/",
+    "drive_url": "https://drive.google.com/file/d/1YHq6kBr24cBqvvtBVfYnBGSc3DmybTXL/view?usp=drive_link",
     "tags": [
       "steak"
     ]
@@ -1639,6 +1710,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
     "external_url": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
+    "drive_url": "https://drive.google.com/file/d/1UhzDKaAWZm5W5QRFkX-J1qKQsTvClsO8/view?usp=drive_link",
     "tags": [
       "basil"
     ]
@@ -1660,6 +1732,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
     "external_url": "https://mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes/",
+    "drive_url": "https://drive.google.com/file/d/1z1HK8cUYUhKdoiozSqX50r9KFUzcY2q3/view?usp=drive_link",
     "tags": [
       "lamb",
       "mint",
@@ -1684,6 +1757,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
     "external_url": "https://mollybaz.com/pork-milanese-with-tonnato-and-celery-salad/",
+    "drive_url": "https://drive.google.com/file/d/1AHNoKcGQsqoIQx8c3zlFsQgUXRErX48b/view?usp=drive_link",
     "tags": [
       "pork",
       "parsley",
@@ -1707,6 +1781,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
     "external_url": "https://mollybaz.com/crispy-pork-cutlets-with-curry-salt/",
+    "drive_url": "https://drive.google.com/file/d/1Rqed2U5DsVcGNa3RdgD1h6QXQ0CpMiUo/view?usp=drive_link",
     "tags": [
       "pork"
     ]
@@ -1730,6 +1805,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
     "external_url": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
+    "drive_url": "https://drive.google.com/file/d/1A1I9yT49Nfx-hurQMRwPbwyR2mBAm4RP/view?usp=drive_link",
     "tags": [
       "parsley",
       "cilantro",
@@ -1753,6 +1829,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
     "external_url": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
+    "drive_url": "https://drive.google.com/file/d/1SB4_lcb8OhqS1nqwELRukBZkMuMZCXQc/view?usp=drive_link",
     "tags": [
 
     ]
@@ -1774,6 +1851,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
     "external_url": "https://mollybaz.com/gochujang-and-honey-braised-short-ribs/",
+    "drive_url": "https://drive.google.com/file/d/1jnjPP9FiUYApLX7rmXiz0FKg4RcAdRJm/view?usp=drive_link",
     "tags": [
       "beef",
       "parsley"
@@ -1796,6 +1874,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
     "external_url": "https://mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil/",
+    "drive_url": "https://drive.google.com/file/d/16pzjVftZDg1PO_indDWCDa5SKaBGRnkx/view?usp=drive_link",
     "tags": [
       "salmon",
       "basil"
@@ -1820,6 +1899,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
     "external_url": "https://mollybaz.com/ribeye-steaks-with-cracked-olive-chimichurri/",
+    "drive_url": "https://drive.google.com/file/d/1MHp875KW3kMaq3bZlyzgBf79Bh_BWEzO/view?usp=drive_link",
     "tags": [
       "beef",
       "parsley",
@@ -1844,6 +1924,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
     "external_url": "https://mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy-creme-fraiche/",
+    "drive_url": "https://drive.google.com/file/d/1edZyEOmVcqpN-Z2yEyiOy__3iyaSWvOj/view?usp=drive_link",
     "tags": [
       "chicken",
       "chives"
@@ -1867,6 +1948,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
     "external_url": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
+    "drive_url": "https://drive.google.com/file/d/1GlqATHteh2ntcwGiHmoTpAcvgtSoCzec/view?usp=drive_link",
     "tags": [
       "rosemary",
       "parsley",
@@ -1890,6 +1972,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
     "external_url": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
+    "drive_url": "https://drive.google.com/file/d/1lLSWGdWq8JzTaeruELuyk03d5wOmdsLX/view?usp=drive_link",
     "tags": [
       "mint"
     ]
@@ -1913,6 +1996,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
     "external_url": "https://mollybaz.com/beef-and-scallion-skewers-with-spicy-coconut-green-sauce/",
+    "drive_url": "https://drive.google.com/file/d/1-Gp36zk5Rg7wvqAD1ALfJKcTVgoauGIU/view?usp=drive_link",
     "tags": [
       "beef",
       "ginger",
@@ -1937,6 +2021,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/pork-and-pistachio-meatballs/",
     "external_url": "https://mollybaz.com/pork-and-pistachio-meatballs/",
+    "drive_url": "https://drive.google.com/file/d/1PHGL3nKyxCig-m7Bl1Cvxf7jGU__QJEO/view?usp=drive_link",
     "tags": [
       "pork",
       "parsley"
@@ -1959,6 +2044,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
     "external_url": "https://mollybaz.com/reverse-sear-ribeye-with-caesar-butter/",
+    "drive_url": "https://drive.google.com/file/d/1Q6Tglve8HAUwuFi6dpQyesD5-0XMnoRN/view?usp=drive_link",
     "tags": [
       "beef",
       "chives"
@@ -1981,6 +2067,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
     "external_url": "https://mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey/",
+    "drive_url": "https://drive.google.com/file/d/18oNioGVnXsRkrZBfgZ5dZSWAWeDXL-rx/view?usp=drive_link",
     "tags": [
       "pork",
       "weekend"
@@ -2003,6 +2090,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
     "external_url": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
+    "drive_url": "https://drive.google.com/file/d/1OfoxWGsPOZhO2gxH3qpg3gLKUR6zdjB3/view?usp=drive_link",
     "tags": [
       "basil"
     ]
@@ -2024,6 +2112,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
     "external_url": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
+    "drive_url": "https://drive.google.com/file/d/1BBNbYAfXiwF-eRe_wBD3rrZSMMt1eCy1/view?usp=drive_link",
     "tags": [
       "parsley"
     ]
@@ -2046,6 +2135,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
     "external_url": "https://mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil/",
+    "drive_url": "https://drive.google.com/file/d/13VoiGKSrjkClvqSyqZ6l0mtjn6suWQV4/view?usp=drive_link",
     "tags": [
       "beef",
       "ginger",
@@ -2070,6 +2160,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
     "external_url": "https://mollybaz.com/molly-marbella-with-dates-and-israeli-couscous/",
+    "drive_url": "https://drive.google.com/file/d/1G0iK31w7vIfrwCjGdrMB_iIfvn_tLvij/view?usp=drive_link",
     "tags": [
       "thyme"
     ]
@@ -2091,6 +2182,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
     "external_url": "https://cooking.nytimes.com/recipes/1020726-sheet-pan-chicken-and-potatoes-with-feta-lemon-and-dill",
+    "drive_url": "https://drive.google.com/file/d/1rHmCZM5k9DFRYX_8IZgcSpKRlTXY4w8z/view?usp=drive_link",
     "tags": [
       "chicken",
       "dill"
@@ -2114,6 +2206,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
     "external_url": "https://cooking.nytimes.com/recipes/1015081-cumin-lamb-meatballs-with-tahini-yogurt-dipping-sauce",
+    "drive_url": "https://drive.google.com/file/d/1aTYDw2mZc3_lbguxA2MBa5arOHTZ9CMQ/view?usp=drive_link",
     "tags": [
       "lamb",
       "scallions",
@@ -2137,6 +2230,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos",
     "external_url": "https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-honey-chicken-tacos",
+    "drive_url": "https://drive.google.com/file/d/1uRDSBNu4h5THQs86vz2EECxqkKVuBZi7/view?usp=drive_link",
     "tags": [
       "chicken"
     ]
@@ -2158,6 +2252,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
     "external_url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+    "drive_url": "https://drive.google.com/file/d/1jQmeLQ2ex9Mt23tjL_fXx3hFG2U_8zXP/view?usp=drive_link",
     "tags": [
       "pork",
       "chives"
@@ -2180,6 +2275,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
     "external_url": "https://cooking.nytimes.com/recipes/1019042-classic-lasagna",
+    "drive_url": "https://drive.google.com/file/d/1EgvOp96tN9LaXA1xPc3z8Y7GgnU31XAt/view?usp=drive_link",
     "tags": [
       "weekend"
     ]
@@ -2201,6 +2297,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
     "external_url": "https://cooking.nytimes.com/recipes/1015080-sweet-and-salty-grilled-steak-with-cucumber-salad",
+    "drive_url": "https://drive.google.com/file/d/1THZXsIGf8K2146PeY5gnWrsbhu27hLwl/view?usp=drive_link",
     "tags": [
       "beef",
       "scallions"
@@ -2223,6 +2320,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
     "external_url": "https://cooking.nytimes.com/recipes/1013192-chicken-quesadillas-with-avocado-cucumber-salsa",
+    "drive_url": "https://drive.google.com/file/d/13164buGYWDgTY3ctKNpZQZWj5aT7-wRJ/view?usp=drive_link",
     "tags": [
       "chicken",
       "cilantro"
@@ -2246,6 +2344,7 @@
     "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
     "external_url": "https://www.bonappetit.com/recipe/beef-and-bacon-stew",
+    "drive_url": "https://drive.google.com/file/d/1ghtJ7PqGekRfsFS7qEBBf8nQ8ZDphUIx/view?usp=drive_link",
     "tags": [
       "beef",
       "thyme",
@@ -2270,6 +2369,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
     "external_url": "https://cooking.nytimes.com/recipes/1019962-sheet-pan-harissa-salmon-with-potatoes-and-citrus",
+    "drive_url": "https://drive.google.com/file/d/1UiciLWViwFR_konNXq70BdbN_aQUDp7U/view?usp=drive_link",
     "tags": [
       "salmon",
       "cilantro",
@@ -2294,6 +2394,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
     "external_url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
+    "drive_url": "https://drive.google.com/file/d/1_nOZCpuNSieI0AB5nxMZGSrEjVce3ge6/view?usp=drive_link",
     "tags": [
       "salmon",
       "cilantro",
@@ -2317,6 +2418,7 @@
     "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
     "external_url": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
+    "drive_url": "https://drive.google.com/file/d/1qiJOZ4KWG4OO0o30BCl1XKKyGe7ECP14/view?usp=drive_link",
     "tags": [
       "parsley",
       "summer",
@@ -2340,6 +2442,7 @@
     "category": "dinner",
     "url": "https://www.mehreenkarim.com/recipes/crispy-miso-beef",
     "external_url": "https://www.mehreenkarim.com/recipes/crispy-miso-beef",
+    "drive_url": "https://drive.google.com/file/d/1sJKdMLfXB8NM9w7RLTg0bonubTLl0pwd/view?usp=drive_link",
     "tags": [
       "beef",
       "ginger",
@@ -2363,6 +2466,7 @@
     "category": "snack",
     "url": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
     "external_url": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
+    "drive_url": "https://drive.google.com/file/d/1n2Bhc7bEgaXbVbmEGlcTe3fli8GFEA7j/view?usp=drive_link",
     "tags": [
       "weekend"
     ]
@@ -2384,6 +2488,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche/",
     "external_url": "https://mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche/",
+    "drive_url": "https://drive.google.com/file/d/1VeQVYi3AMf6sXxy1Hz9wL8HUStrJ9r8i/view?usp=drive_link",
     "tags": [
       "chicken",
       "weekend"
@@ -2406,6 +2511,7 @@
     "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
     "external_url": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
+    "drive_url": "https://drive.google.com/file/d/1X4o0AsQlvwtAnXp6yRf4jl4rcjiaL6I-/view?usp=drive_link",
     "tags": [
       "chicken ",
       "summer",
@@ -2429,6 +2535,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1023343-salt-and-pepper-tofu",
     "external_url": "https://cooking.nytimes.com/recipes/1023343-salt-and-pepper-tofu",
+    "drive_url": "https://drive.google.com/file/d/1orrbK5qc8pWALZgtITED241MaPrk5lI8/view?usp=drive_link",
     "tags": [
       "tofu",
       "weekday"
@@ -2452,6 +2559,7 @@
     "category": "dinner",
     "url": "https://chejorge.com/2020/07/06/crispy-mongolian-tofu/",
     "external_url": "https://chejorge.com/2020/07/06/crispy-mongolian-tofu/",
+    "drive_url": "https://drive.google.com/file/d/148U6baaEtuCPEtXMnBbUxPvjHMw0khU4/view?usp=drive_link",
     "tags": [
       "tofu",
       "ginger",
@@ -2476,6 +2584,7 @@
     "category": "dinner",
     "url": "https://mollybaz.com/spicy-scampi-with-burrata-and-pistachios/",
     "external_url": "https://mollybaz.com/spicy-scampi-with-burrata-and-pistachios/",
+    "drive_url": "https://drive.google.com/file/d/1VBs_U-lupyWMsGtmH331NKUJwI7bmE7L/view?usp=drive_link",
     "tags": [
       "shrimp",
       "weekday"
@@ -2498,6 +2607,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "cilantro",
@@ -2521,6 +2631,7 @@
     "category": "dinner",
     "url": "https://www.mehreenkarim.com/recipes/salmon-curry",
     "external_url": "https://www.mehreenkarim.com/recipes/salmon-curry",
+    "drive_url": "https://drive.google.com/file/d/1TwrIM8kfOqKOl2ymaI_NUV0127wADB5Q/view?usp=drive_link",
     "tags": [
       "salmon",
       "weekday"
@@ -2543,6 +2654,7 @@
     "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/melted-fennel-pasta",
     "external_url": "https://www.bonappetit.com/recipe/melted-fennel-pasta",
+    "drive_url": "https://drive.google.com/file/d/1N28G0RVdO2wq-bbJPI13n4dyCv8jUW8P/view?usp=drive_link",
     "tags": [
       "weekday"
     ]
@@ -2564,6 +2676,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1024864-turkey-farro-and-chickpea-soup",
     "external_url": "https://cooking.nytimes.com/recipes/1024864-turkey-farro-and-chickpea-soup",
+    "drive_url": "https://drive.google.com/file/d/1dIcgujNixUEpxacl_t8cD5t6ISRmquCQ/view?usp=drive_link",
     "tags": [
       "chicken",
       "cilantro",
@@ -2587,6 +2700,7 @@
     "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
     "external_url": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
+    "drive_url": "https://drive.google.com/file/d/11XFqVa2yS5kpFsBspFihSTJK2jUqjzd1/view?usp=drive_link",
     "tags": [
       "weekday"
     ]
@@ -2608,6 +2722,7 @@
     "category": "dinner",
     "url": null,
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "salmon",
       "weekday"
@@ -2615,7 +2730,7 @@
   },
   {
     "title": "Double Pepper Diavolo with Shrimp",
-    "source": "p. 22 Feb 2024 Bon Appetit",
+    "source": "https://www.bonappetit.com/recipe/double-pepper-diavolo-with-shrimp",
     "author": "Shilpa Uskokovic",
     "protein": [
       "shrimp"
@@ -2628,8 +2743,9 @@
     "season": "",
     "rating": 0,
     "category": "dinner",
-    "url": null,
-    "external_url": "",
+    "url": "https://www.bonappetit.com/recipe/double-pepper-diavolo-with-shrimp",
+    "external_url": "https://www.bonappetit.com/recipe/double-pepper-diavolo-with-shrimp",
+    "drive_url": "",
     "tags": [
       "shrimp",
       "weekday"
@@ -2637,7 +2753,7 @@
   },
   {
     "title": "Mustardy Cider-Braised Pork Chops",
-    "source": "p. 47 Feb 2024 Bon Appetit",
+    "source": "https://www.bonappetit.com/recipe/mustardy-cider-braised-pork-chops",
     "author": "Inés Anguiano",
     "protein": [
       "pork"
@@ -2650,8 +2766,9 @@
     "season": "",
     "rating": 0,
     "category": "dinner",
-    "url": null,
-    "external_url": "",
+    "url": "https://www.bonappetit.com/recipe/mustardy-cider-braised-pork-chops",
+    "external_url": "https://www.bonappetit.com/recipe/mustardy-cider-braised-pork-chops",
+    "drive_url": "",
     "tags": [
       "pork",
       "thyme",
@@ -2675,6 +2792,7 @@
     "category": "dessert",
     "url": "https://whatmollymade.com/toffee-cookies/#recipe",
     "external_url": "https://whatmollymade.com/toffee-cookies/#recipe",
+    "drive_url": "https://drive.google.com/file/d/1oLcVPniBtzNfmz_v6RcuEsw7UpphNbmd/view?usp=drive_link",
     "tags": [
 
     ]
@@ -2696,6 +2814,7 @@
     "category": "dinner",
     "url": "https://cooking.nytimes.com/recipes/1024086-carrot-risotto-with-chile-crisp",
     "external_url": "https://cooking.nytimes.com/recipes/1024086-carrot-risotto-with-chile-crisp",
+    "drive_url": "https://drive.google.com/file/d/1k4hig6E2U7SyLJe8UZ4H1A0nq66-q64v/view?usp=drive_link",
     "tags": [
       "weekday"
     ]
@@ -2717,6 +2836,7 @@
     "category": "dinner",
     "url": "https://www.bonappetit.com/recipe/rice-noodles-with-shrimp-and-coconut-lime-dressing",
     "external_url": "https://www.bonappetit.com/recipe/rice-noodles-with-shrimp-and-coconut-lime-dressing",
+    "drive_url": "https://drive.google.com/file/d/1H0pNdbZJeNq89TF_KvHelLnNzbd4_Llr/view?usp=drive_link",
     "tags": [
       "cilantro",
       "weekday"
@@ -2739,6 +2859,7 @@
     "category": "dessert",
     "url": "https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler",
     "external_url": "https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler",
+    "drive_url": "https://drive.google.com/file/d/1LjspqKnhDMtwuWK6gB2KjXP9hZRb7SVo/view?usp=drive_link",
     "tags": [
       "spring",
       "weekend"
@@ -2761,6 +2882,7 @@
     "category": "dessert",
     "url": "https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies",
     "external_url": "https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies",
+    "drive_url": "https://drive.google.com/file/d/1EKpPkQLrK-SGJpB-i9fOeMgAAg8zAErV/view?usp=drive_link",
     "tags": [
       "weekend"
     ]
@@ -2778,6 +2900,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
     "external_url": "https://cooking.nytimes.com/recipes/9465-the-250-cookie-recipe",
+    "drive_url": "",
     "tags": [
       "cookies",
       "chocolate"
@@ -2796,6 +2919,7 @@
     "category": "topping",
     "url": "https://dkelter17.github.io/nomz/recipes/amazing-chicken-marinade.html",
     "external_url": "http://www.food.com/recipe/amazing-chicken-marinade-29598",
+    "drive_url": "",
     "tags": [
       "chicken"
     ]
@@ -2813,6 +2937,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/banana-bread.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "baking"
     ]
@@ -2830,6 +2955,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/braised-lemongrass-short-rib-noodle-bowl.html",
     "external_url": "https://www.youtube.com/watch?v=tV7q_ZoR1AE",
+    "drive_url": "",
     "tags": [
       "beef",
       "one-pot",
@@ -2849,6 +2975,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/carlas-calabrian-chicken-thigs-and-cooling-salad.html",
     "external_url": "https://www.youtube.com/watch?v=Q-IiJa76kG4",
+    "drive_url": "",
     "tags": [
       "chicken"
     ]
@@ -2866,6 +2993,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/carlas-white-beans.html",
     "external_url": "https://www.bonappetit.com/story/the-best-pot-of-beans-is-in-your-future",
+    "drive_url": "",
     "tags": [
       "veg",
       "bon-appetit"
@@ -2884,6 +3012,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/cheesy-taco-rice-with-chicken.html",
     "external_url": "https://workweeklunch.com/recipe/easy-cheesy-taco-rice/",
+    "drive_url": "",
     "tags": [
       "chicken",
       "rice",
@@ -2903,6 +3032,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/chicken-marbella.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chicken",
       "one-pan"
@@ -2921,6 +3051,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/chili.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "beef",
       "one-pot",
@@ -2940,6 +3071,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/coconut-cod-chowder.html",
     "external_url": "https://www.bonappetit.com/recipe/coconut-cod-chowder",
+    "drive_url": "",
     "tags": [
       "fish",
       "bon-appetit",
@@ -2959,6 +3091,7 @@
     "category": "breakfast",
     "url": "https://dkelter17.github.io/nomz/recipes/coconut-rice.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "coconut",
       "rice"
@@ -2977,6 +3110,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/corn-chowder.html",
     "external_url": "https://www.tasteofhome.com/recipes/curried-chicken-corn-chowder/",
+    "drive_url": "",
     "tags": [
       "chicken",
       "coconut"
@@ -2995,6 +3129,7 @@
     "category": "topping",
     "url": "https://dkelter17.github.io/nomz/recipes/crackle-sauce.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "rice",
       "peanut"
@@ -3013,6 +3148,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/crockpot-bbq-chicken.html",
     "external_url": "http://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html",
+    "drive_url": "",
     "tags": [
       "chicken",
       "one-pot"
@@ -3031,6 +3167,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/date-cinnamon-buns.html",
     "external_url": "https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns",
+    "drive_url": "",
     "tags": [
       "bon-appetit",
       "basically"
@@ -3049,6 +3186,7 @@
     "category": "breakfast",
     "url": "https://dkelter17.github.io/nomz/recipes/erics-famous-orange-granola.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "cereal",
       "nuts"
@@ -3067,6 +3205,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/garlicky-shrimp-and-white-beans.html",
     "external_url": "https://cooking.nytimes.com/recipes/1024174-sheet-pan-garlicky-shrimp-and-white-beans",
+    "drive_url": "",
     "tags": [
       "bread"
     ]
@@ -3084,6 +3223,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/gingery-chicken-and-rice-with-peanut-sauce.html",
     "external_url": "https://www.bonappetit.com/recipe/one-pot-chicken-and-rice",
+    "drive_url": "",
     "tags": [
       "chicken",
       "bon-appetit",
@@ -3105,6 +3245,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/gochujang-burgers.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "spicy"
     ]
@@ -3122,6 +3263,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/grandma-pie.html",
     "external_url": "https://www.bonappetit.com/recipe/hot-and-sweet-soppressata-and-fennel-grandma-pie",
+    "drive_url": "",
     "tags": [
       "pizza"
     ]
@@ -3142,6 +3284,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/gumbo.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "soup"
     ]
@@ -3159,6 +3302,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/ina-garten-chocolate-pecan-scones-ba.html",
     "external_url": "https://www.bonappetit.com/recipe/ina-garten-chocolate-pecan-scones",
+    "drive_url": "",
     "tags": [
       "bon-appetit"
     ]
@@ -3176,6 +3320,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/jamie-oliver-spicy-sausage-fusilli.html",
     "external_url": "https://www.jamieoliver.com/recipes/pasta-recipes/spicy-sausage-fusilli/",
+    "drive_url": "",
     "tags": [
       "pasta",
       "sausage",
@@ -3195,6 +3340,7 @@
     "category": "breakfast",
     "url": "https://dkelter17.github.io/nomz/recipes/king-arthur-english-muffin-bread.html",
     "external_url": "https://www.kingarthurflour.com/recipes/english-muffin-toasting-bread-recipe",
+    "drive_url": "",
     "tags": [
       "bread"
     ]
@@ -3212,6 +3358,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/maple-miso-salmon.html",
     "external_url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
+    "drive_url": "",
     "tags": [
       "salmon",
       "fast",
@@ -3232,6 +3379,7 @@
     "category": "topping",
     "url": "https://dkelter17.github.io/nomz/recipes/mediterranean-spice-mix.html",
     "external_url": "http://www.mensfitness.com/nutrition/what-to-eat/healthy-grilling-marinades/slide/3",
+    "drive_url": "",
     "tags": [
 
     ]
@@ -3249,6 +3397,7 @@
     "category": "side",
     "url": "https://dkelter17.github.io/nomz/recipes/no-knead-focaccia.html",
     "external_url": "https://www.bonappetit.com/recipe/easy-no-knead-focaccia",
+    "drive_url": "",
     "tags": [
       "baking"
     ]
@@ -3266,6 +3415,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/nutella-mug-cake.html",
     "external_url": "https://www.babble.com/best-recipes/nutella-mug-cake/",
+    "drive_url": "",
     "tags": [
       "chocolate",
       "cake",
@@ -3285,6 +3435,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/oat-banana-breakfast-cookies.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "chocolate"
     ]
@@ -3302,6 +3453,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/oatmeal-chocolate-chip-cookies.html",
     "external_url": "https://www.quakeroats.com/cooking-and-recipes/vanishing-oatmeal-raisin-cookies",
+    "drive_url": "",
     "tags": [
       "cookies",
       "chocolate"
@@ -3320,6 +3472,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/one-skillet-rotisserie-chicken-pot-pie-ba.html",
     "external_url": "https://www.bonappetit.com/recipe/one-skillet-rotisserie-chicken-pot-pie",
+    "drive_url": "",
     "tags": [
       "meal",
       "bon-appetit",
@@ -3339,6 +3492,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/paleo-fudge.html",
     "external_url": "http://topchefcooking.com/primal-fudge-practical-paleo/",
+    "drive_url": "",
     "tags": [
       "chocolate",
       "frozen"
@@ -3357,6 +3511,7 @@
     "category": "tapas",
     "url": "https://dkelter17.github.io/nomz/recipes/parkers-salad.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "salad",
       "sweet"
@@ -3375,6 +3530,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/peanut-chicken-veggies-stir-fry.html",
     "external_url": "https://workweeklunch.com/peanut-stir-fry/",
+    "drive_url": "",
     "tags": [
       "chicken",
       "asian-ish",
@@ -3394,6 +3550,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/piri-piri-meatballs.html",
     "external_url": "https://www.bonappetit.com/recipe/piri-piri-meatballs",
+    "drive_url": "",
     "tags": [
       "beef",
       "bon-appetit",
@@ -3413,6 +3570,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/pizza-pasta.html",
     "external_url": "http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/",
+    "drive_url": "",
     "tags": [
       "pasta",
       "sausage"
@@ -3431,6 +3589,7 @@
     "category": "breakfast",
     "url": "https://dkelter17.github.io/nomz/recipes/pumpkin-bread.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "baking"
     ]
@@ -3448,6 +3607,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/roasted-cauliflower-with-whipped-cheese.html",
     "external_url": "http://saltedsugaredspiced.blogspot.com/2016/02/whole-roasted-cauliflower-with-whipped.html",
+    "drive_url": "",
     "tags": [
       "veg"
     ]
@@ -3465,6 +3625,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/salted-chocolate-chunk-shortbread-cookies.html",
     "external_url": "https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies",
+    "drive_url": "",
     "tags": [
       "cookies",
       "chocolate",
@@ -3484,6 +3645,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/salty-buckwheat-chocolate-chunk-cookies.html",
     "external_url": "https://www.bonappetit.com/recipe/salty-buckwheat-chocolate-chunk-cookies",
+    "drive_url": "",
     "tags": [
       "cookies",
       "chocolate",
@@ -3503,6 +3665,7 @@
     "category": "breakfast",
     "url": "https://dkelter17.github.io/nomz/recipes/samins-best-granola-ever.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "cereal",
       "nuts"
@@ -3521,6 +3684,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/shortbread.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "cookies"
     ]
@@ -3538,6 +3702,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/slow-roast-gochujang-chicken.html",
     "external_url": "https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken",
+    "drive_url": "",
     "tags": [
       "bon-appetit"
     ]
@@ -3555,6 +3720,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/southwest-quinoa.html",
     "external_url": "http://www.lecremedelacrumb.com/2014/12/slow-cooker-enchilada-quinoa.html",
+    "drive_url": "",
     "tags": [
       "chicken",
       "grain",
@@ -3574,6 +3740,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/stir-fried-eggplant-with-pork.html",
     "external_url": "https://www.bonappetit.com/recipe/stir-fried-eggplant-with-pork",
+    "drive_url": "",
     "tags": [
       "pork",
       "eggplant",
@@ -3595,6 +3762,7 @@
     "category": "breakfast",
     "url": "https://dkelter17.github.io/nomz/recipes/swedish-cardamom-buns.html",
     "external_url": "https://food52.com/recipes/39535-leila-lindholm-s-classic-swedish-cinnamon-cardamom-buns",
+    "drive_url": "",
     "tags": [
       "baking"
     ]
@@ -3612,6 +3780,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/thai-yellow-curry.html",
     "external_url": "http://thefoodcharlatan.com/2016/02/16/slow-cooker-basil-chicken-in-coconut-curry-sauce/",
+    "drive_url": "",
     "tags": [
       "chicken",
       "leftovers",
@@ -3631,6 +3800,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/tilapia-fish-tacos.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "tilapia"
     ]
@@ -3648,6 +3818,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/turmeric-coconut-curry-with-ground-pork.html",
     "external_url": "https://www.bonappetit.com/recipe/turmeric-coconut-curry-with-pork",
+    "drive_url": "",
     "tags": [
       "pork",
       "bon-appetit",
@@ -3667,6 +3838,7 @@
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/vegan-red-lentil-curry.html",
     "external_url": "https://www.rainbowplantlife.com/blog/vegan-red-lentil-curry",
+    "drive_url": "",
     "tags": [
       "curry",
       "vegan"
@@ -3685,6 +3857,7 @@
     "category": "dessert",
     "url": "https://dkelter17.github.io/nomz/recipes/whiskey-and-rye-chocolate-chip-cookies.html",
     "external_url": "https://www.bonappetit.com/recipe/whiskey-and-rye-chocolate-chip-cookies",
+    "drive_url": "",
     "tags": [
       "cookies",
       "chocolate"
@@ -3703,6 +3876,7 @@
     "category": "breakfast",
     "url": "https://dkelter17.github.io/nomz/recipes/yoghurt.html",
     "external_url": "",
+    "drive_url": "",
     "tags": [
       "instant-pot"
     ]
@@ -3720,6 +3894,7 @@
     "category": "tapas",
     "url": "https://dkelter17.github.io/nomz/recipes/zingermans-pimento-cheese.html",
     "external_url": "https://www.zingermansroadhouse.com/2010/01/zingermans-pimento-cheese-recipe/",
+    "drive_url": "",
     "tags": [
       "cheese",
       "dip"

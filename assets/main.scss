@@ -72,6 +72,14 @@ $on-laptop:        800px;
   margin-bottom: 0;
 }
 
+.external-link {
+  background-image: url(https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d);
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: 0.857em;
+    padding-right: 1em;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;

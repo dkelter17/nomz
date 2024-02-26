@@ -9,6 +9,7 @@
       "content": {{ recipe.content | strip_newlines | jsonify }},
       "url": "{{ recipe.url | xml_escape }}",
       "external_url": "{{ recipe.external_url | xml_escape }}",
+      "drive_url": "{{ recipe.drive_url | xml_escape }}",
       "author": "{{ recipe.author | xml_escape }}",
       "source": "{{ recipe.source | xml_escape }}"
     }{% unless forloop.last %},{% endunless %}
