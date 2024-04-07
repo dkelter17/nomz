@@ -22,6 +22,8 @@ function setupRandomizer(document) {
     }
     const recipes = randomize(randomizerQuery)
     displayRecipeResults(recipes)
+
+    // TODO: write history.pushState which would allow these results to be re-populated, perhaps by index values.
   })
 }
 
@@ -32,8 +34,9 @@ function randomize(randomizerQuery) {
 
   var weekendRecipesSeen = 0
   const recipeListLen = document.recipesRandomizer.recipes.length
-  const recipes = Array.from(array, function(randomNum) {
-    return document.recipesRandomizer.recipes[randomNum % recipeListLen]
+  const recipeIndices = new Set(Array.from(array, (randomNum) => randomNum % recipeListLen))
+  const recipes = Array.from(recipeIndices, function(randomIndex){
+    return document.recipesRandomizer.recipes[randomIndex]
   }).filter(function(candidate){
     if (candidate.day_of_week == "weekend") {
       weekendRecipesSeen++
