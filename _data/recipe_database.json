@@ -2888,6 +2888,76 @@
     ]
   },
   {
+    "title": "Crispy Chicken with Za'atar-Olive Rice",
+    "source": "https://www.bonappetit.com/recipe/crispy-chicken-with-zaatar-olive-rice",
+    "author": "Kendra Vaculin",
+    "protein": [
+      "chicken"
+    ],
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "https://www.bonappetit.com/recipe/crispy-chicken-with-zaatar-olive-rice",
+    "external_url": "https://www.bonappetit.com/recipe/crispy-chicken-with-zaatar-olive-rice",
+    "drive_url": "",
+    "tags": [
+      "chicken",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Pork and Pickled Pepper Piccata",
+    "source": "https://mollybaz.com/pork-and-pickled-pepper-piccata/",
+    "author": "Molly Baz",
+    "protein": [
+      "pork"
+    ],
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "https://mollybaz.com/pork-and-pickled-pepper-piccata/",
+    "external_url": "https://mollybaz.com/pork-and-pickled-pepper-piccata/",
+    "drive_url": "https://drive.google.com/file/d/16GE4RHVtUE9ZavbgSnVW2hTyRaG6lW-d/view?usp=drive_link",
+    "tags": [
+      "pork",
+      "parsley",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Marry-Me Chicken",
+    "source": "https://cooking.nytimes.com/recipes/1024503-marry-me-chicken",
+    "author": "Naz Deravian",
+    "protein": [
+      "chicken"
+    ],
+    "herbs": [
+
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "https://cooking.nytimes.com/recipes/1024503-marry-me-chicken",
+    "external_url": "https://cooking.nytimes.com/recipes/1024503-marry-me-chicken",
+    "drive_url": "",
+    "tags": [
+      "chicken",
+      "weekday"
+    ]
+  },
+  {
     "title": "\"$250\" Chocolate Chip Cookies",
     "source": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
     "author": null,
