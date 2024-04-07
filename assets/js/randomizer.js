@@ -26,24 +26,22 @@ function setupRandomizer(document) {
 }
 
 function randomize(randomizerQuery) {
+  const numRandomNumbers = randomizerQuery.numResults*3 > 1000 ? 1000 : randomizerQuery.numResults*3
+  const array = new Uint32Array(numRandomNumbers);
+  self.crypto.getRandomValues(array);
+
   var weekendRecipesSeen = 0
-  var recipes = []
-  for (var i = 0; i < randomizerQuery.numResults; i++) {  // Generate random return values
-    const randomIndex = Math.floor(Math.random() * document.recipesRandomizer.recipes.length)
-    const candidate = document.recipesRandomizer.recipes[randomIndex]
-    if (candidate.category != "dinner") {
-      i--
-    } else if (candidate.day_of_week == "weekend" && weekendRecipesSeen < randomizerQuery.maxWeekendRecipes){
-      recipes.push(candidate)
-      seenWeekend = true
-    } else if (candidate.day_of_week == "weekend") {
-      i--
-    } else if (recipes.indexOf(candidate) >= 0) {
-      i--
-    } else {
-      recipes.push(candidate)
+  const recipeListLen = document.recipesRandomizer.recipes.length
+  const recipes = Array.from(array, function(randomNum) {
+    return document.recipesRandomizer.recipes[randomNum % recipeListLen]
+  }).filter(function(candidate){
+    if (candidate.day_of_week == "weekend") {
+      weekendRecipesSeen++
     }
-  }
+    return candidate.category == "dinner" &&
+      (candidate.day_of_week != "weekend" || weekendRecipesSeen <= randomizerQuery.maxWeekendRecipes)
+  }).slice(0, randomizerQuery.numResults)
+
   return recipes
 }
 
