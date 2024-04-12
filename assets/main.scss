@@ -80,6 +80,10 @@ $on-laptop:        800px;
     padding-right: 1em;
 }
 
+#stats {
+  font-size: 12px;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;
