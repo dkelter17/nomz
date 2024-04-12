@@ -5,8 +5,7 @@
   {% include head-icons.html %}
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <script src="https://ping.parkermoo.re/ping.js?v=2" type="application/javascript"></script>
-  <script src="https://ping.parkermoo.re/stats.js" type="application/javascript">
+  <script type="application/javascript">
     /**
      * Write visit and visitor counts to HTML
      *
@@ -18,6 +17,8 @@
       document.getElementById("stats").innerText = text
     }
   </script>
+  <script src="https://ping.parkermoo.re/ping.js?v=2" type="application/javascript" defer async></script>
+  <script src="https://ping.parkermoo.re/stats.js" type="application/javascript" defer async></script>
   <script type="application/javascript">document.recipesSearch = {indexURL: "{{ '/assets/searchIndex.json' | relative_url }}?version={{site.github.build_revision}}"};</script>
   <script type="application/javascript">document.recipesRandomizer = {indexURL: "{{ '/assets/db.json' | relative_url }}?version={{site.github.build_revision}}", htmlURL: "{{ '/randomizer.html' | relative_url }}"};</script>
   <script src="{{ '/assets/js/lunr.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
