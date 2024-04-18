@@ -18,7 +18,8 @@ function setupRandomizer(document) {
   document.getElementById("randomizer-submit").addEventListener("click", (event) => {
     const randomizerQuery = {
       numResults: document.getElementById("randomizer-numResults").value || 10,
-      maxWeekendRecipes: document.getElementById("randomizer-maxWeekendRecipes").value || 1
+      maxWeekendRecipes: document.getElementById("randomizer-maxWeekendRecipes").value || 1,
+      maxVegetarianRecipes: document.getElementById("randomizer-maxVegetarianRecipes").value || 3,
     }
     const recipes = randomize(randomizerQuery)
     displayRecipeResults(recipes)
@@ -33,6 +34,7 @@ function randomize(randomizerQuery) {
   self.crypto.getRandomValues(array);
 
   var weekendRecipesSeen = 0
+  var vegetarianRecipesSeen = 0
   const recipeListLen = document.recipesRandomizer.recipes.length
   const recipeIndices = new Set(Array.from(array, (randomNum) => randomNum % recipeListLen))
   const recipes = Array.from(recipeIndices, function(randomIndex){
@@ -41,8 +43,12 @@ function randomize(randomizerQuery) {
     if (candidate.day_of_week == "weekend") {
       weekendRecipesSeen++
     }
+    if (candidate.vegetarian) {
+      vegetarianRecipesSeen++
+    }
     return candidate.category == "dinner" &&
-      (candidate.day_of_week != "weekend" || weekendRecipesSeen <= randomizerQuery.maxWeekendRecipes)
+      (candidate.day_of_week != "weekend" || weekendRecipesSeen <= randomizerQuery.maxWeekendRecipes) &&
+      (!candidate.vegetarian || vegetarianRecipesSeen <= randomizerQuery.maxVegetarianRecipes)
   }).slice(0, randomizerQuery.numResults)
 
   return recipes

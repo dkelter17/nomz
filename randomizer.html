@@ -16,7 +16,11 @@ include_in_header: true
   </div>
   <div>
     Maximum number of weekend-only recipes?
-    <input type="number" id="randomizer-maxWeekendRecipes" value="1" placeholder = "Number of weekend recipes..." />
+    <input type="number" id="randomizer-maxWeekendRecipes" value="1" min="0" placeholder="Number of weekend recipes..." />
+  </div>
+  <div>
+    Maximum number of vegetarian recipes?
+    <input type="number" id="randomizer-maxVegetarianRecipes" value="3" min="0" placeholder="Number of vegetarian recipes..." />
   </div>
   <p>
     <input type="submit" id="randomizer-submit" value="Generate" />
