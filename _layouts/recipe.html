@@ -6,6 +6,14 @@ layout: page
 <p><a href="{{ page.external-url }}">&rarr; View Original Recipe</a></p>
 {% endif %}
 
+{% if page.external_url %}
+<p><a href="{{ page.external_url }}">&rarr; View Original Recipe</a></p>
+{% endif %}
+
+{% if page.source contains " p. " %}
+ <p>{{page.source}}</p>
+{% endif %}
+
 {{ content }}
 
 <p>Tags: {{ page.tags | join: " / " }}</p>

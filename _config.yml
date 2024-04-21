@@ -13,13 +13,20 @@ exclude:
 collections:
   recipes:
     output: true
+  notes:
+    output: true
 
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
-      type: "recipes" # previously `post` in Jekyll 2.2.
+      type: "recipes"
     values:
       layout: "recipe"
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "notes"
+    values:
+      layout: "note"
 
 plugins:
 - jekyll-include-cache
