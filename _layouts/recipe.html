@@ -14,6 +14,10 @@ layout: page
  <p>{{page.source}}</p>
 {% endif %}
 
+{% if page.category %}
+ <p>Category: {{page.category}}</p>
+{% endif %}
+
 {{ content }}
 
 <p>Tags: {{ page.tags | join: " / " }}</p>

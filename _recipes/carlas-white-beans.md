@@ -3,7 +3,7 @@ title: Carla's White Beans
 emoji: '🍲'
 external-url: https://www.bonappetit.com/story/the-best-pot-of-beans-is-in-your-future
 tags:
-- veg
+- vegetarian
 - bon-appetit
 category: dinner
 ---

@@ -2,7 +2,7 @@
 title: Roasted Cauliflower with Whipped Cheese
 external-url: http://saltedsugaredspiced.blogspot.com/2016/02/whole-roasted-cauliflower-with-whipped.html
 tags:
-- veg
+- vegetarian
 category: dinner
 ---
 
