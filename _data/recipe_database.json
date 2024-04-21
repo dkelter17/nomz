@@ -3152,6 +3152,56 @@
     ]
   },
   {
+    "title": "Carrot Salad with Aleppo Chickpeas and Date Vinaigrette",
+    "source": "https://justinesnacks.com/carrot-salad-with-aleppo-chickpeas-date-vinaigrette/",
+    "author": "Justine Snacks",
+    "protein": [
+
+    ],
+    "vegetarian": true,
+    "herbs": [
+      "scallions"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "category": "dinner",
+    "url": "https://justinesnacks.com/carrot-salad-with-aleppo-chickpeas-date-vinaigrette/",
+    "external_url": "https://justinesnacks.com/carrot-salad-with-aleppo-chickpeas-date-vinaigrette/",
+    "drive_url": "",
+    "tags": [
+      "vegetarian",
+      "scallions",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Quinoa Salad with Cucumbers, Olives, and Bell Pepper",
+    "source": "https://cooking.nytimes.com/recipes/1024829-quinoa-salad",
+    "author": "Ali Slagle",
+    "protein": [
+
+    ],
+    "vegetarian": true,
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "category": "dinner",
+    "url": "https://cooking.nytimes.com/recipes/1024829-quinoa-salad",
+    "external_url": "https://cooking.nytimes.com/recipes/1024829-quinoa-salad",
+    "drive_url": "",
+    "tags": [
+      "vegetarian",
+      "parsley",
+      "weekday"
+    ]
+  },
+  {
     "title": "\"$250\" Chocolate Chip Cookies",
     "source": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
     "author": null,
@@ -3527,7 +3577,7 @@
     "rating": 0,
     "category": "dinner",
     "url": "https://dkelter17.github.io/nomz/recipes/gochujang-burgers.html",
-    "external_url": "",
+    "external_url": "https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw",
     "drive_url": "",
     "tags": [
       "spicy"
