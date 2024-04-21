@@ -99,7 +99,7 @@ function formatSearchResult(listItemEl, item) {
   const titleH3 = document.createElement('h3')
   if (item.url && item.url != '') {
     const titleLink = document.createElement('a')
-    titleLink.href = item.url
+    titleLink.href = document.recipesSearch.baseURL + item.url
     titleLink.appendChild(document.createTextNode(item.title))
     titleH3.appendChild(titleLink)
     listItemEl.appendChild(titleH3)

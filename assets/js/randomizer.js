@@ -71,7 +71,7 @@ function displayRecipeResults(recipes) {
       const titleH3 = document.createElement('h3')
       if (item.url) {
         const titleLink = document.createElement('a')
-        titleLink.href = item.url
+        titleLink.href = document.recipesRandomizer.baseURL + item.url
         titleLink.appendChild(document.createTextNode(item.title))
         titleH3.appendChild(titleLink)
         recipeListItem.appendChild(titleH3)
