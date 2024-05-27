@@ -5,6 +5,8 @@ function loadLunrIndex() {
       if (httpRequest.status === 200) {
         document.recipesSearch.recipes = JSON.parse(httpRequest.responseText)
         setupLunr(document)
+        populateSearchIntoQ()
+        populateQIntoSearchBox()
       } else {
         console.error('There was a problem with the request.');
       }
@@ -133,6 +135,20 @@ function formatSearchResult(listItemEl, item) {
     tagsListEl.innerText = `Tags: ${tagsWithHash.join(' ')}`
     listItemEl.appendChild(tagsListEl)
   }
+}
+
+function populateSearchIntoQ() {
+  document.getElementById("search-box").addEventListener('input', function() {
+    var searchTerm = document.getElementById("search-box").value
+    var searchParams = new URLSearchParams(window.location.search)
+    searchParams.set('q', searchTerm)
+    window.history.replaceState({}, '', `${window.location.pathname}?${searchParams}`)
+  })
+}
+
+function populateQIntoSearchBox() {
+  document.getElementById("search-box").value = new URLSearchParams(window.location.search).get('q')
+  searchWithLunr()
 }
 
 document.addEventListener('readystatechange', (event) => {
