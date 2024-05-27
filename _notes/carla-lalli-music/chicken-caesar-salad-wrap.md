@@ -1,21 +1,20 @@
-—
+---
 title: Chicken Caesar Salad Wrap
-source: https://www.youtube.com/watch?v=cree638Rjj4
+source: "https://www.youtube.com/watch?v=cree638Rjj4"
 author: Carla Lalli Music
 protein: [chicken]
 vegetarian: false
-herbs:
-- ??
+herbs: []
 day_of_week: weekday
 feeds: 0
 rating: 0
 category: dinner
-url: “/notes/carla-lalli-music/chicken-caesar-salad-wrap.html”
-external_url: https://www.youtube.com/watch?v=cree638Rjj4
-drive_url:
+url: "/notes/carla-lalli-music/chicken-caesar-salad-wrap.html"
+external_url: "https://www.youtube.com/watch?v=cree638Rjj4"
+drive_url: ""
 tags:
 - weekday
-—
+---
 
 ## Ingredients
 
