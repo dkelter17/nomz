@@ -20,4 +20,5 @@ tags:
 - celery
 ---
 
-
+2024-06-19:
+- skip the pork shoulder and just use thinly sliced pork chops
