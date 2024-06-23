@@ -3145,7 +3145,7 @@
     "category": "dinner",
     "url": "/notes/www.mehreenkarim.com/hot-honey-za-atar-glazed-salmon.html",
     "external_url": "https://www.mehreenkarim.com/recipes/hot-honey-zaatar-glazed-salmon",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/1sd7Uc2-3kISFKuhO1y-pA_PgDh9H-O4E/view?usp=drive_link",
     "tags": [
       "salmon",
       "weekday"
@@ -3169,7 +3169,7 @@
     "category": "dinner",
     "url": "/notes/justinesnacks.com/carrot-salad-with-aleppo-chickpeas-and-date-vinaigrette.html",
     "external_url": "https://justinesnacks.com/carrot-salad-with-aleppo-chickpeas-date-vinaigrette/",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/19nMCLez8B-0Jt1dRaIFvM_pOMZapeiU1/view?usp=drive_link",
     "tags": [
       "vegetarian",
       "scallions",
@@ -3194,10 +3194,86 @@
     "category": "dinner",
     "url": "/notes/cooking.nytimes.com/quinoa-salad-with-cucumbers-olives-and-bell-pepper.html",
     "external_url": "https://cooking.nytimes.com/recipes/1024829-quinoa-salad",
+    "drive_url": "https://drive.google.com/file/d/1sLLvzhHSKCZryD0tUvb0Fze6wxvvyulN/view?usp=drive_link",
+    "tags": [
+      "vegetarian",
+      "parsley",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Charlie Bird's Farro Salad",
+    "source": "https://cooking.nytimes.com/recipes/1015843-charlie-birds-farro-salad",
+    "author": "Melissa Clark",
+    "protein": [
+
+    ],
+    "vegetarian": true,
+    "herbs": [
+      "parsley",
+      "mint"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 3,
+    "category": "dinner",
+    "url": "/notes/cooking.nytimes.com/charlie-bird-s-farro-salad.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1015843-charlie-birds-farro-salad",
     "drive_url": "",
     "tags": [
       "vegetarian",
       "parsley",
+      "mint"
+    ]
+  },
+  {
+    "title": "Coconut Braised Cabbage",
+    "source": "https://justinesnacks.com/coconut-braised-cabbage/",
+    "author": "Justine Snacks",
+    "protein": [
+
+    ],
+    "vegetarian": true,
+    "herbs": [
+      "mint"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "/notes/justinesnacks.com/coconut-braised-cabbage.html",
+    "external_url": "https://justinesnacks.com/coconut-braised-cabbage/",
+    "drive_url": "",
+    "tags": [
+      "vegetarian",
+      "mint",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Charred Steak with Creamy Cucumber-Almond Sauce",
+    "source": "https://mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce/",
+    "author": "Molly Baz",
+    "protein": [
+      "beef"
+    ],
+    "vegetarian": false,
+    "herbs": [
+      "thyme"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce.html",
+    "external_url": "https://mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce/",
+    "drive_url": "https://drive.google.com/file/d/1NKqU974vomDWPkFYvTqiC6vPYbOv2nNH/view?usp=drive_link",
+    "tags": [
+      "beef",
+      "thyme",
       "weekday"
     ]
   },
@@ -3315,7 +3391,7 @@
     "external_url": "https://www.bonappetit.com/story/the-best-pot-of-beans-is-in-your-future",
     "drive_url": "",
     "tags": [
-      "veg",
+      "vegetarian",
       "bon-appetit"
     ]
   },
@@ -3961,7 +4037,7 @@
     "external_url": "http://saltedsugaredspiced.blogspot.com/2016/02/whole-roasted-cauliflower-with-whipped.html",
     "drive_url": "",
     "tags": [
-      "veg"
+      "vegetarian"
     ]
   },
   {

@@ -12,6 +12,7 @@ rating: 1
 category: dinner
 url: "/notes/cooking.nytimes.com/quinoa-salad-with-cucumbers-olives-and-bell-pepper.html"
 external_url: https://cooking.nytimes.com/recipes/1024829-quinoa-salad
+drive_url: https://drive.google.com/file/d/1sLLvzhHSKCZryD0tUvb0Fze6wxvvyulN/view?usp=drive_link
 tags:
 - vegetarian
 - parsley

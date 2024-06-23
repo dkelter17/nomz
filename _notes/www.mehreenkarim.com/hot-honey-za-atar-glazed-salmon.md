@@ -12,6 +12,7 @@ rating: 2
 category: dinner
 url: "/notes/www.mehreenkarim.com/hot-honey-za-atar-glazed-salmon.html"
 external_url: https://www.mehreenkarim.com/recipes/hot-honey-zaatar-glazed-salmon
+drive_url: https://drive.google.com/file/d/1sd7Uc2-3kISFKuhO1y-pA_PgDh9H-O4E/view?usp=drive_link
 tags:
 - salmon
 - weekday

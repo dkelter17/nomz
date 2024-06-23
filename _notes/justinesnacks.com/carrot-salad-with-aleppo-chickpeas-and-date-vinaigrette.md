@@ -12,6 +12,7 @@ rating: 1
 category: dinner
 url: "/notes/justinesnacks.com/carrot-salad-with-aleppo-chickpeas-and-date-vinaigrette.html"
 external_url: https://justinesnacks.com/carrot-salad-with-aleppo-chickpeas-date-vinaigrette/
+drive_url: https://drive.google.com/file/d/19nMCLez8B-0Jt1dRaIFvM_pOMZapeiU1/view?usp=drive_link
 tags:
 - vegetarian
 - scallions
