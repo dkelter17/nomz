@@ -9,7 +9,7 @@ herbs: []
 day_of_week: weekday
 feeds: 0
 season: summer
-rating: 2
+rating: 1
 category: dinner
 url: "/notes/www.bonappetit.com/chicken-thighs-and-couscous.html"
 external_url: https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous

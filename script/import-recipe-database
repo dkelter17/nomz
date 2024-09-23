@@ -143,7 +143,7 @@ recipe_list = rows.each_with_object([]) do |row, memo|
     external_url: row["Source"].to_s,
     drive_url: row["Drive URL"].to_s,
     tags: [
-      row["Protein"].to_s.downcase,
+      *row["Protein"].to_s.split(",").map(&:strip).map(&:downcase),
       to_bool(row["Vegetarian"]) ? "vegetarian" : "",
       *row["Herbs"].to_s.split(",").map(&:strip).map(&:downcase).map{|s| s.split("/")},
       row["Season"].to_s.downcase,

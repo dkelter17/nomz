@@ -13,7 +13,8 @@ rating: 0
 category: dinner
 url: "/notes/mostly-plants/red-lentil-and-bean-chili.html"
 tags:
-- lentil, bean
+- lentil
+- bean
 - vegetarian
 - weekday
 ---

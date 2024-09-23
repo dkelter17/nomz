@@ -982,7 +982,8 @@
     "external_url": "",
     "drive_url": "",
     "tags": [
-      "lentil, bean",
+      "lentil",
+      "bean",
       "vegetarian",
       "weekday"
     ]
@@ -2656,7 +2657,7 @@
     "external_url": "https://www.bonappetit.com/recipe/easy-to-love-chicken-thighs-and-couscous",
     "drive_url": "https://drive.google.com/file/d/1X4o0AsQlvwtAnXp6yRf4jl4rcjiaL6I-/view?usp=drive_link",
     "tags": [
-      "chicken ",
+      "chicken",
       "summer",
       "weekday"
     ]
@@ -3266,7 +3267,7 @@
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
-    "rating": 0,
+    "rating": 1,
     "category": "dinner",
     "url": "/notes/mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce.html",
     "external_url": "https://mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce/",
@@ -3274,6 +3275,31 @@
     "tags": [
       "beef",
       "thyme",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Sticky Miso Salmon Bowl",
+    "source": "https://cooking.nytimes.com/recipes/1025510-sticky-miso-salmon-bowl",
+    "author": "Andy Barghani",
+    "protein": [
+      "salmon"
+    ],
+    "vegetarian": false,
+    "herbs": [
+      "scallions"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "/notes/cooking.nytimes.com/sticky-miso-salmon-bowl.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1025510-sticky-miso-salmon-bowl",
+    "drive_url": "",
+    "tags": [
+      "salmon",
+      "scallions",
       "weekday"
     ]
   },
@@ -3615,6 +3641,25 @@
     "drive_url": "",
     "tags": [
       "bread"
+    ]
+  },
+  {
+    "title": "Ginger Shallot Chopped Bean Salad",
+    "source": "https://dkelter17.github.io/nomz/recipes/ginger-shallot-chopped-bean-salad.html",
+    "author": null,
+    "protein": null,
+    "vegetarian": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dinner",
+    "url": "/recipes/ginger-shallot-chopped-bean-salad.html",
+    "external_url": "https://www.instagram.com/reel/C9sv4dDvQ5_/",
+    "drive_url": "",
+    "tags": [
+      "vegetarian"
     ]
   },
   {

@@ -9,7 +9,7 @@ herbs:
 - thyme
 day_of_week: weekday
 feeds: 0
-rating: 0
+rating: 1
 category: dinner
 url: "/notes/mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce.html"
 external_url: https://mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce/
