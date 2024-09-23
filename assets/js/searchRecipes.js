@@ -1,13 +1,17 @@
 function loadLunrIndex() {
+  setSearchBoxPlaceholder('Loading recipes...')
   var httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = () => {
     if (httpRequest.readyState === XMLHttpRequest.DONE) {
       if (httpRequest.status === 200) {
         document.recipesSearch.recipes = JSON.parse(httpRequest.responseText)
+        const numRecipes = Object.keys(document.recipesSearch.recipes).length
         setupLunr(document)
         populateSearchIntoQ()
         populateQIntoSearchBox()
+        setSearchBoxPlaceholder(`Search ${numRecipes} recipes...`)
       } else {
+        setSearchBoxPlaceholder('Error loading recipes. Search disabled.')
         console.error('There was a problem with the request.');
       }
     }
@@ -149,6 +153,10 @@ function populateSearchIntoQ() {
 function populateQIntoSearchBox() {
   document.getElementById("search-box").value = new URLSearchParams(window.location.search).get('q')
   searchWithLunr()
+}
+
+function setSearchBoxPlaceholder(newPlaceholder) {
+  document.getElementById('search-box').placeholder = newPlaceholder
 }
 
 document.addEventListener('readystatechange', (event) => {
