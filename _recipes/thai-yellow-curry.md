@@ -21,7 +21,8 @@ You can either make this in a slow cooker or you can cook the protein ahead of t
 - 2 tablespoons yellow curry powder
 - 1 teaspoon chili powder
 - 1 large red onion, chopped
-- 8 cloves garlic, minced
+- 8 cloves **garlic**, minced
+- a lil ginger could be nice
 - 2 jalapenos, finely chopped (keep the seeds)
 - 1 cup chopped spinach
 - 3 full carrots, diced
