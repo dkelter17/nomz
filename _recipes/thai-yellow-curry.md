@@ -13,21 +13,21 @@ You can either make this in a slow cooker or you can cook the protein ahead of t
 
 ## Ingredients:
 
-- 2 15oz cans coconut milk
-- 2 lbs chicken thighs or breasts
-- 2 tablespoons dried basil leaves
-- 2 teaspoons salt
-- 3/4 teaspoon pepper
-- 2 tablespoons yellow curry powder
-- 1 teaspoon chili powder
-- 1 large red onion, chopped
-- 8 cloves **garlic**, minced
-- a lil ginger could be nice
-- 2 jalapenos, finely chopped (keep the seeds)
-- 1 cup chopped spinach
-- 3 full carrots, diced
-- 1 russet potato, diced
-- 1 bell pepper, diced
+- [ ] 2 15oz cans coconut milk
+- [ ] 2 lbs chicken thighs or breasts
+- [ ] 2 tablespoons dried basil leaves
+- [ ] 2 teaspoons salt
+- [ ] 3/4 teaspoon pepper
+- [ ] 2 tablespoons yellow curry powder
+- [ ] 1 teaspoon chili powder
+- [ ] 1 large red onion, chopped
+- [ ] 8 cloves **garlic**, minced
+- [ ] a lil ginger could be nice
+- [ ] 2 jalapenos, finely chopped (keep the seeds)
+- [ ] 1 cup chopped spinach
+- [ ] 3 full carrots, diced
+- [ ] 1 russet potato, diced
+- [ ] 1 bell pepper, diced
 
 ## Directions for range:
 
