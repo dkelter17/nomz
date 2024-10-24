@@ -28,6 +28,7 @@ You can either make this in a slow cooker or you can cook the protein ahead of t
 - [ ] 3 full carrots, diced
 - [ ] 1 russet potato, diced
 - [ ] 1 bell pepper, diced
+{: style='list-style-type: none'}
 
 ## Directions for range:
 
