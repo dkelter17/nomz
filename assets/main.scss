@@ -84,6 +84,10 @@ $on-laptop:        800px;
   font-size: 12px;
 }
 
+.task-list-item-checkbox {
+  margin-right: 0.8em;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;
