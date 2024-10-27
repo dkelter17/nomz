@@ -1,7 +1,7 @@
 ---
 title: Salted Chocolate Chunk Shortbread Cookies
 emoji: '🍪'
-external-url: https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies
+external_url: https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies
 category: dessert
 tags:
 - cookies

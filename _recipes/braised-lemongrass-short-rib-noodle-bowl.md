@@ -6,7 +6,7 @@ tags:
 - beef
 - one-pot
 - stew
-external-url: https://www.youtube.com/watch?v=tV7q_ZoR1AE
+external_url: https://www.youtube.com/watch?v=tV7q_ZoR1AE
 author: null
 protein: beef
 herbs: null

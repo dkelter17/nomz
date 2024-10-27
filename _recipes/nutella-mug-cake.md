@@ -1,7 +1,7 @@
 ---
 title: Nutella Mug Cake
 emoji: '🎂'
-external-url: https://www.babble.com/best-recipes/nutella-mug-cake/
+external_url: https://www.babble.com/best-recipes/nutella-mug-cake/
 category: dessert
 tag:
 - chocolate

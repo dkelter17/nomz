@@ -1,7 +1,7 @@
 ---
 title: 'Whiskey & Rye Chocolate Chip Cookies'
 emoji: '🍪'
-external-url: https://www.bonappetit.com/recipe/whiskey-and-rye-chocolate-chip-cookies
+external_url: https://www.bonappetit.com/recipe/whiskey-and-rye-chocolate-chip-cookies
 category: dessert
 tags:
 - cookies

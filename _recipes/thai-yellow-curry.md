@@ -1,7 +1,7 @@
 ---
 title: Thai Yellow Curry
 emoji: '🥘'
-external-url: http://thefoodcharlatan.com/2016/02/16/slow-cooker-basil-chicken-in-coconut-curry-sauce/
+external_url: http://thefoodcharlatan.com/2016/02/16/slow-cooker-basil-chicken-in-coconut-curry-sauce/
 category: dinner
 tags:
 - chicken

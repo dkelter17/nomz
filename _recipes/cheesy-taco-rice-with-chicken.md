@@ -1,7 +1,7 @@
 ---
 title: Cheesy Taco Rice with Chicken
 emoji: '🍚'
-external-url: https://workweeklunch.com/recipe/easy-cheesy-taco-rice/
+external_url: https://workweeklunch.com/recipe/easy-cheesy-taco-rice/
 category: dinner
 tags:
 - chicken

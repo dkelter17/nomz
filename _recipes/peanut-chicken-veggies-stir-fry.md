@@ -1,6 +1,6 @@
 ---
 title: Peanut Chicken & Veggies Stir Fry
-external-url: https://workweeklunch.com/peanut-stir-fry/
+external_url: https://workweeklunch.com/peanut-stir-fry/
 emoji: '🥘'
 category: dinner
 tags:

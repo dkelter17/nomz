@@ -195,7 +195,7 @@ site.collections["recipes"].docs.each do |doc|
     category: doc.data["category"].to_s.downcase,
     url: doc.url,
     drive_url: (doc.data["drive-url"] || doc.data["drive_url"]).to_s,
-    external_url: doc.data["external-url"].to_s,
+    external_url: doc.data["external_url"].to_s,
     tags: doc.data["tags"],
   )
 end

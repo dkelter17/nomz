@@ -1,7 +1,7 @@
 ---
 title: '"$250" Chocolate Chip Cookies'
 emoji: '🍪'
-external-url: https://cooking.nytimes.com/recipes/9465-the-250-cookie-recipe
+external_url: https://cooking.nytimes.com/recipes/9465-the-250-cookie-recipe
 category: dessert
 tags:
 - cookies

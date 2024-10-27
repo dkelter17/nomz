@@ -1,7 +1,7 @@
 ---
 title: 'Ginger Shallot Chopped Bean Salad'
 emoji: '🫘'
-external-url: https://www.instagram.com/reel/C9sv4dDvQ5_/
+external_url: https://www.instagram.com/reel/C9sv4dDvQ5_/
 category: dinner
 tags:
 - vegetarian

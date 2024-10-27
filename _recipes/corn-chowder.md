@@ -5,7 +5,7 @@ category: dinner
 tags:
 - chicken
 - coconut
-external-url: https://www.tasteofhome.com/recipes/curried-chicken-corn-chowder/
+external_url: https://www.tasteofhome.com/recipes/curried-chicken-corn-chowder/
 ---
 
 ### Ingredients

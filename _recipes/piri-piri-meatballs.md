@@ -5,7 +5,7 @@ tags:
 - beef
 - bon-appetit
 - fast
-external-url: https://www.bonappetit.com/recipe/piri-piri-meatballs
+external_url: https://www.bonappetit.com/recipe/piri-piri-meatballs
 ---
 
 ### Ingredients

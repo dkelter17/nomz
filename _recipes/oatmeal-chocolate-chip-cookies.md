@@ -1,7 +1,7 @@
 ---
 title: Oatmeal Chocolate Chip Cookies
 emoji: '🍪'
-external-url: https://www.quakeroats.com/cooking-and-recipes/vanishing-oatmeal-raisin-cookies
+external_url: https://www.quakeroats.com/cooking-and-recipes/vanishing-oatmeal-raisin-cookies
 category: dessert
 tags:
 - cookies

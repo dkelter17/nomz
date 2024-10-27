@@ -5,7 +5,7 @@ tags:
 - fish
 - bon-appetit
 - asian-ish
-external-url: https://www.bonappetit.com/recipe/coconut-cod-chowder
+external_url: https://www.bonappetit.com/recipe/coconut-cod-chowder
 ---
 
 ### Ingredients

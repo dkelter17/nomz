@@ -4,7 +4,7 @@ category: dinner
 tags:
 - pizza
 emoji: '🍕'
-external-url: "https://www.bonappetit.com/recipe/hot-and-sweet-soppressata-and-fennel-grandma-pie"
+external_url: "https://www.bonappetit.com/recipe/hot-and-sweet-soppressata-and-fennel-grandma-pie"
 ---
 
 ## Ingredients

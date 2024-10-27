@@ -5,7 +5,7 @@ tags:
 - pork
 - bon-appetit
 - asian-ish
-external-url: https://www.bonappetit.com/recipe/turmeric-coconut-curry-with-pork
+external_url: https://www.bonappetit.com/recipe/turmeric-coconut-curry-with-pork
 ---
 
 ### Ingredients

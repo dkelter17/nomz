@@ -7,7 +7,7 @@ tags:
 - asian-ish
 - peanut
 - rice
-external-url: https://www.bonappetit.com/recipe/one-pot-chicken-and-rice
+external_url: https://www.bonappetit.com/recipe/one-pot-chicken-and-rice
 ---
 
 Recipe as-is tends to be rice-heavy. Add more chicken thighs or reduce rice.

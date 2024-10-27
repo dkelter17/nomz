@@ -22,7 +22,7 @@ data = {
 }
 
 if url
-  data["external-url"] = url
+  data["external_url"] = url
 end
 
 path = "_recipes/#{Jekyll::Utils.slugify(title)}.md"

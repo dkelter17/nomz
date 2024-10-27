@@ -2,7 +2,7 @@
 title: Zingerman's Pimento Cheese
 emoji: '🧀'
 category: tapas
-external-url: https://www.zingermansroadhouse.com/2010/01/zingermans-pimento-cheese-recipe/
+external_url: https://www.zingermansroadhouse.com/2010/01/zingermans-pimento-cheese-recipe/
 tags:
 - cheese
 - dip

@@ -4,7 +4,7 @@ emoji: '🌿'
 category: side
 tags:
 - baking
-external-url: "https://www.bonappetit.com/recipe/easy-no-knead-focaccia"
+external_url: "https://www.bonappetit.com/recipe/easy-no-knead-focaccia"
 ---
 
 ## Ingredients

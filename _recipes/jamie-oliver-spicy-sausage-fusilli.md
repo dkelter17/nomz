@@ -1,6 +1,6 @@
 ---
 title: Jamie Oliver's Spicy Sausage Fusilli
-external-url: https://www.jamieoliver.com/recipes/pasta-recipes/spicy-sausage-fusilli/
+external_url: https://www.jamieoliver.com/recipes/pasta-recipes/spicy-sausage-fusilli/
 emoji: '🍝'
 category: dinner
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Carla's Calabrian Chicken Thighs & Cooling Salad"
 emoji: '🐓'
-external-url: https://www.youtube.com/watch?v=Q-IiJa76kG4
+external_url: https://www.youtube.com/watch?v=Q-IiJa76kG4
 tags:
 - chicken
 category: dinner

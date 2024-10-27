@@ -4,7 +4,7 @@ title: Slow-Roast Gochujang Chicken
 category: dinner
 tags:
 - bon-appetit
-external-url: https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken
+external_url: https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken
 ---
 
 ### Ingredients

@@ -1,6 +1,6 @@
 ---
 title: 'Date Cinnamon Buns'
-external-url: https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns
+external_url: https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns
 category: dessert
 tags:
 - bon-appetit

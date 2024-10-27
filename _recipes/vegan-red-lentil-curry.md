@@ -2,7 +2,7 @@
 title: "Vegan Red Lentil Curry"
 emoji: '🍛'
 category: dinner
-external-url: https://www.rainbowplantlife.com/blog/vegan-red-lentil-curry
+external_url: https://www.rainbowplantlife.com/blog/vegan-red-lentil-curry
 tags:
 - curry
 - vegan

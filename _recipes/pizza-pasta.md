@@ -1,7 +1,7 @@
 ---
 title: Pizza Pasta
 emoji: '🍕'
-external-url: http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/
+external_url: http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/
 category: dinner
 tags:
 - pasta
