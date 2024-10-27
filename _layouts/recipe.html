@@ -2,12 +2,15 @@
 layout: page
 ---
 
-{% if page.external-url %}
-<p><a href="{{ page.external-url }}">&rarr; View Original Recipe</a></p>
-{% endif %}
-
-{% if page.external_url %}
-<p><a href="{{ page.external_url }}">&rarr; View Original Recipe</a></p>
+{% if page.external_url or page.drive_url %}
+<p>
+    {% if page.external_url %}
+        <a href="{{ page.external_url }}">&rarr; View Original Recipe</a>
+    {% endif %}
+    {% if page.drive_url %}
+        <a href="{{ page.drive_url }}"> △</a>
+    {% endif %}
+</p>
 {% endif %}
 
 {% if page.source contains " p. " %}
