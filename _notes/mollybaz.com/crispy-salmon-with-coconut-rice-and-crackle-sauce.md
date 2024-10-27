@@ -18,4 +18,20 @@ tags:
 - weekday
 ---
 
+Don't forget to make the coconut rice – it adds so much!
 
+## Ingredients:
+
+- [ ] 4 × 6oz Salmon fillets
+- [ ] 1 English hothouse cucumber
+- [ ] 2 garlic cloves
+- [ ] ½ inch piece ginger
+- [ ] 2 cups long grain white rice
+- [ ] 13.6oz can full fat coconut milk
+- [ ] ½ cup roasted peanuts
+- [ ] 3 tablespoons sesame seeds
+- [ ] ¼ cup olive oil
+- [ ] 1 teaspoon ground turmeric
+- [ ] 1½ teaspoons red pepper flake
+- [ ] 1 teaspoon honey
+{: style='list-style-type: none'}
