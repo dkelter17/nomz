@@ -18,7 +18,7 @@ external-url: https://www.bonappetit.com/recipe/piri-piri-meatballs
   - 2 Tbsp. red wine vinegar
   - 1 tsp. smoked paprika
 - Meatballs and Assembly
-  - 2/3 cup panko (Japanese breadcrumbs)
+  - ⅔ cup panko (Japanese breadcrumbs)
   - 1 large egg
   - 2 garlic cloves, finely grated
   - 1¼ tsp. kosher salt

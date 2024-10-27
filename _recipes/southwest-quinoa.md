@@ -11,20 +11,21 @@ tags:
 
 ### Ingredients
 
-- 15 oz can black beans, drained and rinsed
-- 15 oz can yellow corn, drained and rinsed
-- 2 15 oz cans red enchilada sauce
-- 15 oz can fire roasted tomatoes and green chiles, diced
-- 1 cup uncooked quinoa
-- 1/2 cup water
-- 4 oz cream cheese (lite or fat-free ok)
-- 1 t salt
-- 1 t cumin
-- 1 t garlic powder
-- 1/4 t black pepper
-- 1 cup shredded cheese, Mexican style (garnish)
-- 1 avocado (garnish)
-- Optional: add 1 lb chicken
+- [ ] 15 oz can black beans, drained and rinsed
+- [ ] 15 oz can yellow corn, drained and rinsed
+- [ ] 2 × 15 oz cans red enchilada sauce
+- [ ] 15 oz can fire roasted tomatoes and green chiles, diced
+- [ ] 1 cup uncooked quinoa
+- [ ] ½ cup water
+- [ ] 4 oz cream cheese (lite or fat-free ok)
+- [ ] 1 t salt
+- [ ] 1 t cumin
+- [ ] 1 t garlic powder
+- [ ] ¼ t black pepper
+- [ ] 1 cup shredded cheese, Mexican style (garnish)
+- [ ] 1 avocado (garnish)
+- [ ] Optional: add 1 lb chicken
+{: style='list-style-type: none'}
 
 ### Directions
 

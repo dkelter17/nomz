@@ -16,9 +16,9 @@ Samin Nosrat spun Nekisia Davis's granola recipe and called it [best. granola. e
 * 1 cup raw pumpkin seeds, hulled
 * 1 cup raw walnuts, roughly broken up
 * 1 cup unsweetened coconut chips
-* 1 1/4 cup raw pecans, left whole or coarsely chopped
-* 1/2 cup pure maple syrup (Grade B is best)
-* 1/2 cup extra-virgin olive oil
+* 1 ¼ cup raw pecans, left whole or coarsely chopped
+* ½ cup pure maple syrup (Grade B is best)
+* ½ cup extra-virgin olive oil
 * 3 Tbsp packed light-brown sugar
 * Coarse salt.
 

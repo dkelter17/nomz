@@ -16,7 +16,7 @@ external-url: https://www.bonappetit.com/recipe/salty-buckwheat-chocolate-chunk-
 - ½ tsp. baking soda
 - 1¼ tsp. Diamond Crystal or ¾ tsp. Morton kosher salt, plus more
 - 6 oz. bittersweet chocolate (65-75% cacao) bars or wafers
-- 2/3 cup (133 g; packed) light brown sugar
+- ⅔ cup (133 g; packed) light brown sugar
 - ½ cup (100 g) granulated sugar
 - 1 large egg
 - 2 large egg yolks
@@ -43,7 +43,7 @@ Step 3
 
 Step 4
 
-   Scrape butter into a large bowl and add 2/3 cup (133 grams) light brown
+   Scrape butter into a large bowl and add ⅔ cup (133 grams) light brown
    sugar and ½ cup (100 grams) granulated sugar. Whisk vigorously until
    butter has been absorbed into the sugar and no big lumps remain, about
    30 seconds.

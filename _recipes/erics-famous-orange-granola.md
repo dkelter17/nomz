@@ -10,16 +10,16 @@ category: breakfast
 ### Ingredients
 
 - 3 cups rolled oats
-- 1 + 3/4 cup pecans
+- 1 + ¾ cup pecans
 - 1 cup walnuts
-- 1/2 cup almonds
+- ½ cup almonds
 - 1/3 cup granulated sugar
 - 2.5 tsp cinnamon
-- 1/2 tsp nutmeg
+- ½ tsp nutmeg
 - 1.5 tsp salt
-- 1/2 cup brown rice syrup
+- ½ cup brown rice syrup
 - 5 Tbsp olive oil
-- 1/2 tsp orange extract or zest
+- ½ tsp orange extract or zest
 - 1 tsp vanilla
 
 ### Instructions

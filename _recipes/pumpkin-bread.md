@@ -10,7 +10,7 @@ tags:
 
 - 3 1/3 cups sifted flour
 - 2 tsp baking soda
-- 1 1/2 tsp salt
+- 1 ½ tsp salt
 - 1 tsp cinnamon
 - 1 tsp nutmeg
 - 1 cup chocolate chip
@@ -18,7 +18,7 @@ tags:
 
 - 1 cup oil
 - 4 eggs
-- 2/3 cup water
+- ⅔ cup water
 - 2 cups canned pumpkin
 
 ## Directions

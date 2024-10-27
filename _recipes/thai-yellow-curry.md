@@ -13,11 +13,11 @@ You can either make this in a slow cooker or you can cook the protein ahead of t
 
 ## Ingredients:
 
-- [ ] 2 15oz cans coconut milk
+- [ ] 2 × 15oz cans coconut milk
 - [ ] 2 lbs chicken thighs or breasts
 - [ ] 2 tablespoons dried basil leaves
 - [ ] 2 teaspoons salt
-- [ ] 3/4 teaspoon pepper
+- [ ] ¾ teaspoon pepper
 - [ ] 2 tablespoons yellow curry powder
 - [ ] 1 teaspoon chili powder
 - [ ] 1 large red onion, chopped

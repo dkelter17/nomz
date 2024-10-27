@@ -16,8 +16,8 @@ Riffing on a recipe we received after taking a class at the New Orleans School o
 ### Ingredients
 
 - Roux:
-  - 1/4 cup lard or 1/2 cup oil
-  - 1/2 cup flour (you might need upwards of 1 cup)
+  - ¼ cup lard or ½ cup oil
+  - ½ cup flour (you might need upwards of 1 cup)
 - Meat:
   - 1 lb chicken, cut up or deboned
   - 1 lb Andouille sausage (chorizo in a pinch)
@@ -35,11 +35,11 @@ Riffing on a recipe we received after taking a class at the New Orleans School o
 ### Instructions
 
 1. Get your rice going if you're having it with rice. It's also good with french bread or a salty cracker.
-2. Season the chicken and add to a large, preheated pot with 1/4 cup of oil, lard, or bacon drippings. Brown the chicken.
+2. Season the chicken and add to a large, preheated pot with ¼ cup of oil, lard, or bacon drippings. Brown the chicken.
    Add sausage to pot and sauté with chicken, ensuring it's making contact so it all browns nicely.
 3. In a skillet, make the roux: add all your fat/oil, let it melt, then sprinkle in flour little by little.
    Push and pull along the bottom slowly with the roux spoon until the roux smells nutty and takes on a deep brown hue.
-   We needed way more than 1/2 cup flour to make this roux work, probably closer to 3/4 or 1 cup, so just get it to a good jam-like consistency.
+   We needed way more than ½ cup flour to make this roux work, probably closer to ¾ or 1 cup, so just get it to a good jam-like consistency.
    The goal is that as you push and pull the roux spoon, it doesn't immediately fill back in, so it shouldn't be too runny.
    Darker means more flavor, except of course if you've burnt it. In which case, throw it out and start again.
 5. Add onions, celery, and green pepper to the roux. Let them sweat for just 1 or 2 minutes.

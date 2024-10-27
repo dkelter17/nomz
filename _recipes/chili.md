@@ -15,9 +15,9 @@ tags:
 - 2 15 oz cans black beans
 - 1 16 oz can whole kernel corn
 - 1 lb ground beef or turkey
-- 1/2 T chili powder
+- ½ T chili powder
 - 1 t cayenne pepper
-- 1/2 t cinnamon
+- ½ t cinnamon
 - salt and pepper
 - shredded cheese and/or sour cream
 

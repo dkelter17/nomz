@@ -13,15 +13,15 @@ tags:
 
 - [ ] 2 lbs chicken
 - [ ] 1 clove garlic
-- [ ] 1 1/2 T oregano
-- [ ] 1/4 cup olive oil
-- [ ] 1/4 cup red wine vinegar
-- [ ] 1/2 cup pitted prunes
-- [ ] 1/2 cup green olives
-- [ ] 1/4 cup capers
-- [ ] 1/2 bay leaf
-- [ ] 1/2 cup brown sugar
-- [ ] 1/2 cup white wine
+- [ ] 1 ½ T oregano
+- [ ] ¼ cup olive oil
+- [ ] ¼ cup red wine vinegar
+- [ ] ½ cup pitted prunes
+- [ ] ½ cup green olives
+- [ ] ¼ cup capers
+- [ ] ½ bay leaf
+- [ ] ½ cup brown sugar
+- [ ] ½ cup white wine
 - [ ] 1 T parsley
 
 ## Directions:

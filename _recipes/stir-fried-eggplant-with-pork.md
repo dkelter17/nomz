@@ -27,6 +27,6 @@ external-url: https://www.bonappetit.com/recipe/stir-fried-eggplant-with-pork
 0. Consider starting some rice to eat along with this.
 1. Finely chop chiles and combine into a small bowl with 1 Tbsp honey and a pinch of salt.
 2. Slice eggplants crosswise into 3-inch pieces, then quarter lengthwise. Heat 2 Tbsp oil in skillet, then cook eggplant until browned and crisp-tender (6-8 minutes, toss occasionally). Add more oil as necessary. Transfer to a plate.
-3. Heat 1 Tbsp oil in skillet, then add all your pork. Crumble into small pieces and brown. Add garlic and sesame seeds and cook until very fragrant. Add 1/2 cup basil leaves and toss until wilted, 2-3 minutes.
+3. Heat 1 Tbsp oil in skillet, then add all your pork. Crumble into small pieces and brown. Add garlic and sesame seeds and cook until very fragrant. Add ½ cup basil leaves and toss until wilted, 2-3 minutes.
 4. Stir vinegar and tamari into chile mixture made in step 1. Return eggplant to skillet and add half the sauce. Combine and cook until eggplant is tender – just 1-2 minutes. Add salt as needed.
 5. Plate and garnish with more sauce and some fresh basil.

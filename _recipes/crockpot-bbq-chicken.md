@@ -11,8 +11,8 @@ tags:
 ## Ingredients:
 - 2 lbs chicken - dark meat is best
 - 1 cup BBQ sauce
-- 1/4 cup Zesty Italian dressing
-- 1/4 cup brown sugar
+- ¼ cup Zesty Italian dressing
+- ¼ cup brown sugar
 - 1 T Worcestershire sauce
 - salt to taste
 

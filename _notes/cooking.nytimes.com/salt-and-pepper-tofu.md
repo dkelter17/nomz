@@ -19,4 +19,4 @@ tags:
 - weekday
 ---
 
-When tossing the tofu in a flour/cornstarch mixture, add 1 tsp salt, 1 tsp granulated sugar, and 1/2 tsp of chili powder.
+When tossing the tofu in a flour/cornstarch mixture, add 1 tsp salt, 1 tsp granulated sugar, and ½tsp of chili powder.

@@ -9,7 +9,7 @@ tags:
 
 ## Ingredients
 
-0. 1 1/2 cups frozen edamame, thawed
+0. 1 ½ cups frozen edamame, thawed
 0. 1, 15 oz can cannellini beans, drained and rinsed
 0. 3 Persian cucumbers, diced
 0. 1 jalapeño, thinly sliced (deseed to make less spicy)

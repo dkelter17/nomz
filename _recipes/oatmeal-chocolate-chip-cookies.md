@@ -10,15 +10,15 @@ tags:
 
 ### Ingredients
 
-1. 1/2 cup (1 stick) plus 6 tablespoons butter, softened
-2. 3/4 cup firmly packed brown sugar
-1/2 Cup(s) granulated sugar
+1. ½ cup (1 stick) plus 6 tablespoons butter, softened
+2. ¾ cup firmly packed brown sugar
+½ Cup(s) granulated sugar
 3. 2 Eggs
 4. 1 tsp vanilla
 5. 1.5 cups all-purpose flour
 6. 1 tsp Baking Soda
 7. 1 tsp ground cinnamon
-8. 1/2 tsp salt
+8. ½ tsp salt
 9. 3 cups Quaker® Oats (quick or old fashioned, uncooked)
 10. 1 cup chocolate chips
 

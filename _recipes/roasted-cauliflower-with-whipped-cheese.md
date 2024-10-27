@@ -18,9 +18,9 @@ category: dinner
 
 #### Roasted Cauliflower
 - 1 head of white cauliflower, leaves removed
-- 2 1/2 cups dry white wine (recommend a Pinot Grigio)
+- 2 ½ cups dry white wine (recommend a Pinot Grigio)
 - 1/3 cup extra-virgin olive oil
-- 1/4 cup kosher salt
+- ¼ cup kosher salt
 - 3 Tablespoons fresh lemon juice
 - 1 Tablespoon Aleppo pepper (or crushed red pepper flakes)
 - 1 Tablespoon granulated sugar

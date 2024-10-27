@@ -8,8 +8,8 @@ tags:
 
 ## Ingredients
 
-1. 4 Tbsp unsalted butter (1/2 stick)
-2. 3/4 cup sugar
+1. 4 Tbsp unsalted butter (½stick)
+2. ¾ cup sugar
 3. 3 medium-size ripe bananas, peeled and rougly chopped
 4. 1 egg
 5. 1/3 cup yoghurt

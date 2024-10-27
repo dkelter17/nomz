@@ -35,7 +35,7 @@ Don't go too heavy on the peanut butter! If you go too heavy on the fats, add so
 - 14 oz package of firm tofu drained and cut into cubes
 - 1 red bell pepper sliced into strips
 - 1 large head broccoli chopped
-- ¾ cup quinoa (1/4 cup = 1 serving)
+- ¾ cup quinoa (¼ cup = 1 serving)
 - 1 tablespoon olive oil sub of your choice
 - salt and pepper to taste
 - 1 tablespoon soy sauce

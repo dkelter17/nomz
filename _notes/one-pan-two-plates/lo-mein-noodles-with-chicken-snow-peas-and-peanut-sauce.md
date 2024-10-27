@@ -31,4 +31,4 @@ tags:
 - 1 carrot, peeled and shredded with a julienne peeler or grater
 - 1 green onion, white and tender green parts, thinly sliced
 - 2 Tbsp minced fresh cilantro
-- 1/4 cup / 40g peanuts
+- ¼ cup / 40g peanuts

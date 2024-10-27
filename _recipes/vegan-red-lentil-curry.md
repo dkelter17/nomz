@@ -16,8 +16,8 @@ tags:
 4. 1 tablespoon minced fresh turmeric, or 1 teaspoon ground turmeric
 5. 1-2 serrano peppers, diced (remove seeds if you don't like heat)
 6. 1 teaspoon ground cumin
-7. 1/2 teaspoon ground coriander
-8. 1/2 teaspoon Indian red chili powder (if you only have regular chili powder, which is a blend, use 1 teaspoon)
+7. ½ teaspoon ground coriander
+8. ½ teaspoon Indian red chili powder (if you only have regular chili powder, which is a blend, use 1 teaspoon)
 9. 2 teaspoons curry powder
 10. 1 teaspoon garam masala
 11. 1 cup (180-190g) red lentils, or split red lentils (the split variety will cook a bit quicker)
@@ -25,8 +25,8 @@ tags:
 13. 1 14-ounce can crushed tomatoes
 14. 1 14-ounce can full-fat coconut milk (see notes above for substitutes)
 15. 3 tablespoons unsweetened creamy almond butter
-16. 1/2 a small lemon, juiced
-17. 1/2 cup fresh cilantro, roughly chopped
+16. ½ a small lemon, juiced
+17. ½ cup fresh cilantro, roughly chopped
 18. For serving: Basmati or Jasmine rice and Indian flatbread such as roti, paratha, or naan
 
 ### Instructions

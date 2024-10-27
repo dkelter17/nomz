@@ -11,7 +11,7 @@ tags:
 Cabbage Slaw:
 
 0. 2 cups sliced cabbage
-0. 1/4 cup mayo
+0. ¼ cup mayo
 0. 2 Tbsp chipotle in adobo, minced
 0. 2 tsp lime juice
 0. 2 tsp honey
