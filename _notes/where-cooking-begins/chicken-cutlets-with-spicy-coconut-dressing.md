@@ -18,4 +18,4 @@ tags:
 - weekday
 ---
 
-
+2023-12-17 - Consider dressing on the side.
