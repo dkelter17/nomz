@@ -13,6 +13,7 @@ rating: 2
 category: dinner
 url: "/notes/cooking.nytimes.com/sticky-miso-salmon-bowl.html"
 external_url: https://cooking.nytimes.com/recipes/1025510-sticky-miso-salmon-bowl
+drive_url: https://drive.google.com/file/d/1AJN5sm-OzaWIhWatHXHvpfhWQDc1BQ3J/view?usp=drive_link
 tags:
 - salmon
 - scallions
