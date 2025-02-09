@@ -85,9 +85,7 @@
       "shrimp"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 4,
     "season": "",
@@ -158,9 +156,7 @@
     "title": "Butternut Risotto",
     "source": "One Pan, Two Plates Vegetarian p. 122",
     "author": "Carla Snyder",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley"
@@ -184,9 +180,7 @@
     "title": "Crunchy Black Bean Tacos",
     "source": "One Pan, Two Plates Vegetarian p. 139",
     "author": "Carla Snyder",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "cilantro"
@@ -209,9 +203,7 @@
     "title": "Linguinie with Ricotta, Zucchini, Sundried Tomato, and Lemon",
     "source": "One Pan, Two Plates Vegetarian p. 150",
     "author": "Carla Snyder",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley"
@@ -235,13 +227,9 @@
     "title": "Fig Pizza with Brie and Arugula",
     "source": "One Pan, Two Plates Vegetarian p. 179",
     "author": "Carla Snyder",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 2,
     "season": "",
@@ -259,13 +247,9 @@
     "title": "Roasted Moroccan Tart with Harissa",
     "source": "One Pan, Two Plates Vegetarian p. 187",
     "author": "Carla Snyder",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 2,
     "season": "",
@@ -287,9 +271,7 @@
       "prosciutto"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 2,
     "season": "",
@@ -307,9 +289,7 @@
     "title": "Fresh Summer Pasta with Tomatoes, Garlic, Basil, and Buttery Croutons",
     "source": "One Pan, Two Plates p. 21",
     "author": "Carla Snyder",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "basil"
@@ -412,9 +392,7 @@
       "pork"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 2,
     "season": "",
@@ -486,9 +464,7 @@
       "beef"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 2,
     "season": "",
@@ -561,9 +537,7 @@
       "eggs"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 2,
     "season": "spring",
@@ -764,9 +738,7 @@
       "tilapia"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 2,
     "season": "",
@@ -867,9 +839,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 4,
     "season": "winter",
@@ -914,9 +884,7 @@
     "title": "Caprese Mac & Cheese",
     "source": "Where Cooking Begins, p. 144",
     "author": "Carla Lalli Music",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "basil"
@@ -944,9 +912,7 @@
       "tofu"
     ],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 4,
     "season": "",
@@ -970,9 +936,7 @@
       "bean"
     ],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 6,
     "season": "",
@@ -992,13 +956,9 @@
     "title": "White Bean and Kale Quesadillas",
     "source": "Mostly Plants p. 96",
     "author": "Pollen Family",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 4,
     "season": "",
@@ -1016,13 +976,9 @@
     "title": "Buddha Bowl with Roasted Sweet Potatoes, Spiced Chickpeas, and Chard",
     "source": "Mostly Plants p. 113",
     "author": "Pollen Family",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 4,
     "season": "",
@@ -1040,9 +996,7 @@
     "title": "Cavatappi with Broccolini, Brown Butter, and Sage",
     "source": "Mostly Plants p. 129",
     "author": "Pollen Family",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "sage"
@@ -1065,13 +1019,9 @@
     "title": "Homeroom Pasta",
     "source": "Homeroom",
     "author": "Homeroom",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 8,
     "season": "winter",
@@ -1094,9 +1044,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 6,
     "season": "winter",
@@ -1145,9 +1093,7 @@
       "tilapia"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 4,
     "season": "",
@@ -1193,9 +1139,7 @@
     "title": "Spaghetti with Melted Caulfilower Sauce",
     "source": "https://drive.google.com/file/d/16P8ka4mRZdhLlHVcuJYhAEOG14Sl70Mj/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "mint"
@@ -1218,9 +1162,7 @@
     "title": "Summery Corn Pasta",
     "source": "https://drive.google.com/file/d/1tsKlddwsgdjh8p_Gp9niFBAwSyWMeSVM/view?usp=drive_link",
     "author": "Carla Lalli Music",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "basil"
@@ -1272,9 +1214,7 @@
       "tofu"
     ],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -1297,9 +1237,7 @@
       "pork"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -1317,9 +1255,7 @@
     "title": "Cheesy Fennel and Beans Baked in Cream",
     "source": "https://mollybaz.com/cheesy-fennel-and-beans-baked-in-cream/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "mint"
@@ -1367,9 +1303,7 @@
     "title": "White Bean Bolognese",
     "source": "https://mollybaz.com/white-bean-bolognese/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley"
@@ -1422,9 +1356,7 @@
       "salmon"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -1446,9 +1378,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
@@ -1466,9 +1396,7 @@
     "title": "Spicy Cauliflower Ragu",
     "source": "https://mollybaz.com/supremely-savory-slightly-spicy-meatless-cauliflower-ragu/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "mint"
@@ -1491,9 +1419,7 @@
     "title": "Crispy Broccoli and Chickpea Bowls with Peanut Sauce",
     "source": "https://mollybaz.com/crispy-brocc-and-chickpea-bowls-with-peanut-sauce-and-peanut-rice/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "ginger"
@@ -1519,9 +1445,7 @@
       "beef"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -1571,9 +1495,7 @@
     "title": "Rigatoni with Creamed Leeks and Chivey Breadcrumbs",
     "source": "https://mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "chives"
@@ -1674,9 +1596,7 @@
     "title": "Salad Pizza with Ricotta, and Anchovy-Garlic Oil",
     "source": "https://mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley",
@@ -1700,9 +1620,7 @@
     "title": "Corn and Tomato Salad with Spicy Bagna Cauda and Salty Peanuts",
     "source": "https://mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-roasted-peanuts/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "cilantro"
@@ -1777,9 +1695,7 @@
       "steak"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "",
     "feeds": 0,
     "season": "",
@@ -1796,9 +1712,7 @@
     "title": "Corn and Basil Cacio e Pepe",
     "source": "https://mollybaz.com/corn-and-basil-cacio-e-pepe/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "basil"
@@ -1875,9 +1789,7 @@
       "pork"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "",
     "feeds": 0,
     "season": "",
@@ -1894,9 +1806,7 @@
     "title": "Crazy Pasta Salad with Cucumber Corn Salad",
     "source": "https://mollybaz.com/crazy-pasta-salad-with-cucumber-corn-pesto/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley",
@@ -1922,13 +1832,9 @@
     "title": "Spaghetti with Melted Onions and Pecorino",
     "source": "https://mollybaz.com/spaghetti-with-melted-onions-and-pecorino/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "",
     "feeds": 0,
     "season": "",
@@ -2045,9 +1951,7 @@
     "title": "Braised Big Beans and Squash with Feta and Chopped Lemon",
     "source": "https://mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "rosemary",
@@ -2072,9 +1976,7 @@
     "title": "Zuppa all’Amatriciana with Crispy Cacio e Pepe",
     "source": "https://mollybaz.com/zuppa-allamatriciana-with-crispy-cacio-e-pepe-chickpeas/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "mint"
@@ -2176,9 +2078,7 @@
       "pork"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
@@ -2196,9 +2096,7 @@
     "title": "Big Noods alla Gin with Sungold Tomatoes",
     "source": "https://mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "basil"
@@ -2220,9 +2118,7 @@
     "title": "Smoky Pepper and Chickpea Pasta Salad",
     "source": "https://mollybaz.com/smoky-pepper-and-chickpea-pasta-salad/",
     "author": "Molly Baz",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley"
@@ -2349,9 +2245,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "",
     "feeds": 0,
     "season": "",
@@ -2396,9 +2290,7 @@
       "sausage"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
@@ -2542,9 +2434,7 @@
     "title": "Grilled Squash with Nuoc Cham Chimichurri",
     "source": "https://www.bonappetit.com/recipe/grilled-squash-with-nuoc-cham-chimichurri",
     "author": "Shuai Wang",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley"
@@ -2593,13 +2483,9 @@
     "title": "Toasted Sesame Oat Chocolate Chip Cookies",
     "source": "https://www.mehreenkarim.com/recipes/toasted-oat-chocolate-chunk-cookies",
     "author": "Mehreen Karim",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
@@ -2621,9 +2507,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
@@ -2645,9 +2529,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "summer",
@@ -2670,9 +2552,7 @@
       "tofu"
     ],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -2723,9 +2603,7 @@
       "shrimp"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -2772,9 +2650,7 @@
       "salmon"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -2792,13 +2668,9 @@
     "title": "Melted Fennel Pasta",
     "source": "https://www.bonappetit.com/recipe/melted-fennel-pasta",
     "author": "Amelia Rampe",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -2841,13 +2713,9 @@
     "title": "Miso Macaroni & Cheese",
     "source": "https://www.bonappetit.com/recipe/miso-macaroni-and-cheese-recipe",
     "author": "Chris Rogienski",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -2869,9 +2737,7 @@
       "salmon"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -2893,9 +2759,7 @@
       "shrimp"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -2938,13 +2802,9 @@
     "title": "Brown Butter Toffee Cookies",
     "source": "https://whatmollymade.com/toffee-cookies/#recipe",
     "author": "Molly Thompson",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "",
     "feeds": 0,
     "season": "",
@@ -2961,13 +2821,9 @@
     "title": "Carrot Risotto with Chile Crisp",
     "source": "https://cooking.nytimes.com/recipes/1024086-carrot-risotto-with-chile-crisp",
     "author": "Alexa Weibel",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -3010,13 +2866,9 @@
     "title": "Chez Panisse's Blueberry Cobbler",
     "source": "https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler",
     "author": "Lindsey Remolif Shere",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 0,
     "season": "spring",
@@ -3035,13 +2887,9 @@
     "title": "Salted Chocolate Chunk Shortbread Cookies",
     "source": "https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies",
     "author": "Alison Roman",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekend",
     "feeds": 0,
     "season": "",
@@ -3063,9 +2911,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -3112,9 +2958,7 @@
       "chicken"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -3136,9 +2980,7 @@
       "salmon"
     ],
     "vegetarian": false,
-    "herbs": [
-
-    ],
+    "herbs": [],
     "day_of_week": "weekday",
     "feeds": 0,
     "season": "",
@@ -3156,9 +2998,7 @@
     "title": "Carrot Salad with Aleppo Chickpeas and Date Vinaigrette",
     "source": "https://justinesnacks.com/carrot-salad-with-aleppo-chickpeas-date-vinaigrette/",
     "author": "Justine Snacks",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "scallions"
@@ -3181,9 +3021,7 @@
     "title": "Quinoa Salad with Cucumbers, Olives, and Bell Pepper",
     "source": "https://cooking.nytimes.com/recipes/1024829-quinoa-salad",
     "author": "Ali Slagle",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley"
@@ -3206,9 +3044,7 @@
     "title": "Charlie Bird's Farro Salad",
     "source": "https://cooking.nytimes.com/recipes/1015843-charlie-birds-farro-salad",
     "author": "Melissa Clark",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "parsley",
@@ -3232,9 +3068,7 @@
     "title": "Coconut Braised Cabbage",
     "source": "https://justinesnacks.com/coconut-braised-cabbage/",
     "author": "Justine Snacks",
-    "protein": [
-
-    ],
+    "protein": [],
     "vegetarian": true,
     "herbs": [
       "mint"
@@ -3330,6 +3164,100 @@
       "chives",
       "cilantro",
       "basil",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Chicken Thighs with Spiced Couscous and Carrots",
+    "source": "https://www.bonappetit.com/recipe/chicken-thighs-with-spiced-couscous-and-carrots",
+    "author": "Jesse Szewczyk",
+    "protein": [
+      "chicken"
+    ],
+    "vegetarian": false,
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/chicken-thighs-with-spiced-couscous-and-carrots.html",
+    "external_url": "https://www.bonappetit.com/recipe/chicken-thighs-with-spiced-couscous-and-carrots",
+    "drive_url": "",
+    "tags": [
+      "chicken",
+      "parsley",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Mexican Picadillo",
+    "source": "https://www.bonappetit.com/recipe/mexican-picadillo",
+    "author": "Rick Martinez",
+    "protein": [
+      "beef"
+    ],
+    "vegetarian": false,
+    "herbs": [],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/mexican-picadillo.html",
+    "external_url": "https://www.bonappetit.com/recipe/mexican-picadillo",
+    "drive_url": "https://drive.google.com/file/d/1IfG5Z9bkEhi8caMG9xKKSuM10QhaMIFe/view?usp=drive_link",
+    "tags": [
+      "beef",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Spicy Meatball and Broken Rice Porridge with Pine Nut Scallion Oil",
+    "source": "https://mollybaz.com/spicy-meatball-and-broken-rice-porridge-with-pine-nut-scallion-oil/",
+    "author": "Molly Baz",
+    "protein": [
+      "pork"
+    ],
+    "vegetarian": false,
+    "herbs": [
+      "scallions"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/mollybaz.com/spicy-meatball-and-broken-rice-porridge-with-pine-nut-scallion-oil.html",
+    "external_url": "https://mollybaz.com/spicy-meatball-and-broken-rice-porridge-with-pine-nut-scallion-oil/",
+    "drive_url": "https://drive.google.com/file/d/16OZ2GgjteuuGFtICvGh3jQzmoJ5Pr3Ft/view?usp=drive_link",
+    "tags": [
+      "pork",
+      "scallions",
+      "weekday"
+    ]
+  },
+  {
+    "title": "Garlic Coconut Shrimp and Green Beans",
+    "source": "https://www.bonappetit.com/recipe/garlic-coconut-shrimp-and-green-beans",
+    "author": "Kendra Vaculin",
+    "protein": [
+      "shrimp"
+    ],
+    "vegetarian": false,
+    "herbs": [],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/garlic-coconut-shrimp-and-green-beans.html",
+    "external_url": "https://www.bonappetit.com/recipe/garlic-coconut-shrimp-and-green-beans",
+    "drive_url": "https://drive.google.com/file/d/1PsHJL0ozrL28odyNgzcRAi0zWZTs-J4y/view?usp=drive_link",
+    "tags": [
+      "shrimp",
       "weekday"
     ]
   },
@@ -3871,9 +3799,7 @@
     "url": "/recipes/mediterranean-spice-mix.html",
     "external_url": "http://www.mensfitness.com/nutrition/what-to-eat/healthy-grilling-marinades/slide/3",
     "drive_url": "",
-    "tags": [
-
-    ]
+    "tags": []
   },
   {
     "title": "No-Knead Focaccia Bread",
