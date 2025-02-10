@@ -32,3 +32,9 @@ plugins:
 - jekyll-include-cache
 - jekyll-seo-tag
 - jekyll-github-metadata
+- jekyll-feed
+
+feed:
+  collections:
+    - notes
+    - recipes
