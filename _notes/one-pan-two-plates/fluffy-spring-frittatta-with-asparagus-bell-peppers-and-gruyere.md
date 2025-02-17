@@ -3,7 +3,7 @@ title: Fluffy Spring Frittatta with Asparagus, Bell Peppers, and Gruyere
 source: One Pan, Two Plates p. 118
 author: Carla Snyder
 protein:
-- eggs
+- egg
 vegetarian: false
 herbs: []
 day_of_week: weekday
@@ -13,7 +13,7 @@ rating: 1
 category: dinner
 url: "/notes/one-pan-two-plates/fluffy-spring-frittatta-with-asparagus-bell-peppers-and-gruyere.html"
 tags:
-- eggs
+- egg
 - spring
 - weekday
 ---

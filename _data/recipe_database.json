@@ -339,7 +339,7 @@
     "source": "One Pan, Two Plates p. 36",
     "author": "Carla Snyder",
     "protein": [
-      "shrimps"
+      "shrimp"
     ],
     "vegetarian": false,
     "herbs": [
@@ -354,7 +354,7 @@
     "external_url": "",
     "drive_url": "",
     "tags": [
-      "shrimps",
+      "shrimp",
       "cilantro (optional)",
       "weekday"
     ]
@@ -534,7 +534,7 @@
     "source": "One Pan, Two Plates p. 118",
     "author": "Carla Snyder",
     "protein": [
-      "eggs"
+      "egg"
     ],
     "vegetarian": false,
     "herbs": [],
@@ -547,7 +547,7 @@
     "external_url": "",
     "drive_url": "",
     "tags": [
-      "eggs",
+      "egg",
       "spring",
       "weekday"
     ]
@@ -3259,6 +3259,68 @@
     "tags": [
       "shrimp",
       "weekday"
+    ]
+  },
+  {
+    "title": "Maple-and-Bacon Fall Chopped Salad",
+    "source": "https://www.bonappetit.com/recipe/maple-and-bacon-fall-chopped-salad",
+    "author": "Hana Asbrink",
+    "protein": [],
+    "vegetarian": true,
+    "herbs": [],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/maple-and-bacon-fall-chopped-salad.html",
+    "external_url": "https://www.bonappetit.com/recipe/maple-and-bacon-fall-chopped-salad",
+    "drive_url": "",
+    "tags": [
+      "vegetarian"
+    ]
+  },
+  {
+    "title": "Baked Sweet Potato Chaat",
+    "source": "https://www.bonappetit.com/recipe/baked-sweet-potato-chaat",
+    "author": "Kendra Vaculin",
+    "protein": [],
+    "vegetarian": true,
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/baked-sweet-potato-chaat.html",
+    "external_url": "https://www.bonappetit.com/recipe/baked-sweet-potato-chaat",
+    "drive_url": "",
+    "tags": [
+      "vegetarian",
+      "cilantro"
+    ]
+  },
+  {
+    "title": "Miso-Mayo Chicken Bowl",
+    "source": "https://www.bonappetit.com/recipe/miso-mayo-chicken-bowl",
+    "author": "Kendra Vaculin",
+    "protein": [
+      "chicken"
+    ],
+    "vegetarian": false,
+    "herbs": [],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/miso-mayo-chicken-bowl.html",
+    "external_url": "https://www.bonappetit.com/recipe/miso-mayo-chicken-bowl",
+    "drive_url": "",
+    "tags": [
+      "chicken"
     ]
   },
   {

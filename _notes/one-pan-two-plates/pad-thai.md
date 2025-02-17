@@ -3,7 +3,7 @@ title: Pad Thai
 source: One Pan, Two Plates p. 36
 author: Carla Snyder
 protein:
-- shrimps
+- shrimp
 vegetarian: false
 herbs:
 - cilantro (optional)
@@ -13,7 +13,7 @@ rating: 1
 category: dinner
 url: "/notes/one-pan-two-plates/pad-thai.html"
 tags:
-- shrimps
+- shrimp
 - cilantro (optional)
 - weekday
 ---
