@@ -21,10 +21,10 @@ layout: page
   {% endif %}
 </p>
 
-{% if page.category %}
- <p>Category: {{page.category}}</p>
-{% endif %}
+
 
 {{ content }}
 
-<p>Tags: {{ page.tags | join: " / " }}</p>
+<p>
+{% include recipe_category_tags.html category=page.category tags=page.tags %}
+</p>

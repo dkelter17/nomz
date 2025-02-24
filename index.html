@@ -24,9 +24,7 @@ layout: default
       <li>
         <h5>
           <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
-          {%- for tag in recipe.tags -%}
-          <span class="post-meta">#{{tag}}</span>
-          {%- endfor -%}
+          {% include recipe_category_tags.html category=recipe.category tags=recipe.tags %}
         </h5>
       </li>
       {%- endfor -%}
@@ -41,9 +39,7 @@ layout: default
       <li>
         <h5>
           <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.emoji }} {{ recipe.title | escape }}</a>
-          {%- for tag in recipe.tags -%}
-          <span class="post-meta">#{{tag}}</span>
-          {%- endfor -%}
+          {% include recipe_category_tags.html category=recipe.category tags=recipe.tags %}
         </h5>
       </li>
     {%- endfor -%}

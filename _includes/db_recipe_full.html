@@ -5,6 +5,4 @@
 {% else %}
 <span class="recipe-link">{{ recipe.title }}</span> ({{ recipe.source }})
 {% endif %}
-{%- for tag in recipe.tags -%}
-<span class="post-meta">#{{tag}}</span>
-{%- endfor -%}
+{% include recipe_category_tags.html category=page.category tags=page.tags %}

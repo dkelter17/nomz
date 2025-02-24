@@ -73,7 +73,7 @@ function searchWithLunr() {
   }
 
   var results = document.recipesSearch.idx.search(searchTerm); // Get lunr to perform a search
-  console.log('term', searchTerm, 'results', results)
+  console.log('term:', searchTerm, '; results:', results)
   displaySearchResults(results, document.recipesSearch.recipes); // We'll write this in the next section
 }
 
@@ -110,7 +110,7 @@ function formatSearchResult(listItemEl, item) {
     titleH3.appendChild(titleLink)
     listItemEl.appendChild(titleH3)
 
-    if (item.content != '') {
+    if (item.content != undefined && item.content != '') {
       const contentEl = document.createElement('p')
       contentEl.innerText = item.content.substring(0, 190) + ' ...'
       listItemEl.appendChild(contentEl)
@@ -132,12 +132,30 @@ function formatSearchResult(listItemEl, item) {
     titleH3.appendChild(driveURLIconLink)
   }
 
+  const categoryTagsListEl = document.createElement('p')
+
+  if (item.category != undefined && item.category != '') {
+    const categoryEl = document.createElement('span')
+    categoryEl.innerText = item.category
+    categoryEl.classList.add('btn')
+    categoryEl.classList.add('pill')
+    categoryEl.classList.add('dark')
+    categoryTagsListEl.appendChild(categoryEl)
+  }
+
   const tags = item.tags || []
   if (tags.length > 0) {
-    const tagsWithHash = tags.map((tag) => `#${tag}`)
-    const tagsListEl = document.createElement('p')
-    tagsListEl.innerText = `Tags: ${tagsWithHash.join(' ')}`
-    listItemEl.appendChild(tagsListEl)
+    for (tag of tags) {
+      const tagEl = document.createElement('span')
+      tagEl.innerText = tag
+      tagEl.classList.add('btn')
+      tagEl.classList.add('pill')
+      categoryTagsListEl.appendChild(tagEl)
+    }
+  }
+
+  if (categoryTagsListEl.childNodes.length > 0){
+    listItemEl.appendChild(categoryTagsListEl)
   }
 }
 

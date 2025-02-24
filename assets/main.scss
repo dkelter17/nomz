@@ -97,6 +97,27 @@ $on-laptop:        800px;
   margin-right: 0.8em;
 }
 
+.btn.pill {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgb(212, 212, 212);
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 2px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  font-size: 12px;
+
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px; /* This property makes the button look like a pill */
+}
+
+.btn.pill.dark {
+  background-color: rgb(100, 100, 100);
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;

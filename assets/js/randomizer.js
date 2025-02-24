@@ -69,41 +69,10 @@ function displayRecipeResults(recipes) {
     console.log("Recipes:", recipes)
 
     for (var i = 0; i < recipes.length; i++) {  // Iterate over the results
-      const item = recipes[i]
-      const recipeListItem = document.createElement('li')
-
-      const titleH3 = document.createElement('h3')
-      if (item.url) {
-        const titleLink = document.createElement('a')
-        titleLink.href = document.recipesRandomizer.baseURL + item.url
-        titleLink.appendChild(document.createTextNode(item.title))
-        titleH3.appendChild(titleLink)
-        recipeListItem.appendChild(titleH3)
-      } else {
-        titleH3.innerText = item.title
-        const source = document.createElement('p')
-        source.classList.add('no-bottom-margin')
-        source.appendChild(document.createTextNode(`Source: ${item.source} by ${item.author}`))
-        recipeListItem.appendChild(titleH3)
-        recipeListItem.appendChild(source)
-      }
-
-      if (item.drive_url && item.drive_url != ''){
-        const driveURLIconLink = document.createElement('a')
-        driveURLIconLink.title = `View ${item.title} on Google Drive`
-        driveURLIconLink.href = item.drive_url
-        driveURLIconLink.innerText = ` △`
-        titleH3.appendChild(driveURLIconLink)
-      }
-
-      resultsList.appendChild(recipeListItem)
-      const tags = item.tags || []
-      if (tags.length > 0) {
-        const tagsWithHash = tags.map((tag) => `#${tag}`)
-        const tagsListEl = document.createElement('p')
-        tagsListEl.innerText = `Tags: ${tagsWithHash.join(' ')}`
-        resultsList.appendChild(tagsListEl)
-      }
+      const item = recipes[i];
+      const listItem = document.createElement('li')
+      formatSearchResult(listItem, item)
+      resultsList.appendChild(listItem)
     }
 
     randomizerResults.appendChild(resultsList)
