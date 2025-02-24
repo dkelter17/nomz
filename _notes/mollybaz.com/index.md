@@ -1,22 +1,50 @@
 ---
-title: Index of Molly Baz recipes
-excerpt: A list of notes for recipes by Molly Baz.
+layout: notes_list
+title: Index of Molly Baz Club recipes
+excerpt: A list of notes for recipes by/from Molly Baz Club.
+notes:
+- url: "/notes/mollybaz.com/cheesy-fennel-and-beans-baked-in-cream.html"
+- url: "/notes/mollybaz.com/harissa-grilled-chicken-flat-bread-with-pistachio-lime-yogurt.html"
+- url: "/notes/mollybaz.com/white-bean-bolognese.html"
+- url: "/notes/mollybaz.com/leaf-peepin-ragu.html"
+- url: "/notes/mollybaz.com/crispy-salmon-with-coconut-rice-and-crackle-sauce.html"
+- url: "/notes/mollybaz.com/chicky-chicky-bread-bread.html"
+- url: "/notes/mollybaz.com/spicy-cauliflower-ragu.html"
+- url: "/notes/mollybaz.com/crispy-broccoli-and-chickpea-bowls-with-peanut-sauce.html"
+- url: "/notes/mollybaz.com/steak-with-jammy-vinegar-and-shallots.html"
+- url: "/notes/mollybaz.com/farro-and-crunchy-thangs-salad.html"
+- url: "/notes/mollybaz.com/rigatoni-with-creamed-leeks-and-chivey-breadcrumbs.html"
+- url: "/notes/mollybaz.com/caesared-egg-sally-salad.html"
+- url: "/notes/mollybaz.com/spiced-green-meatballs-with-pickle-rice-and-salty-yogurt.html"
+- url: "/notes/mollybaz.com/summer-ragu-with-pork-zucchini-and-mint.html"
+- url: "/notes/mollybaz.com/salad-pizza-with-ricotta-and-anchovy-garlic-oil.html"
+- url: "/notes/mollybaz.com/corn-and-tomato-salad-with-spicy-bagna-cauda-and-salty-peanuts.html"
+- url: "/notes/mollybaz.com/chicken-piccata-with-sungolds-chilies-and-wilted-basil.html"
+- url: "/notes/mollybaz.com/grilled-pork-steaks-giardiniera.html"
+- url: "/notes/mollybaz.com/skirt-steak-with-tomatoes-and-salsa-macha.html"
+- url: "/notes/mollybaz.com/corn-and-basil-cacio-e-pepe.html"
+- url: "/notes/mollybaz.com/minty-lamb-chops-with-charred-dates-whipped-feta-and-smashed-cukes.html"
+- url: "/notes/mollybaz.com/pork-milanese-with-tonnato-and-celery-salad.html"
+- url: "/notes/mollybaz.com/crispy-pork-cutlets-with-curry-salt.html"
+- url: "/notes/mollybaz.com/crazy-pasta-salad-with-cucumber-corn-salad.html"
+- url: "/notes/mollybaz.com/spaghetti-with-melted-onions-and-pecorino.html"
+- url: "/notes/mollybaz.com/gochujang-and-honey-braised-short-ribs.html"
+- url: "/notes/mollybaz.com/slow-roast-salmon-with-citrus-soy-butter-and-basil.html"
+- url: "/notes/mollybaz.com/rib-eye-steaks-with-cracked-olive.html"
+- url: "/notes/mollybaz.com/crispy-chicken-cutlets-with-lemon-poppy.html"
+- url: "/notes/mollybaz.com/braised-big-beans-and-squash-with-feta-and-chopped-lemon.html"
+- url: "/notes/mollybaz.com/zuppa-all-amatriciana-with-crispy-cacio-e-pepe.html"
+- url: "/notes/mollybaz.com/beef-and-scallion-skewer-with-spicy-coconut-green-sauce.html"
+- url: "/notes/mollybaz.com/pork-and-pistachio-meat-balls.html"
+- url: "/notes/mollybaz.com/reverse-sear-ribeye-with-caesar-butter.html"
+- url: "/notes/mollybaz.com/salt-and-vinegar-pork-ribs-with-seedy-hot-honey.html"
+- url: "/notes/mollybaz.com/big-noods-alla-gin-with-sungold-tomatoes.html"
+- url: "/notes/mollybaz.com/smoky-pepper-and-chickpea-pasta-salad.html"
+- url: "/notes/mollybaz.com/5-spice-short-ribs-with-chilies-and-wilted-basil.html"
+- url: "/notes/mollybaz.com/molly-marbella-with-dates-and-israeli-couscous.html"
+- url: "/notes/mollybaz.com/crispy-chicken-au-poivre-with-miso-and-creme-fraiche.html"
+- url: "/notes/mollybaz.com/shrimp-scampi-with-buratta-and-pistachios.html"
+- url: "/notes/mollybaz.com/pork-and-pickled-pepper-piccata.html"
+- url: "/notes/mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce.html"
+- url: "/notes/mollybaz.com/spicy-meatball-and-broken-rice-porridge-with-pine-nut-scallion-oil.html"
 ---
-
-{{ page.excerpt }}
-
-<ul class="recipe-list">
-    {% assign sorted_notes = site.notes | sort: "title" %}
-    {%- for note in sorted_notes -%}
-    {%- unless note.author == "Molly Baz" -%}{%- continue -%}{%- endunless -%}
-    <li>
-    <h5>
-        <a class="recipe-link" href="{{ note.url | prepend: site.baseurl }}">{{ note.title | escape }}</a>
-
-        {%- for tag in note.tags -%}
-        <span class="post-meta">#{{tag}}</span>
-        {% endfor %}
-    </h5>
-    </li>
-    {%- endfor -%}
-</ul>

@@ -13,6 +13,7 @@ url: "/notes/one-pan-two-plates-vegetarian/roasted-moroccan-tart-with-harissa.ht
 tags:
 - vegetarian
 - weekday
+source_index_title: One Pan Two Plates Vegetarian
 ---
 
 ## Ingredients

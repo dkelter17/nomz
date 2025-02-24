@@ -53,7 +53,7 @@ $on-laptop:        800px;
 .search-container {
   float: right;
   height: 100%;
-  width: 50%;
+  width: 37%;
   text-align: right;
   margin: 1em auto;
 
@@ -62,6 +62,15 @@ $on-laptop:        800px;
     height: 100%;
     font-size: 1em;
   }
+}
+
+@media screen and (max-width: $on-palm) {
+  .search-container {
+    float: left;
+    width: 50%;
+    margin: 1em 2em;
+  }
+
 }
 
 .site-nav {

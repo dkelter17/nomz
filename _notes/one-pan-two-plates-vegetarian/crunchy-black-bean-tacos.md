@@ -15,6 +15,7 @@ tags:
 - vegetarian
 - cilantro
 - weekday
+source_index_title: One Pan Two Plates Vegetarian
 ---
 
 ## Ingredients

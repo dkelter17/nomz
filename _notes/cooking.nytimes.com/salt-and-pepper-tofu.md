@@ -17,6 +17,7 @@ tags:
 - tofu
 - vegetarian
 - weekday
+source_index_title: New York Times Cooking
 ---
 
 When tossing the tofu in a flour/cornstarch mixture, add 1 tsp salt, 1 tsp granulated sugar, and ½tsp of chili powder.

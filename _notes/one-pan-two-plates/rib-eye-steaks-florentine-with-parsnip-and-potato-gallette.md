@@ -14,6 +14,7 @@ url: "/notes/one-pan-two-plates/rib-eye-steaks-florentine-with-parsnip-and-potat
 tags:
 - beef
 - weekday
+source_index_title: One Pan Two Plates
 ---
 
 

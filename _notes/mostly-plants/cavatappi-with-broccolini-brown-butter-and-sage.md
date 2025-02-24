@@ -15,6 +15,7 @@ tags:
 - vegetarian
 - sage
 - weekday
+source_index_title: Mostly Plants
 ---
 
 

@@ -15,6 +15,7 @@ drive_url: https://drive.google.com/file/d/1N28G0RVdO2wq-bbJPI13n4dyCv8jUW8P/vie
 tags:
 - vegetarian
 - weekday
+source_index_title: Bon Appétit
 ---
 
 

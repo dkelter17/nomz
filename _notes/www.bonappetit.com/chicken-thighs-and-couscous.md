@@ -18,6 +18,7 @@ tags:
 - chicken
 - summer
 - weekday
+source_index_title: Bon Appétit
 ---
 
 Swap veggies for whatever is in season.  Tomatoes were excellent, but corn was a lot of work for little payoff.

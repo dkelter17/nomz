@@ -18,6 +18,7 @@ tags:
 - chicken
 - cilantro
 - weekday
+source_index_title: New York Times Cooking
 ---
 
 

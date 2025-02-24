@@ -16,6 +16,7 @@ drive_url: https://drive.google.com/file/d/1uxIMuDlOE_e2mUA3LEPP3zq3gXMYBE3Z/vie
 tags:
 - shrimp
 - weekday
+source_index_title: Bon Appétit
 ---
 
 

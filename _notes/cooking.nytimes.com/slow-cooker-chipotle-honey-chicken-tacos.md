@@ -14,6 +14,7 @@ external_url: https://cooking.nytimes.com/recipes/1019693-slow-cooker-chipotle-h
 drive_url: https://drive.google.com/file/d/1uRDSBNu4h5THQs86vz2EECxqkKVuBZi7/view?usp=drive_link
 tags:
 - chicken
+source_index_title: New York Times Cooking
 ---
 
 

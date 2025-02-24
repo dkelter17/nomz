@@ -13,9 +13,13 @@ layout: page
 </p>
 {% endif %}
 
-{% if page.source contains " p. " %}
- <p>{{page.source}}</p>
-{% endif %}
+<p>
+    {% assign source_index_url = site.data.notes_sources[page.source_index_title] %}
+  <a href="{{ source_index_url | relative_url}}">{{page.source_index_title}}</a>
+  {% if page.source contains " p. " %}
+ p. {{page.source | split: " p. " | last}}
+  {% endif %}
+</p>
 
 {% if page.category %}
  <p>Category: {{page.category}}</p>

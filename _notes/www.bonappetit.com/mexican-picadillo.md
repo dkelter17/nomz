@@ -16,6 +16,7 @@ drive_url: https://drive.google.com/file/d/1IfG5Z9bkEhi8caMG9xKKSuM10QhaMIFe/vie
 tags:
 - beef
 - weekday
+source_index_title: Bon Appétit
 ---
 
 

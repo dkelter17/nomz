@@ -13,6 +13,7 @@ url: "/notes/one-pan-two-plates-vegetarian/fig-pizza-with-brie-and-arugula.html"
 tags:
 - vegetarian
 - weekend
+source_index_title: One Pan Two Plates Vegetarian
 ---
 
 

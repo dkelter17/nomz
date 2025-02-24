@@ -16,6 +16,7 @@ tags:
 - beef
 - parsley
 - weekday
+source_index_title: One Pan Two Plates
 ---
 
 ## Ingredients

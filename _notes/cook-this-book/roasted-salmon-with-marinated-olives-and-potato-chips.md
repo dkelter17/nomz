@@ -14,6 +14,7 @@ url: "/notes/cook-this-book/roasted-salmon-with-marinated-olives-and-potato-chip
 tags:
 - salmon
 - weekday
+source_index_title: Cook This Book
 ---
 
 

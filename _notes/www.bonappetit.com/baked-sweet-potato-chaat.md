@@ -14,6 +14,7 @@ external_url: https://www.bonappetit.com/recipe/baked-sweet-potato-chaat
 tags:
 - vegetarian
 - cilantro
+source_index_title: Bon Appétit
 ---
 
 

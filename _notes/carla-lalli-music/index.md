@@ -1,22 +1,13 @@
 ---
+layout: notes_list
 title: Index of Carla Lalli Music recipes
-excerpt: A list of notes for recipes by Carla Lalli Music.
+excerpt: A list of notes for recipes by/from Carla Lalli Music.
+notes:
+- url: "/notes/carla-lalli-music/rack-roasted-chicken-with-winter-squash-and-chile-yogurt.html"
+- url: "/notes/carla-lalli-music/crispy-chicken-confit-and-potatoes.html"
+- url: "/notes/carla-lalli-music/crispy-fish-sandwich-with-super-special-tarter-sauce.html"
+- url: "/notes/carla-lalli-music/seared-lamb-patty-with-marinated-halloumi-and-herbs.html"
+- url: "/notes/carla-lalli-music/spaghetti-with-melted-caulfilower-sauce.html"
+- url: "/notes/carla-lalli-music/summery-corn-pasta.html"
+- url: "/notes/carla-lalli-music/gingery-ground-beef-with-lime-and-herbs.html"
 ---
-
-{{ page.excerpt }}
-
-<ul class="recipe-list">
-    {% assign sorted_notes = site.notes | sort: "title" %}
-    {%- for note in sorted_notes -%}
-    {%- unless note.author == "Carla Lalli Music" -%}{%- continue -%}{%- endunless -%}
-    <li>
-    <h5>
-        <a class="recipe-link" href="{{ note.url | prepend: site.baseurl }}">{{ note.title | escape }}</a>
-
-        {%- for tag in note.tags -%}
-        <span class="post-meta">#{{tag}}</span>
-        {% endfor %}
-    </h5>
-    </li>
-    {%- endfor -%}
-</ul>

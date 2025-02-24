@@ -14,6 +14,7 @@ url: "/notes/cook-this-book/crispy-buttered-shrimp-with-20-cloves-of-garlic.html
 tags:
 - shrimp
 - weekday
+source_index_title: Cook This Book
 ---
 
 

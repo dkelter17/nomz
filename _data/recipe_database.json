@@ -23,7 +23,8 @@
       "dill",
       "winter",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Cook This Book"
   },
   {
     "title": "Minty Lamb Meatballs with Crispy Cabbage and Tahini Sauce",
@@ -49,7 +50,8 @@
       "mint",
       "winter",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Cook This Book"
   },
   {
     "title": "Coconut Shrimp with Crushed Chickpeas and Basil",
@@ -75,7 +77,8 @@
       "basil",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Cook This Book"
   },
   {
     "title": "Crispy Buttered Shrimp with 20 Cloves of Garlic",
@@ -97,7 +100,8 @@
     "tags": [
       "shrimp",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Cook This Book"
   },
   {
     "title": "One Pot Chicken and Schmalzy Rice and Lemony Yog",
@@ -123,7 +127,8 @@
       "dill",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Cook This Book"
   },
   {
     "title": "Fried Eggplant Stacks",
@@ -150,7 +155,8 @@
       "cilantro",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates Vegetarian"
   },
   {
     "title": "Butternut Risotto",
@@ -174,7 +180,8 @@
       "parsley",
       "autumn",
       "weekend"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates Vegetarian"
   },
   {
     "title": "Crunchy Black Bean Tacos",
@@ -197,7 +204,8 @@
       "vegetarian",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates Vegetarian"
   },
   {
     "title": "Linguinie with Ricotta, Zucchini, Sundried Tomato, and Lemon",
@@ -221,7 +229,8 @@
       "parsley",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates Vegetarian"
   },
   {
     "title": "Fig Pizza with Brie and Arugula",
@@ -241,7 +250,8 @@
     "tags": [
       "vegetarian",
       "weekend"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates Vegetarian"
   },
   {
     "title": "Roasted Moroccan Tart with Harissa",
@@ -261,7 +271,8 @@
     "tags": [
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates Vegetarian"
   },
   {
     "title": "Three-Cheese Mac with Crispy Prosciutto",
@@ -283,7 +294,8 @@
     "tags": [
       "prosciutto",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Fresh Summer Pasta with Tomatoes, Garlic, Basil, and Buttery Croutons",
@@ -307,7 +319,8 @@
       "basil",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Lo Mein Noodles with Chicken, Snow Peas, and Peanut Sauce",
@@ -332,7 +345,8 @@
       "chicken",
       "cilantro (optional)",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Pad Thai",
@@ -357,7 +371,8 @@
       "shrimp",
       "cilantro (optional)",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Crispy Sage Pork Cutlets, with Couscous, Peas, Figs, and Pistachios",
@@ -382,7 +397,8 @@
       "pork",
       "sage",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Spicy Pork Stir-Fry with Lime, Cashews, and Noodles",
@@ -404,7 +420,8 @@
     "tags": [
       "pork",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Spicy Orange Beef Stir Fry with Snow Peas and Carrots",
@@ -429,7 +446,8 @@
       "beef",
       "cilantro (optional)",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Skirt Steak Fajitas with Pico de Gallo and Avocado",
@@ -454,7 +472,8 @@
       "beef",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Rib Eye Steaks Florentine, with Parsnip and Potato Gallette",
@@ -476,7 +495,8 @@
     "tags": [
       "beef",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Flank Steak with Chimichurri and Summer Squash Hash",
@@ -501,7 +521,8 @@
       "beef",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Beef Stew in High Heels",
@@ -527,7 +548,8 @@
       "parsley (optional)",
       "winter",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Fluffy Spring Frittatta with Asparagus, Bell Peppers, and Gruyere",
@@ -550,7 +572,8 @@
       "egg",
       "spring",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Chicken Stew with Tomatoes, Oranges, and Olives",
@@ -575,7 +598,8 @@
       "chicken",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "One Pan Roast Deviled Chicken, with Carrots, Turnips, and Parsnips",
@@ -600,7 +624,8 @@
       "chicken",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Yellow Curry Chicken with Green Beans and Potatoes",
@@ -625,7 +650,8 @@
       "chicken",
       "cilantro (optional)",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Thyme-Rubbed Salmon with Shallots and Carmelized Cauliflower \"Risotto\"",
@@ -650,7 +676,8 @@
       "salmon",
       "thyme",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Prosciutto-Wrapped Salmon with Corn and Poblano Succotash",
@@ -676,7 +703,8 @@
       "basil (optional)",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Flash-Roasted Tilapia with New Potatoes, Peas, and Pesto Mayo",
@@ -702,7 +730,8 @@
       "basil",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Baked Halibut with Warm Fennel Zucchini Chopped Salad",
@@ -728,7 +757,8 @@
       "thyme",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Fish Tacos with Chipotle Slaw",
@@ -750,7 +780,8 @@
     "tags": [
       "tilapia",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Stir-Fried Ginger Shrimp with Sugar Snap Peas, Red Bell Peppers, and Corn",
@@ -775,7 +806,8 @@
       "shrimp",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "One Pan Two Plates"
   },
   {
     "title": "Pan-Roasted Salmon with Cauli-tarter sauce and chive vinaigrette",
@@ -804,7 +836,8 @@
       "dill",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Where Cooking Begins"
   },
   {
     "title": "Chicken Cutlets with Spicy Coconut Dressing",
@@ -829,7 +862,8 @@
       "chicken",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Where Cooking Begins"
   },
   {
     "title": "Rack-Roasted Chicken with Gravy Potatoes",
@@ -852,7 +886,8 @@
       "chicken",
       "winter",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Where Cooking Begins"
   },
   {
     "title": "Greek-ish grain salad",
@@ -878,7 +913,8 @@
       "vegetarian",
       "mint",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Where Cooking Begins"
   },
   {
     "title": "Caprese Mac & Cheese",
@@ -902,7 +938,8 @@
       "basil",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Where Cooking Begins"
   },
   {
     "title": "Teriyaki Crispy Tofu with Broccolini + Carrots",
@@ -925,7 +962,8 @@
       "tofu",
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mostly Plants"
   },
   {
     "title": "Red Lentil and Bean Chili",
@@ -950,7 +988,8 @@
       "bean",
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mostly Plants"
   },
   {
     "title": "White Bean and Kale Quesadillas",
@@ -970,7 +1009,8 @@
     "tags": [
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mostly Plants"
   },
   {
     "title": "Buddha Bowl with Roasted Sweet Potatoes, Spiced Chickpeas, and Chard",
@@ -990,7 +1030,8 @@
     "tags": [
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mostly Plants"
   },
   {
     "title": "Cavatappi with Broccolini, Brown Butter, and Sage",
@@ -1013,7 +1054,8 @@
       "vegetarian",
       "sage",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mostly Plants"
   },
   {
     "title": "Homeroom Pasta",
@@ -1034,7 +1076,8 @@
       "vegetarian",
       "winter",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Homeroom"
   },
   {
     "title": "Rack-Roasted Chicken with Winter Squash and Chile Yogurt",
@@ -1057,7 +1100,8 @@
       "chicken",
       "winter",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Carla Lalli Music"
   },
   {
     "title": "Crispy Chicken Confit and Potatoes",
@@ -1083,7 +1127,8 @@
       "chives",
       "winter",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Carla Lalli Music"
   },
   {
     "title": "Crispy Fish Sandwich with Super Special Tarter Sauce",
@@ -1105,7 +1150,8 @@
     "tags": [
       "tilapia",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Carla Lalli Music"
   },
   {
     "title": "Seared Lamb Patty with Marinated Halloumi and Herbs",
@@ -1133,7 +1179,8 @@
       "parsley",
       "chives",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Carla Lalli Music"
   },
   {
     "title": "Spaghetti with Melted Caulfilower Sauce",
@@ -1156,7 +1203,8 @@
       "vegetarian",
       "mint",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Carla Lalli Music"
   },
   {
     "title": "Summery Corn Pasta",
@@ -1179,7 +1227,8 @@
       "vegetarian",
       "basil",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Carla Lalli Music"
   },
   {
     "title": "Gingery Ground Beef with Lime and Herbs",
@@ -1204,7 +1253,8 @@
       "beef",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Carla Lalli Music"
   },
   {
     "title": "Peanut Tofu Quinoa Stir Fry",
@@ -1227,7 +1277,8 @@
       "tofu",
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Work Week Lunch"
   },
   {
     "title": "Fried Rice",
@@ -1249,7 +1300,8 @@
     "tags": [
       "pork",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Jason S Mom"
   },
   {
     "title": "Cheesy Fennel and Beans Baked in Cream",
@@ -1272,7 +1324,8 @@
       "vegetarian",
       "mint",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Harissa Grilled Chicken Flat Bread with Pistachio-Lime Yogurt",
@@ -1297,7 +1350,8 @@
       "chicken",
       "dill",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "White Bean Bolognese",
@@ -1320,7 +1374,8 @@
       "vegetarian",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Leaf-Peepin' Ragu",
@@ -1346,7 +1401,8 @@
       "sage",
       "autumn",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Crispy Salmon with Coconut Rice and Crackle Sauce",
@@ -1368,7 +1424,8 @@
     "tags": [
       "salmon",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Chicky Chicky Bread Bread",
@@ -1390,7 +1447,8 @@
     "tags": [
       "chicken",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Spicy Cauliflower Ragu",
@@ -1413,7 +1471,8 @@
       "vegetarian",
       "mint",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Crispy Broccoli and Chickpea Bowls with Peanut Sauce",
@@ -1435,7 +1494,8 @@
     "tags": [
       "vegetarian",
       "ginger"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Steak with Jammy Vinegar and Shallots",
@@ -1457,7 +1517,8 @@
     "tags": [
       "beef",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Farro and Crunchy Thangs Salad",
@@ -1489,7 +1550,8 @@
       "parsley",
       "basil",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Rigatoni with Creamed Leeks and Chivey Breadcrumbs",
@@ -1511,7 +1573,8 @@
     "tags": [
       "vegetarian",
       "chives"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Caesared Egg Sally Salad",
@@ -1536,7 +1599,8 @@
       "egg",
       "vegetarian",
       "celery"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Spiced Green Meatballs with Pickle Rice and Salty Yogurt",
@@ -1566,7 +1630,8 @@
       "mint",
       "parsley",
       "dill"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Summer Ragu with Pork, Zucchini, and Mint",
@@ -1590,7 +1655,8 @@
     "tags": [
       "pork",
       "mint"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Salad Pizza with Ricotta, and Anchovy-Garlic Oil",
@@ -1614,7 +1680,8 @@
       "vegetarian",
       "parsley",
       "basil"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Corn and Tomato Salad with Spicy Bagna Cauda and Salty Peanuts",
@@ -1636,7 +1703,8 @@
     "tags": [
       "vegetarian",
       "cilantro"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Chicken Piccata with Sungolds, Chilies, and Wilted Basil",
@@ -1660,7 +1728,8 @@
     "tags": [
       "chicken",
       "basil"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Grilled Pork Steaks Giardiniera",
@@ -1685,7 +1754,8 @@
       "pork",
       "parsley",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Skirt Steak with Tomatoes and Salsa Macha",
@@ -1706,7 +1776,8 @@
     "drive_url": "https://drive.google.com/file/d/1YHq6kBr24cBqvvtBVfYnBGSc3DmybTXL/view?usp=drive_link",
     "tags": [
       "steak"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Corn and Basil Cacio e Pepe",
@@ -1728,7 +1799,8 @@
     "tags": [
       "vegetarian",
       "basil"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Minty Lamb Chops with Charred Dates, Whipped Feta, and Smashed Cukes",
@@ -1753,7 +1825,8 @@
       "lamb",
       "mint",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Pork Milanese with Tonnato and Celery Salad",
@@ -1779,7 +1852,8 @@
       "pork",
       "parsley",
       "celery"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Crispy Pork Cutlets with Curry Salt",
@@ -1800,7 +1874,8 @@
     "drive_url": "https://drive.google.com/file/d/1Rqed2U5DsVcGNa3RdgD1h6QXQ0CpMiUo/view?usp=drive_link",
     "tags": [
       "pork"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Crazy Pasta Salad with Cucumber Corn Salad",
@@ -1826,7 +1901,8 @@
       "parsley",
       "cilantro",
       "dill"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Spaghetti with Melted Onions and Pecorino",
@@ -1845,7 +1921,8 @@
     "drive_url": "https://drive.google.com/file/d/1SB4_lcb8OhqS1nqwELRukBZkMuMZCXQc/view?usp=drive_link",
     "tags": [
       "vegetarian"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Gochujang and Honey Braised Short Ribs",
@@ -1869,7 +1946,8 @@
     "tags": [
       "beef",
       "parsley"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Slow Roast Salmon with Citrus, Soy Butter, and Basil",
@@ -1893,7 +1971,8 @@
     "tags": [
       "salmon",
       "basil"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Rib Eye Steaks with Cracked Olive",
@@ -1921,7 +2000,8 @@
       "parsley",
       "chives",
       "scallions"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Crispy Chicken Cutlets with Lemon Poppy",
@@ -1945,7 +2025,8 @@
     "tags": [
       "chicken",
       "chives"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Braised Big Beans and Squash with Feta and Chopped Lemon",
@@ -1970,7 +2051,8 @@
       "rosemary",
       "parsley",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Zuppa all’Amatriciana with Crispy Cacio e Pepe",
@@ -1992,7 +2074,8 @@
     "tags": [
       "vegetarian",
       "mint"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Beef and Scallion Skewer with Spicy Coconut Green Sauce",
@@ -2020,7 +2103,8 @@
       "ginger",
       "scallions",
       "cilantro"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Pork and Pistachio Meat Balls",
@@ -2044,7 +2128,8 @@
     "tags": [
       "pork",
       "parsley"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Reverse Sear Ribeye with Caesar Butter",
@@ -2068,7 +2153,8 @@
     "tags": [
       "beef",
       "chives"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Salt and Vinegar Pork Ribs with Seedy Hot Honey",
@@ -2090,7 +2176,8 @@
     "tags": [
       "pork",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Big Noods alla Gin with Sungold Tomatoes",
@@ -2112,7 +2199,8 @@
     "tags": [
       "vegetarian",
       "basil"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Smoky Pepper and Chickpea Pasta Salad",
@@ -2134,7 +2222,8 @@
     "tags": [
       "vegetarian",
       "parsley"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "5 Spice Short Ribs with Chilies and Wilted Basil",
@@ -2161,7 +2250,8 @@
       "ginger",
       "basil",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Molly Marbella with Dates and Israeli Couscous",
@@ -2185,7 +2275,8 @@
     "tags": [
       "chicken",
       "thyme"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Sheet-Pan Chicken and Potatoes With Feta, Lemon and Dill",
@@ -2209,7 +2300,8 @@
     "tags": [
       "chicken",
       "dill"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Cumin Lamb Meatballs with Tahini Yogurt Dipping Sauce",
@@ -2235,7 +2327,8 @@
       "lamb",
       "scallions",
       "parsley"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Slow-Cooker Chipotle Honey Chicken Tacos",
@@ -2256,7 +2349,8 @@
     "drive_url": "https://drive.google.com/file/d/1uRDSBNu4h5THQs86vz2EECxqkKVuBZi7/view?usp=drive_link",
     "tags": [
       "chicken"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Spicy Sesame Noodles with Chicken and Peanuts",
@@ -2280,7 +2374,8 @@
     "tags": [
       "pork",
       "chives"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Classic Lasagna",
@@ -2302,7 +2397,8 @@
     "tags": [
       "sausage",
       "weekend"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Sweet and Salty Grilled Steak with Cucumber Salad",
@@ -2326,7 +2422,8 @@
     "tags": [
       "beef",
       "scallions"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Chicken Quesadillas With Avocado-Cucumber Salsa",
@@ -2350,7 +2447,8 @@
     "tags": [
       "chicken",
       "cilantro"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Beef and Bacon Stew",
@@ -2376,7 +2474,8 @@
       "beef",
       "thyme",
       "parsley"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Sheet Pan Harissa Salmon with Potatoes and Citrus",
@@ -2403,7 +2502,8 @@
       "cilantro",
       "scallions",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Maple and Miso Sheet Pan Salmon with Green Beans",
@@ -2428,7 +2528,8 @@
       "salmon",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Grilled Squash with Nuoc Cham Chimichurri",
@@ -2452,7 +2553,8 @@
       "parsley",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Crispy Miso Beef",
@@ -2477,7 +2579,8 @@
       "beef",
       "ginger",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mehreen Karim"
   },
   {
     "title": "Toasted Sesame Oat Chocolate Chip Cookies",
@@ -2497,7 +2600,8 @@
     "tags": [
       "vegetarian",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Mehreen Karim"
   },
   {
     "title": "Crispy Chicken Au Poivre with Miso and Creme Fraiche",
@@ -2519,7 +2623,8 @@
     "tags": [
       "chicken",
       "weekend"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Chicken Thighs and Couscous",
@@ -2542,7 +2647,8 @@
       "chicken",
       "summer",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Salt and Pepper Tofu",
@@ -2565,7 +2671,8 @@
       "tofu",
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Crispy Mongolian Tofu",
@@ -2593,7 +2700,8 @@
       "ginger",
       "scallions",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Che Jorge"
   },
   {
     "title": "Shrimp Scampi with Buratta and Pistachios",
@@ -2615,7 +2723,8 @@
     "tags": [
       "shrimp",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Spiced, Grilled, and Swaddled Chicken Thighs with the Works",
@@ -2640,7 +2749,8 @@
       "chicken",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Cook This Book"
   },
   {
     "title": "Salmon Curry",
@@ -2662,7 +2772,8 @@
     "tags": [
       "salmon",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mehreen Karim"
   },
   {
     "title": "Melted Fennel Pasta",
@@ -2682,7 +2793,8 @@
     "tags": [
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Turkey, Farro and Chickpea Soup",
@@ -2707,7 +2819,8 @@
       "chicken",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Miso Macaroni & Cheese",
@@ -2727,7 +2840,8 @@
     "tags": [
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Roasted Salmon with Marinated Olives and Potato Chips",
@@ -2749,7 +2863,8 @@
     "tags": [
       "salmon",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Cook This Book"
   },
   {
     "title": "Double Pepper Diavolo with Shrimp",
@@ -2771,7 +2886,8 @@
     "tags": [
       "shrimp",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Mustardy Cider-Braised Pork Chops",
@@ -2796,7 +2912,8 @@
       "pork",
       "thyme",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Brown Butter Toffee Cookies",
@@ -2815,7 +2932,8 @@
     "drive_url": "https://drive.google.com/file/d/1oLcVPniBtzNfmz_v6RcuEsw7UpphNbmd/view?usp=drive_link",
     "tags": [
       "vegetarian"
-    ]
+    ],
+    "source_index_title": "What Molly Made"
   },
   {
     "title": "Carrot Risotto with Chile Crisp",
@@ -2835,7 +2953,8 @@
     "tags": [
       "vegetarian",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Rice Noodles With Shrimp and Coconut-Lime Dressing",
@@ -2860,7 +2979,8 @@
       "shrimp",
       "cilantro",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Chez Panisse's Blueberry Cobbler",
@@ -2881,7 +3001,8 @@
       "vegetarian",
       "spring",
       "weekend"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Salted Chocolate Chunk Shortbread Cookies",
@@ -2901,7 +3022,8 @@
     "tags": [
       "vegetarian",
       "weekend"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Crispy Chicken with Za'atar-Olive Rice",
@@ -2923,7 +3045,8 @@
     "tags": [
       "chicken",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Pork and Pickled Pepper Piccata",
@@ -2948,7 +3071,8 @@
       "pork",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Marry-Me Chicken",
@@ -2970,7 +3094,8 @@
     "tags": [
       "chicken",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Hot Honey Za'atar Glazed Salmon",
@@ -2992,7 +3117,8 @@
     "tags": [
       "salmon",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Mehreen Karim"
   },
   {
     "title": "Carrot Salad with Aleppo Chickpeas and Date Vinaigrette",
@@ -3015,7 +3141,8 @@
       "vegetarian",
       "scallions",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Justine Snacks"
   },
   {
     "title": "Quinoa Salad with Cucumbers, Olives, and Bell Pepper",
@@ -3038,7 +3165,8 @@
       "vegetarian",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Charlie Bird's Farro Salad",
@@ -3062,7 +3190,8 @@
       "vegetarian",
       "parsley",
       "mint"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Coconut Braised Cabbage",
@@ -3085,7 +3214,8 @@
       "vegetarian",
       "mint",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Justine Snacks"
   },
   {
     "title": "Charred Steak with Creamy Cucumber-Almond Sauce",
@@ -3110,7 +3240,8 @@
       "beef",
       "thyme",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Sticky Miso Salmon Bowl",
@@ -3135,7 +3266,8 @@
       "salmon",
       "scallions",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Creamy White Beans with Herb Oil",
@@ -3165,7 +3297,8 @@
       "cilantro",
       "basil",
       "weekday"
-    ]
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "Chicken Thighs with Spiced Couscous and Carrots",
@@ -3190,7 +3323,8 @@
       "chicken",
       "parsley",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Mexican Picadillo",
@@ -3212,7 +3346,8 @@
     "tags": [
       "beef",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Spicy Meatball and Broken Rice Porridge with Pine Nut Scallion Oil",
@@ -3237,7 +3372,8 @@
       "pork",
       "scallions",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Molly Baz Club"
   },
   {
     "title": "Garlic Coconut Shrimp and Green Beans",
@@ -3259,7 +3395,8 @@
     "tags": [
       "shrimp",
       "weekday"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Maple-and-Bacon Fall Chopped Salad",
@@ -3278,7 +3415,8 @@
     "drive_url": "",
     "tags": [
       "vegetarian"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Baked Sweet Potato Chaat",
@@ -3300,7 +3438,8 @@
     "tags": [
       "vegetarian",
       "cilantro"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "Miso-Mayo Chicken Bowl",
@@ -3321,7 +3460,8 @@
     "drive_url": "",
     "tags": [
       "chicken"
-    ]
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "\"$250\" Chocolate Chip Cookies",

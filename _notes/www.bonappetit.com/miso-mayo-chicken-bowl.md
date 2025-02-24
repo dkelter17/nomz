@@ -13,6 +13,7 @@ url: "/notes/www.bonappetit.com/miso-mayo-chicken-bowl.html"
 external_url: https://www.bonappetit.com/recipe/miso-mayo-chicken-bowl
 tags:
 - chicken
+source_index_title: Bon Appétit
 ---
 
 

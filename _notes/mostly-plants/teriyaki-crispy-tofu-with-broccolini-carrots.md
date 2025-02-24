@@ -15,6 +15,7 @@ tags:
 - tofu
 - vegetarian
 - weekday
+source_index_title: Mostly Plants
 ---
 
 

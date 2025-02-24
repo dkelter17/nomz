@@ -16,6 +16,7 @@ tags:
 - shrimp
 - cilantro (optional)
 - weekday
+source_index_title: One Pan Two Plates
 ---
 
 

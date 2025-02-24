@@ -16,6 +16,7 @@ drive_url: https://drive.google.com/file/d/1H8Ms0t9E3uC_AhjpFQ_AKBn5tuP6UFDG/vie
 tags:
 - chicken
 - weekday
+source_index_title: Bon Appétit
 ---
 
 

@@ -15,6 +15,7 @@ drive_url: https://drive.google.com/file/d/1k4hig6E2U7SyLJe8UZ4H1A0nq66-q64v/vie
 tags:
 - vegetarian
 - weekday
+source_index_title: New York Times Cooking
 ---
 
 

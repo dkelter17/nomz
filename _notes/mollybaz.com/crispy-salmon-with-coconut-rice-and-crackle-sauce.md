@@ -16,6 +16,7 @@ drive_url: https://drive.google.com/file/d/1OlEInFox5UZp2WMWePJltD3Az9pMn_ok/vie
 tags:
 - salmon
 - weekday
+source_index_title: Molly Baz Club
 ---
 
 Don't forget to make the coconut rice – it adds so much!

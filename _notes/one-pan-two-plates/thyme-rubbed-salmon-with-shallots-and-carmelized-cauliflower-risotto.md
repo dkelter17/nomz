@@ -16,6 +16,7 @@ tags:
 - salmon
 - thyme
 - weekday
+source_index_title: One Pan Two Plates
 ---
 
 

@@ -14,6 +14,7 @@ url: "/notes/one-pan-two-plates/spicy-pork-stir-fry-with-lime-cashews-and-noodle
 tags:
 - pork
 - weekday
+source_index_title: One Pan Two Plates
 ---
 
 

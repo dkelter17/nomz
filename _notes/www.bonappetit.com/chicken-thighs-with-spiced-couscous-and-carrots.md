@@ -17,6 +17,7 @@ tags:
 - chicken
 - parsley
 - weekday
+source_index_title: Bon Appétit
 ---
 
 

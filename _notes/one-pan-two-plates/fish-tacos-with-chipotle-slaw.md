@@ -14,6 +14,7 @@ url: "/notes/one-pan-two-plates/fish-tacos-with-chipotle-slaw.html"
 tags:
 - tilapia
 - weekday
+source_index_title: One Pan Two Plates
 ---
 
 

@@ -16,6 +16,7 @@ drive_url: https://drive.google.com/file/d/1qrOOKDHFjU1vCqlu0pTzkMcuxJfYgl0W/vie
 tags:
 - chicken
 - weekday
+source_index_title: New York Times Cooking
 ---
 
 

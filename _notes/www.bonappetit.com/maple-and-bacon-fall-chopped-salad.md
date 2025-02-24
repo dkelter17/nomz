@@ -12,6 +12,7 @@ url: "/notes/www.bonappetit.com/maple-and-bacon-fall-chopped-salad.html"
 external_url: https://www.bonappetit.com/recipe/maple-and-bacon-fall-chopped-salad
 tags:
 - vegetarian
+source_index_title: Bon Appétit
 ---
 
 

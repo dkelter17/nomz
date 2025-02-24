@@ -13,6 +13,7 @@ url: "/notes/mostly-plants/white-bean-and-kale-quesadillas.html"
 tags:
 - vegetarian
 - weekday
+source_index_title: Mostly Plants
 ---
 
 

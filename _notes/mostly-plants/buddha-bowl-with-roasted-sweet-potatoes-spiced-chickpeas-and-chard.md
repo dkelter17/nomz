@@ -13,6 +13,7 @@ url: "/notes/mostly-plants/buddha-bowl-with-roasted-sweet-potatoes-spiced-chickp
 tags:
 - vegetarian
 - weekday
+source_index_title: Mostly Plants
 ---
 
 
