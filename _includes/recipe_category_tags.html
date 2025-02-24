@@ -1,0 +1,6 @@
+{% if include.category %}
+    <span class="post-meta btn pill dark">{{include.category}}</span>
+{% endif %}
+{%- for tag in include.tags -%}
+    <span class="post-meta btn pill">#{{tag}}</span>
+{% endfor %}
