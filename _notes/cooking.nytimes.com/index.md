@@ -22,4 +22,5 @@ notes:
 - url: "/notes/cooking.nytimes.com/charlie-bird-s-farro-salad.html"
 - url: "/notes/cooking.nytimes.com/sticky-miso-salmon-bowl.html"
 - url: "/notes/cooking.nytimes.com/creamy-white-beans-with-herb-oil.html"
+- url: "/notes/cooking.nytimes.com/kung-pao-tofu.html"
 ---

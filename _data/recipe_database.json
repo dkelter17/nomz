@@ -3464,6 +3464,34 @@
     "source_index_title": "Bon Appétit"
   },
   {
+    "title": "Kung-Pao Tofu",
+    "source": "https://cooking.nytimes.com/recipes/1025397-kung-pao-tofu",
+    "author": "Ham El-Waylly",
+    "protein": [
+      "tofu"
+    ],
+    "vegetarian": true,
+    "herbs": [
+      "scallions",
+      "cilantro"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "category": "dinner",
+    "url": "/notes/cooking.nytimes.com/kung-pao-tofu.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1025397-kung-pao-tofu",
+    "drive_url": "",
+    "tags": [
+      "tofu",
+      "vegetarian",
+      "scallions",
+      "cilantro"
+    ],
+    "source_index_title": "New York Times Cooking"
+  },
+  {
     "title": "\"$250\" Chocolate Chip Cookies",
     "source": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
     "author": null,
