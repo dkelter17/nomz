@@ -13,6 +13,7 @@ rating: 1
 category: dinner
 url: "/notes/cooking.nytimes.com/kung-pao-tofu.html"
 external_url: https://cooking.nytimes.com/recipes/1025397-kung-pao-tofu
+drive_url: https://drive.google.com/file/d/1Z5TPFMYAQZZ_eadnSoTu86k900331u0U/view?usp=drive_link
 tags:
 - tofu
 - vegetarian
