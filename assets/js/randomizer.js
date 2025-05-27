@@ -1,21 +1,22 @@
 function loadRecipeDatabase(document) {
   setRandomizerPlaceholder('Loading recipes...')
-  var httpRequest = new XMLHttpRequest();
-  httpRequest.onreadystatechange = () => {
-    if (httpRequest.readyState === XMLHttpRequest.DONE) {
-      if (httpRequest.status === 200) {
-        document.recipesRandomizer.recipes = JSON.parse(httpRequest.responseText)
-        const numRecipes = Object.keys(document.recipesRandomizer.recipes).length
-        setupRandomizer(document)
-        setRandomizerPlaceholder('Randomize')
-      } else {
-        setRandomizerPlaceholder(`Error loading recipes. Randomizer disabled.`)
-        console.error('There was a problem with the request.');
+  fetch(document.recipesRandomizer.indexURL)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok')
       }
-    }
-  };
-  httpRequest.open('GET', document.recipesRandomizer.indexURL, true);
-  httpRequest.send();
+      return response.json()
+    })
+    .then(data => {
+      document.recipesRandomizer.recipes = data
+      const numRecipes = Object.keys(document.recipesRandomizer.recipes).length
+      setupRandomizer(document)
+      setRandomizerPlaceholder('Randomize')
+    })
+    .catch(error => {
+      setRandomizerPlaceholder('Error loading recipes. Randomizer disabled.')
+      console.error('There was a problem with the request.', error)
+    })
 }
 
 function setupRandomizer(document) {
