@@ -18,4 +18,8 @@ notes:
 - url: "/notes/www.bonappetit.com/maple-and-bacon-fall-chopped-salad.html"
 - url: "/notes/www.bonappetit.com/baked-sweet-potato-chaat.html"
 - url: "/notes/www.bonappetit.com/miso-mayo-chicken-bowl.html"
+- url: "/notes/www.bonappetit.com/surprisingly-satisfying-cauliflower-chowder.html"
+- url: "/notes/www.bonappetit.com/pad-kra-pao.html"
+- url: "/notes/www.bonappetit.com/coconut-chicken-katsu-with-smashed-cucumbers.html"
+- url: "/notes/www.bonappetit.com/crispy-eggs-over-grains.html"
 ---

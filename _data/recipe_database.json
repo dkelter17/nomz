@@ -907,7 +907,7 @@
     "category": "dinner",
     "url": "/notes/where-cooking-begins/greek-ish-grain-salad.html",
     "external_url": "",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/11aZ-5n636J-dBL7exj5OPpRNDVwJ_Rqk/view?usp=drive_link",
     "tags": [
       "grain",
       "vegetarian",
@@ -3490,6 +3490,102 @@
       "cilantro"
     ],
     "source_index_title": "New York Times Cooking"
+  },
+  {
+    "title": "Surprisingly Satisfying Cauliflower Chowder",
+    "source": "https://www.bonappetit.com/recipe/surprisingly-satisfying-cauliflower-chowder",
+    "author": "Shilpa Uskokovic",
+    "protein": [],
+    "vegetarian": true,
+    "herbs": [
+      "chives"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/surprisingly-satisfying-cauliflower-chowder.html",
+    "external_url": "https://www.bonappetit.com/recipe/surprisingly-satisfying-cauliflower-chowder",
+    "drive_url": "https://drive.google.com/file/d/1UlaPWQeomliUdADdkR9Ukn4AHzGU1Wj2/view?usp=drive_link",
+    "tags": [
+      "vegetarian",
+      "chives"
+    ],
+    "source_index_title": "Bon Appétit"
+  },
+  {
+    "title": "Pad Kra Pao",
+    "source": "https://www.bonappetit.com/recipe/pad-kra-pao",
+    "author": "Kendra Vaculin",
+    "protein": [
+      "pork"
+    ],
+    "vegetarian": false,
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/pad-kra-pao.html",
+    "external_url": "https://www.bonappetit.com/recipe/pad-kra-pao",
+    "drive_url": "https://drive.google.com/file/d/1Yb0puhpOalU9Ww77keZYivp9qeqsx2Zx/view?usp=drive_link",
+    "tags": [
+      "pork",
+      "basil"
+    ],
+    "source_index_title": "Bon Appétit"
+  },
+  {
+    "title": "Coconut Chicken Katsu With Smashed Cucumbers",
+    "source": "https://www.bonappetit.com/recipe/coconut-chicken-katsu-with-smashed-cucumbers",
+    "author": "Kendra Vaculin",
+    "protein": [
+      "chicken"
+    ],
+    "vegetarian": false,
+    "herbs": [],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 1,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/coconut-chicken-katsu-with-smashed-cucumbers.html",
+    "external_url": "https://www.bonappetit.com/recipe/coconut-chicken-katsu-with-smashed-cucumbers",
+    "drive_url": "https://drive.google.com/file/d/1T4QbVlt14xIuJ_0GZI_y3G1xQbHL1K42/view?usp=sharing",
+    "tags": [
+      "chicken"
+    ],
+    "source_index_title": "Bon Appétit"
+  },
+  {
+    "title": "Crispy Eggs Over Grains",
+    "source": "https://www.bonappetit.com/recipe/crispy-eggs-over-grains",
+    "author": "Chris Morocco",
+    "protein": [
+      "egg"
+    ],
+    "vegetarian": true,
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/crispy-eggs-over-grains.html",
+    "external_url": "https://www.bonappetit.com/recipe/crispy-eggs-over-grains",
+    "drive_url": "https://drive.google.com/file/d/13kWYKsxcooobfme1byYitollL-L3XIf_/view?usp=sharing",
+    "tags": [
+      "egg",
+      "vegetarian",
+      "cilantro"
+    ],
+    "source_index_title": "Bon Appétit"
   },
   {
     "title": "\"$250\" Chocolate Chip Cookies",
