@@ -28,4 +28,10 @@ tags:
 source_index_title: Molly Baz Club
 ---
 
+For the herbs we use 1 bunch of cilantro and 1 bunch parsley.
 
+Crunchy thangs, we often use:
+
+- [ ] Cucumber, roughly chopped into bite-sized pieces
+- [ ] Radishes, thinly sliced
+- [ ] Sugar snap peas, ends trimmed, chopped
