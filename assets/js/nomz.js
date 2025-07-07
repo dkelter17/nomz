@@ -47,7 +47,7 @@ function getRecipesIndexPathAndVersion() {
   console.log('Recipes index URL:', indexURL)
 
   // 3. Extract the ?version query parameter from the indexURL if it exists.
-  const url = new URL(indexURL, document.nomzRecipes.baseURL || window.location.href)
+  const url = new URL(indexURL, document.nomzRecipes.baseAbsoluteURL || window.location.href)
   const version = url.searchParams.get('version')
 
   // 4. Return the indexURL and version.

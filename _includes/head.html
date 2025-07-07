@@ -22,7 +22,7 @@
   </script>
   <script src="https://ping.parkermoo.re/ping.js?v=2" type="application/javascript" defer async></script>
   <script src="https://ping.parkermoo.re/stats.js" type="application/javascript" defer async></script>
-  <script type="application/javascript">document.nomzRecipes = {indexURL: "{{ '/assets/searchIndex.json' | relative_url }}?version={{site.github.build_revision}}", baseURL: "{{ '' | relative_url }}"};</script>
+  <script type="application/javascript">document.nomzRecipes = {indexURL: "{{ '/assets/searchIndex.json' | relative_url }}?version={{site.github.build_revision}}", baseURL: "{{ '' | relative_url }}", baseAbsoluteURL: "{{ '' | absolute_url }}"};</script>
   <script src="{{ '/assets/js/lunr.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
   <script src="{{ '/assets/js/nomz.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
 </head>
