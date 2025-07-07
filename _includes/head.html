@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="alternate" type="application/rss+xml" title="Nomz | Recipes" href="{{ '/feed/recipes.xml' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="Nomz | Notes" href="{{ '/feed/notes.xml' | absolute_url }}">
+  <link rel="recipesSearchIndex" href="{{ '/assets/searchIndex.json' | relative_url }}?version={{ site.github.build_revision }}">
   {% include head-icons.html %}
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
@@ -21,10 +22,7 @@
   </script>
   <script src="https://ping.parkermoo.re/ping.js?v=2" type="application/javascript" defer async></script>
   <script src="https://ping.parkermoo.re/stats.js" type="application/javascript" defer async></script>
-  <script type="application/javascript">document.recipesSearch = {indexURL: "{{ '/assets/searchIndex.json' | relative_url }}?version={{site.github.build_revision}}", baseURL: "{{ '' | relative_url }}"};</script>
-  <script type="application/javascript">document.recipesRandomizer = {indexURL: "{{ '/assets/db.json' | relative_url }}?version={{site.github.build_revision}}", htmlURL: "{{ '/randomizer.html' | relative_url }}", baseURL: "{{ '' | relative_url }}"};</script>
+  <script type="application/javascript">document.nomzRecipes = {indexURL: "{{ '/assets/searchIndex.json' | relative_url }}?version={{site.github.build_revision}}", baseURL: "{{ '' | relative_url }}"};</script>
   <script src="{{ '/assets/js/lunr.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
-  <script src="{{ '/assets/js/searchRecipes.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
-  <script src="{{ '/assets/js/randomizer.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
   <script src="{{ '/assets/js/nomz.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
 </head>
