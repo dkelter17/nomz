@@ -23,6 +23,9 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$green-color:      #4CAF50;
+$green-color-dark: darken($green-color, 10%);
+
 // Width of the content area
 $content-width:    800px;
 
@@ -70,7 +73,6 @@ $on-laptop:        800px;
     width: 50%;
     margin: 1em 2em;
   }
-
 }
 
 .site-nav {
@@ -118,6 +120,19 @@ $on-laptop:        800px;
   background-color: rgb(100, 100, 100);
 }
 
+input {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px; /* This property makes the button look like a pill */
+  padding: 0.2em 0.5em;
+}
+
+#randomizer-submit {
+  background-color: $green-color;
+  font-weight: bold;
+  padding: 0.3em 1em;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;
@@ -134,6 +149,14 @@ $on-laptop:        800px;
 
   .site-title, .site-title:visited {
     color: #efefef;
+  }
+
+  .site-nav {
+    background-color: #1f1f1f;
+  }
+
+  .site-nav .menu-icon path {
+    fill: #c4c4c4;
   }
 
   .site-nav .page-link {
@@ -167,6 +190,10 @@ $on-laptop:        800px;
   .btn.pill {
     background-color: #8d8c8c;
     color: rgb(255, 255, 255);
+  }
+
+  #randomizer-submit {
+    background-color: $green-color-dark;
   }
 
 }
