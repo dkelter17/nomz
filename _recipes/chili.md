@@ -15,9 +15,14 @@ tags:
 - 2 15 oz cans black beans
 - 1 16 oz can whole kernel corn
 - 1 lb ground beef or turkey
-- ½ T chili powder
+- 1 Tbsp chili powder
 - 1 t cayenne pepper
-- ½ t cinnamon
+- ½ t cinnamon (optional)
+- 2 tsp onion powder
+- 2 tsp garlic powder
+- 1 tsp dried oregano
+- 1 tsp paprika
+- 1 tsp cumin
 - salt and pepper
 - shredded cheese and/or sour cream
 
@@ -29,5 +34,7 @@ tags:
 5. Ladle into bowls and top with cheese and/or sour cream.
 
 11/12/2019 - added extra chili powder. Good amount of garlic powder, cumin, smoked paprika, oregano. Let simmer for extra time.
+
+July 2025 - updated recipe with additional spices
 
 Source: The Healthy College Cookbook
