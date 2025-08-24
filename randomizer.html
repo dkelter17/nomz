@@ -11,6 +11,14 @@ include_in_header: true
   <h1 class="page-heading">Randomizer</h1>
 
   <div>
+    <label for="randomizer-category">Category:</label>
+    <select id="randomizer-category" name="randomizer-category">
+      {%- for category in site.data.categories -%}
+        <option value="{{category}}">{{ category | capitalize }}</option>
+      {%- endfor -%}
+    </select>
+  </div>
+  <div>
     How many recipes?
     <input type="number" id="randomizer-numResults" value="10" placeholder="Number of recipes..." />
   </div>

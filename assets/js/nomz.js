@@ -1,3 +1,5 @@
+"use strict";
+
 function main(document) {
   interactiveChecklists(document) // Enable interactive checklists.
   setRandomizerPlaceholder('Loading recipes...')
@@ -264,7 +266,7 @@ function formatSearchResult(listItemEl, item) {
 
   const tags = item.tags || []
   if (tags.length > 0) {
-    for (tag of tags) {
+    for (const tag of tags) {
       const tagEl = document.createElement('span')
       tagEl.innerText = tag
       tagEl.classList.add('btn')
@@ -313,7 +315,9 @@ function setupRandomizer(document) {
     return
   }
   randomizerSubmit.addEventListener("click", (event) => {
+    console.warn("randomize clicked", event)
     const randomizerQuery = {
+      category: document.getElementById("randomizer-category").value || "dinner",
       numResults: document.getElementById("randomizer-numResults").value || 10,
       maxWeekendRecipes: document.getElementById("randomizer-maxWeekendRecipes").value || 1,
       maxVegetarianRecipes: document.getElementById("randomizer-maxVegetarianRecipes").value || 3,
@@ -344,7 +348,7 @@ function randomize(randomizerQuery) {
     if (candidate.vegetarian) {
       vegetarianRecipesSeen++
     }
-    return candidate.category == "dinner" &&
+    return candidate.category == randomizerQuery.category &&
       (candidate.day_of_week != "weekend" || weekendRecipesSeen <= randomizerQuery.maxWeekendRecipes) &&
       (!candidate.vegetarian || vegetarianRecipesSeen <= randomizerQuery.maxVegetarianRecipes)
   }).slice(0, randomizerQuery.numResults)
