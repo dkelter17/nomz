@@ -12,6 +12,7 @@ feeds: 2
 rating: 3
 category: dinner
 url: "/notes/one-pan-two-plates/flank-steak-with-chimichurri-and-summer-squash-hash.html"
+drive_url: https://drive.google.com/file/d/1n8qct8HZ9ZgzcKcc69kXD3CYHhNc9dgO/view?usp=drivesdk
 tags:
 - beef
 - parsley

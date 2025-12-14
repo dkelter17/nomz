@@ -13,6 +13,7 @@ season: summer
 rating: 2
 category: dinner
 url: "/notes/one-pan-two-plates/prosciutto-wrapped-salmon-with-corn-and-poblano-succotash.html"
+drive_url: https://drive.google.com/file/d/11TPSLGzoqB-y1C04MMdag651t7fDOh6q/view?usp=drive_link
 tags:
 - salmon
 - basil (optional)

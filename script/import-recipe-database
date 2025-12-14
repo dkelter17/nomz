@@ -16,7 +16,8 @@ SOURCE_SLUGS_TO_TITLES = {
   "mollybaz.com" => "Molly Baz Club",
   "chejorge.com" => "Che Jorge",
   "whatmollymade.com" => "What Molly Made",
-  "justinesnacks.com" => "Justine Snacks"
+  "justinesnacks.com" => "Justine Snacks",
+  "www.simplefrenchcooking.com" => "Simple French Cooking",
 }
 
 tsv_db_file_path = ARGV.first

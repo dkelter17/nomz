@@ -441,7 +441,7 @@
     "category": "dinner",
     "url": "/notes/one-pan-two-plates/spicy-orange-beef-stir-fry-with-snow-peas-and-carrots.html",
     "external_url": "",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/1-LdKhm1i3Q4iznOIsWfUcr7dGYEppmFP/view?usp=drive_link",
     "tags": [
       "beef",
       "cilantro (optional)",
@@ -516,7 +516,7 @@
     "category": "dinner",
     "url": "/notes/one-pan-two-plates/flank-steak-with-chimichurri-and-summer-squash-hash.html",
     "external_url": "",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/1n8qct8HZ9ZgzcKcc69kXD3CYHhNc9dgO/view?usp=drivesdk",
     "tags": [
       "beef",
       "parsley",
@@ -697,7 +697,7 @@
     "category": "dinner",
     "url": "/notes/one-pan-two-plates/prosciutto-wrapped-salmon-with-corn-and-poblano-succotash.html",
     "external_url": "",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/11TPSLGzoqB-y1C04MMdag651t7fDOh6q/view?usp=drive_link",
     "tags": [
       "salmon",
       "basil (optional)",
@@ -3586,6 +3586,147 @@
       "cilantro"
     ],
     "source_index_title": "Bon Appétit"
+  },
+  {
+    "title": "Coconut Shrimp with Cold Smashed Cukes",
+    "source": "https://mollybaz.com/smashed-and-chilled-coconut-cucumbers-n-shrimp/",
+    "author": "Molly Baz",
+    "protein": [
+      "shrimp"
+    ],
+    "vegetarian": false,
+    "herbs": [],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "/notes/mollybaz.com/coconut-shrimp-with-cold-smashed-cukes.html",
+    "external_url": "https://mollybaz.com/smashed-and-chilled-coconut-cucumbers-n-shrimp/",
+    "drive_url": "",
+    "tags": [
+      "shrimp"
+    ],
+    "source_index_title": "Molly Baz Club"
+  },
+  {
+    "title": "A Better Caprese",
+    "source": "https://mollybaz.com/a-better-caprese/",
+    "author": "Molly Baz",
+    "protein": [],
+    "vegetarian": true,
+    "herbs": [
+      "basil"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "summer",
+    "rating": 0,
+    "category": "snack",
+    "url": "/notes/mollybaz.com/a-better-caprese.html",
+    "external_url": "https://mollybaz.com/a-better-caprese/",
+    "drive_url": "",
+    "tags": [
+      "vegetarian",
+      "basil",
+      "summer"
+    ],
+    "source_index_title": "Molly Baz Club"
+  },
+  {
+    "title": "Moroccan Chickpea Soup",
+    "source": "https://www.simplefrenchcooking.com/recipe-entry/moroccan-chickpea-soup",
+    "author": "Francois de Melogue",
+    "protein": [],
+    "vegetarian": true,
+    "herbs": [
+      "parsley",
+      "cilantro"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/www.simplefrenchcooking.com/moroccan-chickpea-soup.html",
+    "external_url": "https://www.simplefrenchcooking.com/recipe-entry/moroccan-chickpea-soup",
+    "drive_url": "https://drive.google.com/file/d/1vUHsOGbc3AFoNJGYnZYpgOtHDqrFmVLF/view?usp=drive_link",
+    "tags": [
+      "vegetarian",
+      "parsley",
+      "cilantro"
+    ],
+    "source_index_title": "Simple French Cooking"
+  },
+  {
+    "title": "Houston’s Emerald Kale Salad",
+    "source": "https://mollybaz.com/houstons-kale-salad/",
+    "author": "Molly Baz",
+    "protein": [],
+    "vegetarian": true,
+    "herbs": [
+      "mint",
+      "cilantro"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 3,
+    "category": "dinner",
+    "url": "/notes/mollybaz.com/houston-s-emerald-kale-salad.html",
+    "external_url": "https://mollybaz.com/houstons-kale-salad/",
+    "drive_url": "",
+    "tags": [
+      "vegetarian",
+      "mint",
+      "cilantro"
+    ],
+    "source_index_title": "Molly Baz Club"
+  },
+  {
+    "title": "Cheesy Cabbage",
+    "source": "https://www.bonappetit.com/recipe/cheesy-roasted-cabbage-wedges",
+    "author": "Jesse Szewczyk",
+    "protein": [],
+    "vegetarian": true,
+    "herbs": [
+      "parsley"
+    ],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/www.bonappetit.com/cheesy-cabbage.html",
+    "external_url": "https://www.bonappetit.com/recipe/cheesy-roasted-cabbage-wedges",
+    "drive_url": "https://drive.google.com/file/d/1LZUDfBtc871p67G_2HLn_UQqKrifPbLZ/view?usp=sharing",
+    "tags": [
+      "vegetarian",
+      "parsley"
+    ],
+    "source_index_title": "Bon Appétit"
+  },
+  {
+    "title": "Easy Burritos",
+    "source": "https://cooking.nytimes.com/recipes/1024725-easy-burritos",
+    "author": "Ali Slagle",
+    "protein": [
+      "beef"
+    ],
+    "vegetarian": false,
+    "herbs": [],
+    "day_of_week": "",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/cooking.nytimes.com/easy-burritos.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1024725-easy-burritos",
+    "drive_url": "",
+    "tags": [
+      "beef"
+    ],
+    "source_index_title": "New York Times Cooking"
   },
   {
     "title": "\"$250\" Chocolate Chip Cookies",

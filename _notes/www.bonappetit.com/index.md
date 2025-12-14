@@ -22,4 +22,5 @@ notes:
 - url: "/notes/www.bonappetit.com/pad-kra-pao.html"
 - url: "/notes/www.bonappetit.com/coconut-chicken-katsu-with-smashed-cucumbers.html"
 - url: "/notes/www.bonappetit.com/crispy-eggs-over-grains.html"
+- url: "/notes/www.bonappetit.com/cheesy-cabbage.html"
 ---

@@ -23,4 +23,5 @@ notes:
 - url: "/notes/cooking.nytimes.com/sticky-miso-salmon-bowl.html"
 - url: "/notes/cooking.nytimes.com/creamy-white-beans-with-herb-oil.html"
 - url: "/notes/cooking.nytimes.com/kung-pao-tofu.html"
+- url: "/notes/cooking.nytimes.com/easy-burritos.html"
 ---

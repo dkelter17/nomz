@@ -47,4 +47,7 @@ notes:
 - url: "/notes/mollybaz.com/pork-and-pickled-pepper-piccata.html"
 - url: "/notes/mollybaz.com/charred-steak-with-creamy-cucumber-almond-sauce.html"
 - url: "/notes/mollybaz.com/spicy-meatball-and-broken-rice-porridge-with-pine-nut-scallion-oil.html"
+- url: "/notes/mollybaz.com/coconut-shrimp-with-cold-smashed-cukes.html"
+- url: "/notes/mollybaz.com/a-better-caprese.html"
+- url: "/notes/mollybaz.com/houston-s-emerald-kale-salad.html"
 ---
