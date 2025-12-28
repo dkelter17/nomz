@@ -24,7 +24,7 @@ For the dough:
 
 For the cinnamon filling:
 
-- [ ] 200 grams unsalted butter, softed
+- [ ] 200 grams unsalted butter, softened
 - [ ] 90 grams superfine sugar
 - [ ] 1 Tbsp ground cinnamon
 - [ ] Beaten egg, for brushing
