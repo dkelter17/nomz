@@ -22,6 +22,14 @@ Serves 4-6.
 - [ ] Freshly ground pepper
 - [ ] Pinch of grated nutmeg
 
+For dipping, we like these:
+
+- [ ] Broccoli
+- [ ] Cauliflower
+- [ ] Carrots
+- [ ] Apples
+- [ ] Bread
+
 ## Instructions
 
 1. Grate 1 lb Gruyere and 8 oz of Emmentaler cheese into a large bowl. Add
