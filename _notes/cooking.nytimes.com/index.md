@@ -24,4 +24,5 @@ notes:
 - url: "/notes/cooking.nytimes.com/creamy-white-beans-with-herb-oil.html"
 - url: "/notes/cooking.nytimes.com/kung-pao-tofu.html"
 - url: "/notes/cooking.nytimes.com/easy-burritos.html"
+- url: "/notes/cooking.nytimes.com/cottage-pie.html"
 ---

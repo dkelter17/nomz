@@ -957,7 +957,7 @@
     "category": "dinner",
     "url": "/notes/mostly-plants/teriyaki-crispy-tofu-with-broccolini-carrots.html",
     "external_url": "",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/1MXRGiZdI0BrhiH0XiSYHm33mBx3yzCY1/view?usp=share_link",
     "tags": [
       "tofu",
       "vegetarian",
@@ -3729,6 +3729,29 @@
     "source_index_title": "New York Times Cooking"
   },
   {
+    "title": "Cottage Pie",
+    "source": "https://cooking.nytimes.com/recipes/1026474-cottage-pie",
+    "author": "Dan Pelosi",
+    "protein": [
+      "beef"
+    ],
+    "vegetarian": false,
+    "herbs": [],
+    "day_of_week": "weekend",
+    "feeds": 6,
+    "season": "",
+    "rating": 2,
+    "category": "dinner",
+    "url": "/notes/cooking.nytimes.com/cottage-pie.html",
+    "external_url": "https://cooking.nytimes.com/recipes/1026474-cottage-pie",
+    "drive_url": "",
+    "tags": [
+      "beef",
+      "weekend"
+    ],
+    "source_index_title": "New York Times Cooking"
+  },
+  {
     "title": "\"$250\" Chocolate Chip Cookies",
     "source": "https://dkelter17.github.io/nomz/recipes/250-chocolate-chip-cookies.html",
     "author": null,
@@ -3784,6 +3807,26 @@
     "drive_url": "",
     "tags": [
       "baking"
+    ]
+  },
+  {
+    "title": "Basic Cheese Fondue",
+    "source": "https://dkelter17.github.io/nomz/recipes/basic-cheese-fondue.html",
+    "author": null,
+    "protein": null,
+    "vegetarian": null,
+    "herbs": null,
+    "day_of_week": null,
+    "feeds": 0,
+    "season": null,
+    "rating": 0,
+    "category": "dessert",
+    "url": "/recipes/basic-cheese-fondue.html",
+    "external_url": "http://recipesource.com/side-dishes/cheese/fondue/basic-fondue1.html",
+    "drive_url": "",
+    "tags": [
+      "cheese",
+      "new-years-eve"
     ]
   },
   {

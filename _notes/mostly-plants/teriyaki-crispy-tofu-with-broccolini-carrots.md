@@ -11,6 +11,7 @@ feeds: 4
 rating: 0
 category: dinner
 url: "/notes/mostly-plants/teriyaki-crispy-tofu-with-broccolini-carrots.html"
+drive_url: https://drive.google.com/file/d/1MXRGiZdI0BrhiH0XiSYHm33mBx3yzCY1/view?usp=share_link
 tags:
 - tofu
 - vegetarian
