@@ -13,6 +13,7 @@ rating: 1
 category: dinner
 url: "/notes/www.bonappetit.com/chicken-thighs-with-spiced-couscous-and-carrots.html"
 external_url: https://www.bonappetit.com/recipe/chicken-thighs-with-spiced-couscous-and-carrots
+drive_url: https://drive.google.com/file/d/1LvxFfj4WIf0TN_mUcoK_VScTJErLWwtd/view?usp=drive_link
 tags:
 - chicken
 - parsley
