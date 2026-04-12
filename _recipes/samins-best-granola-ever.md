@@ -25,6 +25,8 @@ Samin Nosrat spun Nekisia Davis's granola recipe and called it [best. granola. e
 ## Instructions
 
 1. Preheat oven to 300°F.
-2. Place everything in a large bowl and mix until well combined. Spread granola mixture in an even layer on a rimmed baking sheet.
-   Transfer to oven and bake, stirring every 10-15 minutes, until granola is toasted, about 45 minutes.
-3. Remove granola from oven and season with more salt to taste. Let cool completely before serving or storing in an airtight container for up to 1 month.
+2. Place dry ingredients in a bowl and mix well.
+3. Add olive oil & maple syrup and mix until well combined.
+4. Spread granola mixture in an even layer on a rimmed baking sheet.
+5. Transfer to oven and bake, stirring every 10-15 minutes, until granola is toasted, about 45 minutes.
+6. Remove granola from oven and season with more salt to taste. Let cool completely before serving or storing in an airtight container for up to 1 month.
