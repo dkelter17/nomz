@@ -15,6 +15,7 @@ category: dinner
 url: "/notes/cooking.nytimes.com/sheet-pan-red-curry-chicken-with-butternut-squash.html"
 external_url: https://cooking.nytimes.com/recipes/1024982-sheet-pan-red-curry-chicken-with-butternut-squash
 drive_url: https://drive.google.com/file/d/1x2OYbwCR91SYBapsO8tr-GMUMOgBvnMy/view?usp=sharing
+photo_url: https://static01.nyt.com/images/2024/01/09/multimedia/AS-sheet-pan-red-curry-chicken-with-squash-kchm/AS-sheet-pan-red-curry-chicken-with-squash-kchm-threeByTwoMediumAt2X.jpg?quality=75&auto=webp
 tags:
 - chicken
 - basil

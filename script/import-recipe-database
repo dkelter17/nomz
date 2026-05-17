@@ -95,6 +95,8 @@ class Recipe
     :url,
     :external_url,
     :drive_url,
+    :photo_url,
+    :photo_path,
     :tags,
     :source_index_title
 
@@ -113,6 +115,8 @@ class Recipe
     url:,
     external_url:,
     drive_url:,
+    photo_url:,
+    photo_path:,
     tags:
   )
     external_url = "" if external_url.nil? || external_url.empty? || !external_url.start_with?("http")
@@ -132,6 +136,8 @@ class Recipe
     recipe.url = url
     recipe.external_url = external_url
     recipe.drive_url = drive_url
+    recipe.photo_url = photo_url
+    recipe.photo_path = photo_path
     recipe.tags = tags
     # recipe.freeze
     recipe
@@ -170,6 +176,8 @@ recipe_list = rows.each_with_object([]) do |row, memo|
     url: nil,
     external_url: row["Source"].to_s,
     drive_url: row["Drive URL"].to_s,
+    photo_url: row.fetch("Photo URL", nil),
+    photo_path: nil,
     tags: [
       *row["Protein"].to_s.split(",").map(&:strip).map(&:downcase),
       to_bool(row["Vegetarian"]) ? "vegetarian" : "",
@@ -257,6 +265,8 @@ site.collections["recipes"].docs.each do |doc|
     category: doc.data["category"].to_s.downcase,
     url: doc.url,
     drive_url: (doc.data["drive-url"] || doc.data["drive_url"]).to_s,
+    photo_url: doc.data["photo_url"],
+    photo_path: doc.data["photo_path"],
     external_url: doc.data["external_url"].to_s,
     tags: doc.data["tags"]
   )
