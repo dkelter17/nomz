@@ -13,6 +13,13 @@ layout: page
 </p>
 {% endif %}
 
+{% if page.photo_url or page.photo_path %}
+<p>
+  {% capture recipe_image %}{% if page.photo_url %}{{ page.photo_url }}{% else %}{{ page.photo_path | relative_url }}{% endif %}{% endcapture %}
+  <img src="{{ recipe_image | strip }}" alt="{{ page.title }}" style="max-width: 100%; height: auto; border-radius: 8px;">
+</p>
+{% endif %}
+
 <p>
     {% assign source_index_url = site.data.notes_sources[page.source_index_title] %}
   <a href="{{ source_index_url | relative_url}}">{{page.source_index_title}}</a>

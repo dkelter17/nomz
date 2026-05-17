@@ -6,6 +6,27 @@
   <link rel="alternate" type="application/rss+xml" title="Nomz | Notes" href="{{ '/feed/notes.xml' | absolute_url }}">
   <link rel="recipesSearchIndex" href="{{ '/assets/searchIndex.json' | relative_url }}?version={{ site.github.build_revision }}">
   {% include head-icons.html %}
+
+  {% if page.photo_url or page.photo_path %}
+    {% capture social_image %}{% if page.photo_url %}{{ page.photo_url }}{% else %}{{ page.photo_path | absolute_url }}{% endif %}{% endcapture %}
+    <meta property="og:image" content="{{ social_image | strip }}">
+    <meta name="twitter:image" content="{{ social_image | strip }}">
+    <meta name="twitter:card" content="summary_large_image">
+  {% else %}
+    <meta name="twitter:card" content="summary">
+  {% endif %}
+  <meta property="og:title" content="{{ page.title | default: site.title }}{% if page.emoji %} {{ page.emoji }}{% endif %}">
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}{% if page.emoji %} {{ page.emoji }}{% endif %}">
+  {% capture social_description %}
+    {% if page.author %}{{ page.author }}{% endif %}
+    {% if page.author and page.source %} • {% endif %}
+    {% if page.source %}{{ page.source }}{% endif %}
+    {% if page.author or page.source %} — {% endif %}
+    {{ page.description | default: site.description | strip_html | truncate: 160 }}
+  {% endcapture %}
+  <meta property="og:description" content="{{ social_description | strip_newlines | strip }}">
+  <meta name="twitter:description" content="{{ social_description | strip_newlines | strip }}">
+
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <script type="application/javascript">
