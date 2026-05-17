@@ -26,4 +26,5 @@ notes:
 - url: "/notes/cooking.nytimes.com/easy-burritos.html"
 - url: "/notes/cooking.nytimes.com/cottage-pie.html"
 - url: "/notes/cooking.nytimes.com/tofu-and-sweet-potato-peanut-butter-curry.html"
+- url: "/notes/cooking.nytimes.com/sheet-pan-red-curry-chicken-with-butternut-squash.html"
 ---

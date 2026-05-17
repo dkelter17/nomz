@@ -50,4 +50,5 @@ notes:
 - url: "/notes/mollybaz.com/coconut-shrimp-with-cold-smashed-cukes.html"
 - url: "/notes/mollybaz.com/a-better-caprese.html"
 - url: "/notes/mollybaz.com/houston-s-emerald-kale-salad.html"
+- url: "/notes/mollybaz.com/spring-caprese.html"
 ---
