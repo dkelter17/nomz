@@ -22,3 +22,14 @@ source_index_title: Mehreen Karim
 ---
 
 Don't forget to throw in a veggie! We like broccoli but this would pair well with many different veggies.
+
+## Ingredients
+
+- 1 lb. ground beef (I use lean, 85/15)
+- ½ large yellow onion, diced
+- 2 cloves garlic, minced or 1 tsp. garlic paste
+- 1 heaping tsp. ginger paste/grated ginger
+- 1 heaping tsp. white miso
+- 1 heaping tsp. brown sugar, plus extra
+- 1 tsp. chili flakes
+- Salt and lots of pepper
