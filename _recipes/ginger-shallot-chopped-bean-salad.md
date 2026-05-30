@@ -9,14 +9,14 @@ tags:
 
 ## Ingredients
 
-0. 1 ½ cups frozen edamame, thawed
-0. 1, 15 oz can cannellini beans, drained and rinsed
-0. 3 Persian cucumbers, diced
-0. 1 jalapeño, thinly sliced (deseed to make less spicy)
-0. 2 scallions, thinly sliced
-0. 1/3 cup cilantro leaves, minced
-0. 1 tbsp toasted sesame seeds (optional)
-0. 1 avocado, diced
+- [ ] 1 ½ cups frozen edamame, thawed
+- [ ] 1, 15 oz can cannellini beans, drained and rinsed
+- [ ] 3 Persian cucumbers, diced
+- [ ] 1 jalapeño, thinly sliced (deseed to make less spicy)
+- [ ] 2 scallions, thinly sliced
+- [ ] 1/3 cup cilantro leaves, minced
+- [ ] 1 tbsp toasted sesame seeds (optional)
+- [ ] 1 avocado, diced
 
 ### Ginger Shallot Vinaigrette
 

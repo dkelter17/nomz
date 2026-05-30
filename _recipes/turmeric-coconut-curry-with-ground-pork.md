@@ -10,18 +10,18 @@ external_url: https://www.bonappetit.com/recipe/turmeric-coconut-curry-with-pork
 
 ### Ingredients
 
-- 2 servings
-- ¼ head of Napa cabbage (a lengthwise quarter), thinly sliced
-- Kosher salt
-- 1 tablespoon virgin coconut oil or extra-virgin olive oil
-- 8 ounces ground pork, turkey, or chicken
-- 1 small onion, thinly sliced
-- 1-inch piece ginger, peeled, grated
-- ½ serrano chile, thinly sliced (leave the seeds in if you like spice and remove them if you don't)
-- 4 garlic cloves, thinly sliced
-- 1 teaspoon ground turmeric
-- 1 5.5-ounce can unsweetened coconut milk
-- Steamed rice, lime wedges, Greek yogurt, toasted coconut flakes, and cilantro leaves (for serving)
+- [ ] 2 servings
+- [ ] ¼ head of Napa cabbage (a lengthwise quarter), thinly sliced
+- [ ] Kosher salt
+- [ ] 1 tablespoon virgin coconut oil or extra-virgin olive oil
+- [ ] 8 ounces ground pork, turkey, or chicken
+- [ ] 1 small onion, thinly sliced
+- [ ] 1-inch piece ginger, peeled, grated
+- [ ] ½ serrano chile, thinly sliced (leave the seeds in if you like spice and remove them if you don't)
+- [ ] 4 garlic cloves, thinly sliced
+- [ ] 1 teaspoon ground turmeric
+- [ ] 1 5.5-ounce can unsweetened coconut milk
+- [ ] Steamed rice, lime wedges, Greek yogurt, toasted coconut flakes, and cilantro leaves (for serving)
 
 ### Instructions
 

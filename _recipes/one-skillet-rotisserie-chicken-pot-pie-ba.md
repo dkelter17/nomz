@@ -16,19 +16,19 @@ This made a **ton** of pot pie! We tried it initially in a 10" cast iron pan and
 
 ### Ingredients
 
-- 1 2-3lb rotisserie chicken
-- 2 medium onions
-- 1 lb carrots
-- 6 garlic cloves
-- 1 Tbsp thyme leaves (from about 2 sprigs)
-- 3 Tbsp unsalted butter
-- 2 ½ tsp kosher salt
-- 1 ½ tsp freshly ground black pepper
-- 3 Tbsp flour
-- 1 cup dry white wine
-- 2 cups heavy cream
-- 10 oz frozen peas
-- Puff pastry, thawed
+- [ ] 1 2-3lb rotisserie chicken
+- [ ] 2 medium onions
+- [ ] 1 lb carrots
+- [ ] 6 garlic cloves
+- [ ] 1 Tbsp thyme leaves (from about 2 sprigs)
+- [ ] 3 Tbsp unsalted butter
+- [ ] 2 ½ tsp kosher salt
+- [ ] 1 ½ tsp freshly ground black pepper
+- [ ] 3 Tbsp flour
+- [ ] 1 cup dry white wine
+- [ ] 2 cups heavy cream
+- [ ] 10 oz frozen peas
+- [ ] Puff pastry, thawed
 
 ### Instructions
 

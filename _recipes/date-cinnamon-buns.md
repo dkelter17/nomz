@@ -9,18 +9,18 @@ tags:
 
 ### Ingredients
 
-- ¾ cup plus 3 Tbsp. buttermilk or plain whole-milk yogurt (not Greek)
-- 10 Tbsp. vegetable oil, divided
-- 1 large egg
-- 1 ¼-oz. envelope active dry yeast (about 2¼ tsp.)
-- ½ cup (packed; 100 g) dark brown sugar, divided
-- 3 cups (375 g) all-purpose flour
-- 1½ tsp. kosher salt, divided
-- ¼ tsp. baking soda
-- 1 cup (packed; 180 g) Medjool dates
-- 2 tsp. ground cinnamon
-- ¾ cup (83 g) powdered sugar
-- 1 tsp. vanilla paste or extract
+- [ ] ¾ cup plus 3 Tbsp. buttermilk or plain whole-milk yogurt (not Greek)
+- [ ] 10 Tbsp. vegetable oil, divided
+- [ ] 1 large egg
+- [ ] 1 ¼-oz. envelope active dry yeast (about 2¼ tsp.)
+- [ ] ½ cup (packed; 100 g) dark brown sugar, divided
+- [ ] 3 cups (375 g) all-purpose flour
+- [ ] 1½ tsp. kosher salt, divided
+- [ ] ¼ tsp. baking soda
+- [ ] 1 cup (packed; 180 g) Medjool dates
+- [ ] 2 tsp. ground cinnamon
+- [ ] ¾ cup (83 g) powdered sugar
+- [ ] 1 tsp. vanilla paste or extract
 
 ### Instructions
 

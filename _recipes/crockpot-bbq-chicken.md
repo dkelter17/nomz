@@ -9,12 +9,12 @@ tags:
 ---
 
 ## Ingredients:
-- 2 lbs chicken - dark meat is best
-- 1 cup BBQ sauce
-- ¼ cup Zesty Italian dressing
-- ¼ cup brown sugar
-- 1 T Worcestershire sauce
-- salt to taste
+- [ ] 2 lbs chicken - dark meat is best
+- [ ] 1 cup BBQ sauce
+- [ ] ¼ cup Zesty Italian dressing
+- [ ] ¼ cup brown sugar
+- [ ] 1 T Worcestershire sauce
+- [ ] salt to taste
 
 ## Directions:
 1. Season chicken with salt and place in crockpot.

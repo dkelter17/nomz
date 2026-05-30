@@ -10,17 +10,17 @@ category: dinner
 
 ### Ingredients
 
-- Freshly Dried Beans (3 cups dried beans)
-- Salt
-- Garlic (6-8 cloves, optional)
-- Whole Lemon (cut in half)
-- Rendered fat from a meat (1 cup when melted)
-- Herbs of your choosing
-    - Carla does Oregano & Mint
-    - He like Coriander, fennel
-    - Rosemary / thyme
-- Greens (optional, cut into bit-sized pieces)
-- Sherry vinegar or wine
+- [ ] Freshly Dried Beans (3 cups dried beans)
+- [ ] Salt
+- [ ] Garlic (6-8 cloves, optional)
+- [ ] Whole Lemon (cut in half)
+- [ ] Rendered fat from a meat (1 cup when melted)
+- [ ] Herbs of your choosing
+    - [ ] Carla does Oregano & Mint
+    - [ ] He like Coriander, fennel
+    - [ ] Rosemary / thyme
+- [ ] Greens (optional, cut into bit-sized pieces)
+- [ ] Sherry vinegar or wine
 
 ### Instructions
 

@@ -15,16 +15,16 @@ Consider leaving out the choocolate (the pecans, too, if you like) and make a re
 
 ### Ingredients
 
-- 8 oz. coarsely chopped bittersweet chocolate, such as Lindt (about 1½ cups)
-- 1 cup chopped pecans
-- 3 Tbsp. plus 4 cups all-purpose flour, divided, plus more for dusting
-- 2 Tbsp. baking powder
-- 4 tsp. kosher salt
-- 2 Tbsp. sugar, plus more for sprinkling
-- 1½ cups (3 sticks) cold unsalted butter, cut into ½" pieces
-- 1 cup cold heavy cream
-- 4 extra-large eggs, lightly beaten
-- 1 extra-large egg beaten with 2 Tbsp. water or cream (for egg wash)
+- [ ] 8 oz. coarsely chopped bittersweet chocolate, such as Lindt (about 1½ cups)
+- [ ] 1 cup chopped pecans
+- [ ] 3 Tbsp. plus 4 cups all-purpose flour, divided, plus more for dusting
+- [ ] 2 Tbsp. baking powder
+- [ ] 4 tsp. kosher salt
+- [ ] 2 Tbsp. sugar, plus more for sprinkling
+- [ ] 1½ cups (3 sticks) cold unsalted butter, cut into ½" pieces
+- [ ] 1 cup cold heavy cream
+- [ ] 4 extra-large eggs, lightly beaten
+- [ ] 1 extra-large egg beaten with 2 Tbsp. water or cream (for egg wash)
 
 ### Instructions
 

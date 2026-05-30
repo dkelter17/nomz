@@ -12,19 +12,19 @@ Whiskey and Rye (flour) go well together. These are delectable cookies.
 
 ### Ingredients
 
-- 1½ cups chocolate 62-72% cacao, divided
-- 2 cups all-purpose flour
-- ½ cup rye flour
-- ½ teaspoon baking soda
-- 1½ teaspoons kosher salt
-- ¾ cup (1½ sticks) plus 1 tablespoon unsalted butter, room temperature
-- ¾ cup dark brown sugar
-- ¾ cup granulated sugar
-- 1 large egg
-- 1½ teaspoons vanilla extract or vanilla paste
-- 1 teaspoon bourbon
-- 1 vanilla bean, split lengthwise
-- 1 teaspoon flaky sea salt
+- [ ] 1½ cups chocolate 62-72% cacao, divided
+- [ ] 2 cups all-purpose flour
+- [ ] ½ cup rye flour
+- [ ] ½ teaspoon baking soda
+- [ ] 1½ teaspoons kosher salt
+- [ ] ¾ cup (1½ sticks) plus 1 tablespoon unsalted butter, room temperature
+- [ ] ¾ cup dark brown sugar
+- [ ] ¾ cup granulated sugar
+- [ ] 1 large egg
+- [ ] 1½ teaspoons vanilla extract or vanilla paste
+- [ ] 1 teaspoon bourbon
+- [ ] 1 vanilla bean, split lengthwise
+- [ ] 1 teaspoon flaky sea salt
 
 ### Instructions
 

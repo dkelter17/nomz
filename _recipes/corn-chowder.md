@@ -10,19 +10,19 @@ external_url: https://www.tasteofhome.com/recipes/curried-chicken-corn-chowder/
 
 ### Ingredients
 
-- 1 tablespoon butter or ghee
-- 2 medium onions, chopped
-- 3 celery ribs, chopped
-- 2 Tbsp curry powder
-- 1 tsp salt
-- ½ tsp pepper
-- ½ tsp cayenne pepper
-- ~25oz corn
-- 45 oz reduced-sodium chicken broth
-- ½ cup all-purpose flour
-- ½ cup whole milk or 1 can coconut milk
-- 1 rotisserie chicken, just the meat
-- 1/3 cup minced fresh cilantro
+- [ ] 1 tablespoon butter or ghee
+- [ ] 2 medium onions, chopped
+- [ ] 3 celery ribs, chopped
+- [ ] 2 Tbsp curry powder
+- [ ] 1 tsp salt
+- [ ] ½ tsp pepper
+- [ ] ½ tsp cayenne pepper
+- [ ] ~25oz corn
+- [ ] 45 oz reduced-sodium chicken broth
+- [ ] ½ cup all-purpose flour
+- [ ] ½ cup whole milk or 1 can coconut milk
+- [ ] 1 rotisserie chicken, just the meat
+- [ ] 1/3 cup minced fresh cilantro
 
 ### Instructions
 

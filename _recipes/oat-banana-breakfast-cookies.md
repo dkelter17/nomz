@@ -8,12 +8,12 @@ tag:
 
 ### Ingredients
 
-- 2 ripe bananas
-- 1 Tbsp butter (melted, sub coconut oil)
-- 2 Tbsp nut butter (PB is best)
-- 1 tsp cinnamon (could probably be fine with ½ tsp)
-- 1.25 cup old fashioned oats (more if needed, we generally need more)
-- 0.5 cup chocolate chips (a bit heavy here, so can do less if desired)
+- [ ] 2 ripe bananas
+- [ ] 1 Tbsp butter (melted, sub coconut oil)
+- [ ] 2 Tbsp nut butter (PB is best)
+- [ ] 1 tsp cinnamon (could probably be fine with ½ tsp)
+- [ ] 1.25 cup old fashioned oats (more if needed, we generally need more)
+- [ ] 0.5 cup chocolate chips (a bit heavy here, so can do less if desired)
 
 ### Instructions
 

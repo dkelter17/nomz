@@ -10,22 +10,22 @@ tags:
 
 Cabbage Slaw:
 
-0. 2 cups sliced cabbage
-0. ¼ cup mayo
-0. 2 Tbsp chipotle in adobo, minced
-0. 2 tsp lime juice
-0. 2 tsp honey
-0. 2 scallions, sliced
-0. Salt & pepper
+- [ ] 2 cups sliced cabbage
+- [ ] ¼ cup mayo
+- [ ] 2 Tbsp chipotle in adobo, minced
+- [ ] 2 tsp lime juice
+- [ ] 2 tsp honey
+- [ ] 2 scallions, sliced
+- [ ] Salt & pepper
 
 Fish:
 
-0. 2 fillets tilapia
-0. 1 cup panko
-0. 1 cup flour
-0. 1 egg
-0. Tortillas
-0. Avocados (optional)
+- [ ] 2 fillets tilapia
+- [ ] 1 cup panko
+- [ ] 1 cup flour
+- [ ] 1 egg
+- [ ] Tortillas
+- [ ] Avocados (optional)
 
 ### Instructions:
 

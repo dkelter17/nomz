@@ -10,23 +10,23 @@ external_url: https://www.bonappetit.com/recipe/coconut-cod-chowder
 
 ### Ingredients
 
-- 4 servings
-- 1½ lb. skinless, boneless cod or halibut fillets
-- 2½ tsp. kosher salt, divided, plus more
-- 5 Tbsp. ghee or unsalted butter, divided
-- 2 medium leeks, white and pale green parts only, halved lengthwise, thinly sliced crosswise
-- 6 garlic cloves, thinly sliced
-- 3" piece ginger, peeled, cut into matchsticks
-- ¾ tsp. ground turmeric
-- ¾ tsp. ground coriander
-- ½ tsp. ground cardamom
-- 1 serrano chile, thinly sliced
-- 12 oz. baby Yukon Gold or red potatoes, halved
-- 2 13.5-oz. cans unsweetened coconut milk
-- 2 celery stalks, thinly sliced, plus leaves for serving (optional)
-- 1½ cups oyster crackers
-- 1 tsp. paprika
-- 2 limes, divided
+- [ ] 4 servings
+- [ ] 1½ lb. skinless, boneless cod or halibut fillets
+- [ ] 2½ tsp. kosher salt, divided, plus more
+- [ ] 5 Tbsp. ghee or unsalted butter, divided
+- [ ] 2 medium leeks, white and pale green parts only, halved lengthwise, thinly sliced crosswise
+- [ ] 6 garlic cloves, thinly sliced
+- [ ] 3" piece ginger, peeled, cut into matchsticks
+- [ ] ¾ tsp. ground turmeric
+- [ ] ¾ tsp. ground coriander
+- [ ] ½ tsp. ground cardamom
+- [ ] 1 serrano chile, thinly sliced
+- [ ] 12 oz. baby Yukon Gold or red potatoes, halved
+- [ ] 2 13.5-oz. cans unsweetened coconut milk
+- [ ] 2 celery stalks, thinly sliced, plus leaves for serving (optional)
+- [ ] 1½ cups oyster crackers
+- [ ] 1 tsp. paprika
+- [ ] 2 limes, divided
 
 ### Instructions
 

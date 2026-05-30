@@ -10,23 +10,23 @@ external_url: https://www.bonappetit.com/recipe/piri-piri-meatballs
 
 ### Ingredients
 
-- Piri-Piri Sauce
-  - ½ cup jarred roasted red peppers, drained
-  - 1 red Fresno chile, stemmed, seeded
-  - 1 small garlic clove
-  - 3 Tbsp. extra-virgin olive oil
-  - 2 Tbsp. red wine vinegar
-  - 1 tsp. smoked paprika
-- Meatballs and Assembly
-  - ⅔ cup panko (Japanese breadcrumbs)
-  - 1 large egg
-  - 2 garlic cloves, finely grated
-  - 1¼ tsp. kosher salt
-  - ¾ tsp. ground cumin
-  - ½ tsp. smoked paprika
-  - 1 Tbsp. extra-virgin olive oil, plus more for drizzling
-  - 1 lb. ground beef, divided
-  - ¾ cup whole-milk Greek yogurt
+- [ ] Piri-Piri Sauce
+  - [ ] ½ cup jarred roasted red peppers, drained
+  - [ ] 1 red Fresno chile, stemmed, seeded
+  - [ ] 1 small garlic clove
+  - [ ] 3 Tbsp. extra-virgin olive oil
+  - [ ] 2 Tbsp. red wine vinegar
+  - [ ] 1 tsp. smoked paprika
+- [ ] Meatballs and Assembly
+  - [ ] ⅔ cup panko (Japanese breadcrumbs)
+  - [ ] 1 large egg
+  - [ ] 2 garlic cloves, finely grated
+  - [ ] 1¼ tsp. kosher salt
+  - [ ] ¾ tsp. ground cumin
+  - [ ] ½ tsp. smoked paprika
+  - [ ] 1 Tbsp. extra-virgin olive oil, plus more for drizzling
+  - [ ] 1 lb. ground beef, divided
+  - [ ] ¾ cup whole-milk Greek yogurt
 
 ### Instructions
 

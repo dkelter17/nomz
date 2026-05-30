@@ -9,14 +9,14 @@ external_url: "https://www.bonappetit.com/recipe/easy-no-knead-focaccia"
 
 ## Ingredients
 
-- ¼-oz. envelope active dry yeast (about 2¼ tsp.)
-- 2 tsp. honey
-- 5 cups (625 g) all-purpose flour
-- 5 tsp. Diamond Crystal or 1 Tbsp. Morton kosher salt
-- 6 Tbsp. extra-virgin olive oil, divided (plus more for hands)
-- 4 Tbsp. unsalted butter, plus more for pan
-- Flaky sea salt
-- 2–4 garlic cloves
+- [ ] ¼-oz. envelope active dry yeast (about 2¼ tsp.)
+- [ ] 2 tsp. honey
+- [ ] 5 cups (625 g) all-purpose flour
+- [ ] 5 tsp. Diamond Crystal or 1 Tbsp. Morton kosher salt
+- [ ] 6 Tbsp. extra-virgin olive oil, divided (plus more for hands)
+- [ ] 4 Tbsp. unsalted butter, plus more for pan
+- [ ] Flaky sea salt
+- [ ] 2–4 garlic cloves
 
 ## Instructions
 

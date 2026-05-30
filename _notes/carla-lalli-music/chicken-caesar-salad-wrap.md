@@ -18,13 +18,13 @@ tags:
 
 ## Ingredients
 
-1. 6 boneless, skinless chicken thighs
-2. 2 slices crusty bread (to make croutons, if you want this in the wrap)
-3. 1 lemon
-4. Stuff for the caesar dressing, or make it
-4. Shredded parm
-5. 4 10-12in wraps (large)
-6. Lettuce or radicchio or some crunchy green for the filling
+- [ ] 6 boneless, skinless chicken thighs
+- [ ] 2 slices crusty bread (to make croutons, if you want this in the wrap)
+- [ ] 1 lemon
+- [ ] Stuff for the caesar dressing, or make it
+- [ ] Shredded parm
+- [ ] 4 10-12in wraps (large)
+- [ ] Lettuce or radicchio or some crunchy green for the filling
 
 ## Instructions
 

@@ -15,26 +15,26 @@ get from Carla herself.
 
 Marinade & chicken:
 
-- 3 garlic cloves
-- ¼ cup Calabrian chile paste
-- Zest of 1 lemon
-- Kosher salt
-- 1 Tbsp extra-virgin olive oil
-- 8 bone-in skin-on chicken thighs
+- [ ] 3 garlic cloves
+- [ ] ¼ cup Calabrian chile paste
+- [ ] Zest of 1 lemon
+- [ ] Kosher salt
+- [ ] 1 Tbsp extra-virgin olive oil
+- [ ] 8 bone-in skin-on chicken thighs
 
 Cooling Salad:
 
-- ½ small red onion
-- 1 fennel bulb
-- 4 celery stalks
+- [ ] ½ small red onion
+- [ ] 1 fennel bulb
+- [ ] 4 celery stalks
 
 Salad dressing:
 
-- ¼ cup buttermilk
-- Juice of 1 lemon
-- 3 Tbsp olive oil
-- Kosher salt
-- Freshly ground pepper
+- [ ] ¼ cup buttermilk
+- [ ] Juice of 1 lemon
+- [ ] 3 Tbsp olive oil
+- [ ] Kosher salt
+- [ ] Freshly ground pepper
 
 ## Instructions
 
