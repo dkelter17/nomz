@@ -32,23 +32,23 @@ Don't go too heavy on the peanut butter! If you go too heavy on the fats, add so
 
 ### INGREDIENTS
 
-- 14 oz package of firm tofu drained and cut into cubes
-- 1 red bell pepper sliced into strips
-- 1 large head broccoli chopped
-- ¾ cup quinoa (¼ cup = 1 serving)
-- 1 tablespoon olive oil sub of your choice
-- salt and pepper to taste
-- 1 tablespoon soy sauce
-- 1 clove garlic minced
-- cooking spray
-- ¾ cup peanuts chopped, optional for garnish
-- **Peanut sauce ingredients**:
-- ¼ cup nut butter
-- ¼ cup soy sauce
-- 1 tablespoon rice vinegar
-- 1 teaspoon sesame oil
-- 2 teaspoon agave, maple syrup or honey add more if needed
-- 2 teaspoon sriracha optional, add more if needed
-- 1 clove garlic minced, or a dash of garlic powder
+- [ ] 14 oz package of firm tofu drained and cut into cubes
+- [ ] 1 red bell pepper sliced into strips
+- [ ] 1 large head broccoli chopped
+- [ ] ¾ cup quinoa (¼ cup = 1 serving)
+- [ ] 1 tablespoon olive oil sub of your choice
+- [ ] salt and pepper to taste
+- [ ] 1 tablespoon soy sauce
+- [ ] 1 clove garlic minced
+- [ ] cooking spray
+- [ ] ¾ cup peanuts chopped, optional for garnish
+- [ ] **Peanut sauce ingredients**:
+- [ ] ¼ cup nut butter
+- [ ] ¼ cup soy sauce
+- [ ] 1 tablespoon rice vinegar
+- [ ] 1 teaspoon sesame oil
+- [ ] 2 teaspoon agave, maple syrup or honey add more if needed
+- [ ] 2 teaspoon sriracha optional, add more if needed
+- [ ] 1 clove garlic minced, or a dash of garlic powder
   
 </div>

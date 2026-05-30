@@ -10,24 +10,24 @@ tags:
 
 ### Ingredients
 
-1. 1 tablespoon refined or virgin coconut oil, or a neutral-flavored oil
-2. 4 cloves garlic, minced
-3. 2-inch piece of fresh ginger, peeled and minced or grated
-4. 1 tablespoon minced fresh turmeric, or 1 teaspoon ground turmeric
-5. 1-2 serrano peppers, diced (remove seeds if you don't like heat)
-6. 1 teaspoon ground cumin
-7. ½ teaspoon ground coriander
-8. ½ teaspoon Indian red chili powder (if you only have regular chili powder, which is a blend, use 1 teaspoon)
-9. 2 teaspoons curry powder
-10. 1 teaspoon garam masala
-11. 1 cup (180-190g) red lentils, or split red lentils (the split variety will cook a bit quicker)
-12. 2 cups low-sodium vegetable broth
-13. 1 14-ounce can crushed tomatoes
-14. 1 14-ounce can full-fat coconut milk (see notes above for substitutes)
-15. 3 tablespoons unsweetened creamy almond butter
-16. ½ a small lemon, juiced
-17. ½ cup fresh cilantro, roughly chopped
-18. For serving: Basmati or Jasmine rice and Indian flatbread such as roti, paratha, or naan
+- [ ] 1 tablespoon refined or virgin coconut oil, or a neutral-flavored oil
+- [ ] 4 cloves garlic, minced
+- [ ] 2-inch piece of fresh ginger, peeled and minced or grated
+- [ ] 1 tablespoon minced fresh turmeric, or 1 teaspoon ground turmeric
+- [ ] 1-2 serrano peppers, diced (remove seeds if you don't like heat)
+- [ ] 1 teaspoon ground cumin
+- [ ] ½ teaspoon ground coriander
+- [ ] ½ teaspoon Indian red chili powder (if you only have regular chili powder, which is a blend, use 1 teaspoon)
+- [ ] 2 teaspoons curry powder
+- [ ] 1 teaspoon garam masala
+- [ ] 1 cup (180-190g) red lentils, or split red lentils (the split variety will cook a bit quicker)
+- [ ] 2 cups low-sodium vegetable broth
+- [ ] 1 14-ounce can crushed tomatoes
+- [ ] 1 14-ounce can full-fat coconut milk (see notes above for substitutes)
+- [ ] 3 tablespoons unsweetened creamy almond butter
+- [ ] ½ a small lemon, juiced
+- [ ] ½ cup fresh cilantro, roughly chopped
+- [ ] For serving: Basmati or Jasmine rice and Indian flatbread such as roti, paratha, or naan
 
 ### Instructions
 

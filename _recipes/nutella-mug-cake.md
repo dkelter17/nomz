@@ -10,13 +10,13 @@ tag:
 ---
 
 ## Ingredients:
-- 4 T self-rising flour
-- 4 T white granulated sugar
-- 1 egg
-- 3 T cocoa powder
-- 3 T Nutella
-- 3 T milk
-- 3 T olive oil or vegetable oil
+- [ ] 4 T self-rising flour
+- [ ] 4 T white granulated sugar
+- [ ] 1 egg
+- [ ] 3 T cocoa powder
+- [ ] 3 T Nutella
+- [ ] 3 T milk
+- [ ] 3 T olive oil or vegetable oil
 
 ## Directions:
 1. Mix everything in *large* mug.

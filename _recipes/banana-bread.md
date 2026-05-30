@@ -8,16 +8,16 @@ tags:
 
 ## Ingredients
 
-1. 4 Tbsp unsalted butter (½stick)
-2. ¾ cup sugar
-3. 3 medium-size ripe bananas, peeled and rougly chopped
-4. 1 egg
-5. 1/3 cup yoghurt
-6. 2 cups white flour
-7. 1.5 tsp baking powder
-8. 0.5 tsp baking soda
-9. 1 tsp coarse salt or 0.5 tsp table salt
-10. 1 cup chocolate chips or chopped pecans
+- [ ] 4 Tbsp unsalted butter (½stick)
+- [ ] ¾ cup sugar
+- [ ] 3 medium-size ripe bananas, peeled and rougly chopped
+- [ ] 1 egg
+- [ ] 1/3 cup yoghurt
+- [ ] 2 cups white flour
+- [ ] 1.5 tsp baking powder
+- [ ] 0.5 tsp baking soda
+- [ ] 1 tsp coarse salt or 0.5 tsp table salt
+- [ ] 1 cup chocolate chips or chopped pecans
 
 ## Directions
 

@@ -7,8 +7,8 @@ tags:
 
 ### Ingredients
 
-1. ½ gallon whole milk
-2. A few spoonfuls of yoghurt
+- [ ] ½ gallon whole milk
+- [ ] A few spoonfuls of yoghurt
 
 ### Instructions
 

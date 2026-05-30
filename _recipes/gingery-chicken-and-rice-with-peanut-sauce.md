@@ -14,22 +14,22 @@ Recipe as-is tends to be rice-heavy. Add more chicken thighs or reduce rice.
 
 ### Ingredients
 
-- Chicken & Rice
-  - 6 small boneless skinless chicken thighs (about 3 lb.)
-  - 2 large shallots, finely chopped
-  - 8 garlic cloves, finely chopped
-  - 2" piece ginger, peeled, finely chopped
-  - 2 cups high-quality basmati rice, rinsed
-  - 1 Tbsp. soy sauce
-- Sauce and Assembly (double!)
-  - ½ cup creamy peanut butter
-  - 2 Tbsp. soy sauce
-  - 2 Tbsp. unseasoned rice vinegar
-  - 5 tsp. Sriracha
-  - 1" piece ginger, peeled, finely chopped
-  - 1.5 tsp. honey
-  - 1 English hothouse cucumber, halved lengthwise, thinly sliced on a dia
-  - 1 cup cilantro leaves with tender stems
+- [ ] Chicken & Rice
+  - [ ] 6 small boneless skinless chicken thighs (about 3 lb.)
+  - [ ] 2 large shallots, finely chopped
+  - [ ] 8 garlic cloves, finely chopped
+  - [ ] 2" piece ginger, peeled, finely chopped
+  - [ ] 2 cups high-quality basmati rice, rinsed
+  - [ ] 1 Tbsp. soy sauce
+- [ ] Sauce and Assembly (double!)
+  - [ ] ½ cup creamy peanut butter
+  - [ ] 2 Tbsp. soy sauce
+  - [ ] 2 Tbsp. unseasoned rice vinegar
+  - [ ] 5 tsp. Sriracha
+  - [ ] 1" piece ginger, peeled, finely chopped
+  - [ ] 1.5 tsp. honey
+  - [ ] 1 English hothouse cucumber, halved lengthwise, thinly sliced on a dia
+  - [ ] 1 cup cilantro leaves with tender stems
 
 ### Instructions
 

@@ -11,15 +11,15 @@ Don't forget to double it!
 
 ## Ingredients
 
-- ½ cup of roasted peanuts
-- 3 Tbsp sesame seeds
-- ¼ cup olive oil
-- 2 garlic cloves
-- ½ inch piece of ginger
-- 1 tsp honey
-- 1 tsp ground turmeric
-- 1.5 tsp red pepper flakes
-- 3 Tbsp coconut milk (use the rest of the can to make [coconut rice](coconut-rice.html))
+- [ ] ½ cup of roasted peanuts
+- [ ] 3 Tbsp sesame seeds
+- [ ] ¼ cup olive oil
+- [ ] 2 garlic cloves
+- [ ] ½ inch piece of ginger
+- [ ] 1 tsp honey
+- [ ] 1 tsp ground turmeric
+- [ ] 1.5 tsp red pepper flakes
+- [ ] 3 Tbsp coconut milk (use the rest of the can to make [coconut rice](coconut-rice.html))
 
 ## Instructions
 

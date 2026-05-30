@@ -9,15 +9,15 @@ external_url: https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken
 
 ### Ingredients
 
--    1 3½-4-lb. whole chicken
-- 5 Tbsp. gochujang (Korean hot pepper paste)
-- ¼ cup plus 2 Tbsp. extra-virgin olive oil
-- 2 heads of garlic
-- 1 ½" piece fresh ginger
-- 1½ lb. baby Yukon Gold potatoes (about 1½" in diameter)
-- 5 scallions
-- 2 limes
-- 2 tsp. honey
+- [ ] 1 3½-4-lb. whole chicken
+- [ ] 5 Tbsp. gochujang (Korean hot pepper paste)
+- [ ] ¼ cup plus 2 Tbsp. extra-virgin olive oil
+- [ ] 2 heads of garlic
+- [ ] 1 ½" piece fresh ginger
+- [ ] 1½ lb. baby Yukon Gold potatoes (about 1½" in diameter)
+- [ ] 5 scallions
+- [ ] 2 limes
+- [ ] 2 tsp. honey
 
 ### Instructions
 

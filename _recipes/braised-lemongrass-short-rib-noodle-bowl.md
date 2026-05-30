@@ -18,21 +18,21 @@ rating: 2
 
 ### Ingredients
 
-- 3 stalks lemongrass, tough outer layer and top/bottom removed
-- 4 sliced jalapeños (2 for marinade, 2 for pickled veggies)
-- 3 shallots
-- 6-inch piece of ginger (~4 oz)
-- 8 garlic cloves
-- ¼ cup black vinegar
-- ¼ cup mirin
-- 2 Tbsp soy sauce
-- 1 Tbsp freshly ground black pepper
-- 3 lbs boneless short ribs, cut into 1.5-2" pieces
-- 1 Tbsp vegetable oil
-- 1 large watermelon radish or other crisp vegetable for pickling
-- ½ cup unseasoned rice vinegar
-- 20 oz fresh Asian noodles (ramen or lo mein)
-- Sriracha  or Sambal Oelek for garnish
+- [ ] 3 stalks lemongrass, tough outer layer and top/bottom removed
+- [ ] 4 sliced jalapeños (2 for marinade, 2 for pickled veggies)
+- [ ] 3 shallots
+- [ ] 6-inch piece of ginger (~4 oz)
+- [ ] 8 garlic cloves
+- [ ] ¼ cup black vinegar
+- [ ] ¼ cup mirin
+- [ ] 2 Tbsp soy sauce
+- [ ] 1 Tbsp freshly ground black pepper
+- [ ] 3 lbs boneless short ribs, cut into 1.5-2" pieces
+- [ ] 1 Tbsp vegetable oil
+- [ ] 1 large watermelon radish or other crisp vegetable for pickling
+- [ ] ½ cup unseasoned rice vinegar
+- [ ] 20 oz fresh Asian noodles (ramen or lo mein)
+- [ ] Sriracha  or Sambal Oelek for garnish
 
 ### Instructions
 

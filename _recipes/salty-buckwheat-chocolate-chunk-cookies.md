@@ -9,18 +9,18 @@ external_url: https://www.bonappetit.com/recipe/salty-buckwheat-chocolate-chunk-
 ---
 ### Ingredients
 
-- ½ cup (1 stick) unsalted butter, cut into 8 equal pieces
-- 1 cup (125 g) all-purpose flour
-- ½ cup (63 g) buckwheat flour
-- ½ tsp. baking powder
-- ½ tsp. baking soda
-- 1¼ tsp. Diamond Crystal or ¾ tsp. Morton kosher salt, plus more
-- 6 oz. bittersweet chocolate (65-75% cacao) bars or wafers
-- ⅔ cup (133 g; packed) light brown sugar
-- ½ cup (100 g) granulated sugar
-- 1 large egg
-- 2 large egg yolks
-- 1 tsp. vanilla extract
+- [ ] ½ cup (1 stick) unsalted butter, cut into 8 equal pieces
+- [ ] 1 cup (125 g) all-purpose flour
+- [ ] ½ cup (63 g) buckwheat flour
+- [ ] ½ tsp. baking powder
+- [ ] ½ tsp. baking soda
+- [ ] 1¼ tsp. Diamond Crystal or ¾ tsp. Morton kosher salt, plus more
+- [ ] 6 oz. bittersweet chocolate (65-75% cacao) bars or wafers
+- [ ] ⅔ cup (133 g; packed) light brown sugar
+- [ ] ½ cup (100 g) granulated sugar
+- [ ] 1 large egg
+- [ ] 2 large egg yolks
+- [ ] 1 tsp. vanilla extract
 
 ### Instructions
 

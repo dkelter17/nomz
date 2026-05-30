@@ -12,15 +12,15 @@ Samin Nosrat spun Nekisia Davis's granola recipe and called it [best. granola. e
 
 ## Ingredients
 
-* 3 cups old-fashioned rolled oats
-* 1 cup raw pumpkin seeds, hulled
-* 1 cup raw walnuts, roughly broken up
-* 1 cup unsweetened coconut chips
-* 1 ¼ cup raw pecans, left whole or coarsely chopped
-* 3 Tbsp packed light-brown sugar
-* ½ cup pure maple syrup (Grade B is best)
-* ½ cup extra-virgin olive oil
-* Coarse salt.
+- [ ] 3 cups old-fashioned rolled oats
+- [ ] 1 cup raw pumpkin seeds, hulled
+- [ ] 1 cup raw walnuts, roughly broken up
+- [ ] 1 cup unsweetened coconut chips
+- [ ] 1 ¼ cup raw pecans, left whole or coarsely chopped
+- [ ] 3 Tbsp packed light-brown sugar
+- [ ] ½ cup pure maple syrup (Grade B is best)
+- [ ] ½ cup extra-virgin olive oil
+- [ ] Coarse salt.
 
 ## Instructions
 

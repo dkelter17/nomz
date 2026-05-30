@@ -9,11 +9,11 @@ tags:
 ---
 
 ## Ingredients:
-- ½ cup coconut oil
-- ½ cup cocoa powder
-- ½ cup smooth almond butter (or peanut butter)
-- ¼ cup honey or maple syrup
-- ½ t vanilla
+- [ ] ½ cup coconut oil
+- [ ] ½ cup cocoa powder
+- [ ] ½ cup smooth almond butter (or peanut butter)
+- [ ] ¼ cup honey or maple syrup
+- [ ] ½ t vanilla
 
 ## Directions:
 1. Melt coconut oil.

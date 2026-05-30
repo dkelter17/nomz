@@ -9,10 +9,10 @@ tags:
 
 ## Ingredients
 
-- ¾ cup rice
-- ¾ cup water
-- ¾ cup canned coconut milk
-- ¼ tsp salt
+- [ ] ¾ cup rice
+- [ ] ¾ cup water
+- [ ] ¾ cup canned coconut milk
+- [ ] ¼ tsp salt
 
 ## Instructions
 

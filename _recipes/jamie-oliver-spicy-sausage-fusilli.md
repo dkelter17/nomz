@@ -11,16 +11,16 @@ tags:
 
 ### Ingredients
 
-- 2 dried red chillies (or use red pepper flakes, 1 Tbsp)
-- 2 heaped teaspoons fennel seeds
-- olive oil
-- 600 g quality Italian sausages, Cumberland sausages or higher-welfare pork mince
-- 1 tablespoon dried oregano
-- 250 ml white wine
-- 1 lemon
-- 500 g fusilli or penne
-- 20 g Parmesan cheese, plus extra for serving
-- ½ a bunch of fresh flat-leaf parsley (15g)
+- [ ] 2 dried red chillies (or use red pepper flakes, 1 Tbsp)
+- [ ] 2 heaped teaspoons fennel seeds
+- [ ] olive oil
+- [ ] 600 g quality Italian sausages, Cumberland sausages or higher-welfare pork mince
+- [ ] 1 tablespoon dried oregano
+- [ ] 250 ml white wine
+- [ ] 1 lemon
+- [ ] 500 g fusilli or penne
+- [ ] 20 g Parmesan cheese, plus extra for serving
+- [ ] ½ a bunch of fresh flat-leaf parsley (15g)
 
 ### Instructions
 

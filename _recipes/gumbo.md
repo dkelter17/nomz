@@ -15,22 +15,22 @@ Riffing on a recipe we received after taking a class at the New Orleans School o
 
 ### Ingredients
 
-- Roux:
-  - ¼ cup lard or ½ cup oil
-  - ½ cup flour (you might need upwards of 1 cup)
-- Meat:
-  - 1 lb chicken, cut up or deboned
-  - 1 lb Andouille sausage (chorizo in a pinch)
-- Trinity (creole mirepoix)
-  - 2 cups onions, chopped
-  - 1 cup celery, chopped
-  - 1 cup green pepper, chopped
-- 1 Tbsp garlic, chopped
-- 6 cups stock or flavored water (never plain water!)
-- 1 cup green onions, chopped
-- Joe's Stuff seasoning for taste (whatever creole seasoning you can find)
-- [Filé powder](https://en.wikipedia.org/wiki/Fil%C3%A9_powder) to taste (if that strikes your fancy)
-- Crab boil to taste (1 cap full is usually enough)
+- [ ] Roux:
+  - [ ] ¼ cup lard or ½ cup oil
+  - [ ] ½ cup flour (you might need upwards of 1 cup)
+- [ ] Meat:
+  - [ ] 1 lb chicken, cut up or deboned
+  - [ ] 1 lb Andouille sausage (chorizo in a pinch)
+- [ ] Trinity (creole mirepoix)
+  - [ ] 2 cups onions, chopped
+  - [ ] 1 cup celery, chopped
+  - [ ] 1 cup green pepper, chopped
+- [ ] 1 Tbsp garlic, chopped
+- [ ] 6 cups stock or flavored water (never plain water!)
+- [ ] 1 cup green onions, chopped
+- [ ] Joe's Stuff seasoning for taste (whatever creole seasoning you can find)
+- [ ] [Filé powder](https://en.wikipedia.org/wiki/Fil%C3%A9_powder) to taste (if that strikes your fancy)
+- [ ] Crab boil to taste (1 cap full is usually enough)
 
 ### Instructions
 

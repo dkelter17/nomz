@@ -11,17 +11,17 @@ tags:
 
 Dry:
 
-- 3 cups Unbleached All-Purpose Flour (replace up to 1 cup with Bread Flour if you please)
-- 1 tablespoon sugar
-- 1.5 teaspoons salt
-- 0.25 teaspoon baking soda
-- 1 tablespoon instant yeast
+- [ ] 3 cups Unbleached All-Purpose Flour (replace up to 1 cup with Bread Flour if you please)
+- [ ] 1 tablespoon sugar
+- [ ] 1.5 teaspoons salt
+- [ ] 0.25 teaspoon baking soda
+- [ ] 1 tablespoon instant yeast
 
 Wet:
 
-- 1 cup milk
-- 0.25 cup water
-- 2 tablespoons veggie or olive oil
+- [ ] 1 cup milk
+- [ ] 0.25 cup water
+- [ ] 2 tablespoons veggie or olive oil
 
 ### Instructions
 

@@ -12,15 +12,15 @@ external_url: https://www.bonappetit.com/recipe/stir-fried-eggplant-with-pork
 
 ### Ingredients
 
-- 2 (red) chiles, such as cayenne, Fresno, or jalapeño
-- 1 Tbsp. cookin' honey
-- 3 medium Japanese or Chinese eggplants (about 12 oz. total)
-- 1 lb. ground pork, ground chicken, tempeh crumbles, or crumbled tofu
-- 3 garlic cloves, thinly sliced
-- 1 tsp. toasted sesame seeds
-- ½ cup basil leaves, plus more for serving
-- 2 Tbsp. unseasoned rice vinegar
-- 2 tsp. soy sauce (or tamari)
+- [ ] 2 (red) chiles, such as cayenne, Fresno, or jalapeño
+- [ ] 1 Tbsp. cookin' honey
+- [ ] 3 medium Japanese or Chinese eggplants (about 12 oz. total)
+- [ ] 1 lb. ground pork, ground chicken, tempeh crumbles, or crumbled tofu
+- [ ] 3 garlic cloves, thinly sliced
+- [ ] 1 tsp. toasted sesame seeds
+- [ ] ½ cup basil leaves, plus more for serving
+- [ ] 2 Tbsp. unseasoned rice vinegar
+- [ ] 2 tsp. soy sauce (or tamari)
 
 ### Directions
 
