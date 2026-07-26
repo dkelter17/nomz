@@ -12,6 +12,7 @@ feeds: 2
 rating: 3
 category: dinner
 url: "/notes/one-pan-two-plates/lo-mein-noodles-with-chicken-snow-peas-and-peanut-sauce.html"
+drive_url: https://drive.google.com/file/d/1MYgyE8LMjLdbbJEE3axT92jxnZyALS1W/view?usp=drivesdk
 tags:
 - chicken
 - cilantro (optional)

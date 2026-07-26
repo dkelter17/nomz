@@ -366,7 +366,7 @@
     "category": "dinner",
     "url": "/notes/one-pan-two-plates/lo-mein-noodles-with-chicken-snow-peas-and-peanut-sauce.html",
     "external_url": "",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/1MYgyE8LMjLdbbJEE3axT92jxnZyALS1W/view?usp=drivesdk",
     "photo_url": null,
     "photo_path": null,
     "tags": [
@@ -584,7 +584,7 @@
     "category": "dinner",
     "url": "/notes/one-pan-two-plates/beef-stew-in-high-heels.html",
     "external_url": "",
-    "drive_url": "",
+    "drive_url": "https://drive.google.com/file/d/1dKRT3FfYAtI7l5VYhb3pEwDNt-OA1KDO/view?usp=drive_link",
     "photo_url": null,
     "photo_path": null,
     "tags": [
@@ -4134,6 +4134,34 @@
     "tags": [
       "chicken",
       "basil",
+      "cilantro",
+      "weekday"
+    ],
+    "source_index_title": "New York Times Cooking"
+  },
+  {
+    "title": "Pili Pili Shrip with Braised Cannelini Beans",
+    "source": "https://cooking.nytimes.com/recipes/757001134-pili-pili-shrimp-with-braised-cannellini-beans",
+    "author": "Kiano Moju",
+    "protein": [
+      "shrimp"
+    ],
+    "vegetarian": false,
+    "herbs": [
+      "cilantro"
+    ],
+    "day_of_week": "weekday",
+    "feeds": 0,
+    "season": "",
+    "rating": 0,
+    "category": "dinner",
+    "url": "/notes/cooking.nytimes.com/pili-pili-shrip-with-braised-cannelini-beans.html",
+    "external_url": "https://cooking.nytimes.com/recipes/757001134-pili-pili-shrimp-with-braised-cannellini-beans",
+    "drive_url": "",
+    "photo_url": "https://static01.nyt.com/images/2025/09/04/multimedia/KM-Pili-Pili-Shrimp-with-White-Beans-mfhj/KM-Pili-Pili-Shrimp-with-White-Beans-mfhj-threeByTwoLargeAt2X.jpg?format=pjpg&quality=75&auto=webp",
+    "photo_path": null,
+    "tags": [
+      "shrimp",
       "cilantro",
       "weekday"
     ],
