@@ -28,4 +28,5 @@ notes:
 - url: "/notes/cooking.nytimes.com/tofu-and-sweet-potato-peanut-butter-curry.html"
 - url: "/notes/cooking.nytimes.com/sheet-pan-red-curry-chicken-with-butternut-squash.html"
 - url: "/notes/cooking.nytimes.com/pili-pili-shrip-with-braised-cannelini-beans.html"
+- url: "/notes/cooking.nytimes.com/crunchy-peanut-noodle-slaw.html"
 ---
