@@ -1,0 +1,3 @@
+---
+---
+{{ site.data.recipe_ingredients | jsonify }}

@@ -1,0 +1,39 @@
+---
+layout: page
+title: Shopping List
+include_in_header: true
+---
+
+<div id="shopping-list-app">
+
+  <p id="shopping-list-count"></p>
+
+  <p id="shopping-list-empty-state">
+    Nothing on your list yet. Head to the <a href="{{ '/randomizer.html' | relative_url }}">Randomizer</a> or
+    <a href="{{ '/all.html' | relative_url }}">Browse All</a> and tap "Add to list" on a few recipes.
+  </p>
+
+  <p>
+    <button type="button" id="shopping-list-start-new-week" class="btn pill">Start new week</button>
+    <button type="button" id="shopping-list-refresh" class="btn pill">Refresh recipe data</button>
+  </p>
+
+  <div id="shopping-list-no-ingredients">
+    <h2>No ingredients on file &mdash; check these separately</h2>
+    <ul id="shopping-list-no-ingredients-items"></ul>
+  </div>
+
+  <div id="shopping-list-sections"></div>
+
+  <div id="shopping-list-sort-these">
+    <h2>Sort These</h2>
+    <p class="no-bottom-margin">These didn't match a known grocery-section keyword. Add one to <code>_data/grocery_sections.yaml</code> to fix it for next time.</p>
+    <ul id="shopping-list-sort-these-items"></ul>
+  </div>
+
+</div>
+
+<button type="button" id="shopping-list-copy-btn" class="shopping-list-copy-hidden">Copy to clipboard</button>
+
+<script type="application/javascript">window.nomzGrocerySections = {{ site.data.grocery_sections | jsonify }};</script>
+<script src="{{ '/assets/js/shopping-list.js' | relative_url }}?version={{ site.github.build_revision }}" type="application/javascript"></script>
