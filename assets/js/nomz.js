@@ -2,6 +2,8 @@
 
 function main(document) {
   interactiveChecklists(document) // Enable interactive checklists.
+  renderShoppingTray(document) // Show the "N recipes selected" tray, if any.
+  initRecipeDetailAddButton(document) // Wire up this page's "add to list" button, if present.
   setRandomizerPlaceholder('Loading recipes...')
   setSearchBoxPlaceholder('Loading recipes...')
   loadRecipesIndexIfNeeded(document)
@@ -21,6 +23,102 @@ function interactiveChecklists(document) {
   if (checkboxes && checkboxes.length > 0) {
     checkboxes.forEach((el) => el.removeAttribute("disabled"))
   }
+}
+
+// ---- Shopping list (meal plan) selection ----
+//
+// Selected recipes are stored in localStorage as a minimal {url, title}
+// array, keyed by url rather than a full recipe record, so it works for
+// collection documents with no matching recipe_database.json entry and
+// survives the Randomizer generating a fresh set of candidates.
+
+const SHOPPING_LIST_STORAGE_KEY = 'nomzShoppingList'
+
+function getShoppingList() {
+  try {
+    const raw = localStorage.getItem(SHOPPING_LIST_STORAGE_KEY)
+    const list = raw ? JSON.parse(raw) : []
+    return Array.isArray(list) ? list : []
+  } catch (error) {
+    console.error('Error reading shopping list from local storage:', error)
+    return []
+  }
+}
+
+function saveShoppingList(list) {
+  localStorage.setItem(SHOPPING_LIST_STORAGE_KEY, JSON.stringify(list))
+}
+
+function isInShoppingList(url) {
+  return getShoppingList().some((recipe) => recipe.url === url)
+}
+
+function addToShoppingList(url, title) {
+  if (!url || isInShoppingList(url)) {
+    return
+  }
+  const list = getShoppingList()
+  list.push({ url: url, title: title })
+  saveShoppingList(list)
+}
+
+function removeFromShoppingList(url) {
+  saveShoppingList(getShoppingList().filter((recipe) => recipe.url !== url))
+}
+
+// renderShoppingTray shows a sticky "N recipes selected" bar (markup lives
+// in _includes/footer.html, present on every page) linking to the shopping
+// list page. It's re-run after every add/remove so the count stays live
+// without a page reload.
+function renderShoppingTray(document) {
+  const tray = document.getElementById('shopping-tray')
+  if (!tray) {
+    return
+  }
+  const count = getShoppingList().length
+  if (count === 0) {
+    tray.classList.add('shopping-tray-hidden')
+    return
+  }
+  tray.classList.remove('shopping-tray-hidden')
+  const label = tray.querySelector('.shopping-tray-label')
+  if (label) {
+    label.innerText = count === 1 ? '1 recipe selected' : `${count} recipes selected`
+  }
+}
+
+// initRecipeDetailAddButton wires up the static "Add to this week's list"
+// button on individual recipe pages (see _layouts/recipe.html). It's a
+// no-op on pages without that button.
+function initRecipeDetailAddButton(document) {
+  const button = document.getElementById('add-to-list-btn')
+  if (!button) {
+    return
+  }
+  const url = button.getAttribute('data-url')
+  const title = button.getAttribute('data-title')
+
+  const syncButtonState = () => {
+    if (isInShoppingList(url)) {
+      button.innerText = '✓ Added to this week\'s list'
+      button.classList.add('added')
+    } else {
+      button.innerText = 'Add to this week\'s list'
+      button.classList.remove('added')
+    }
+  }
+
+  button.addEventListener('click', () => {
+    if (isInShoppingList(url)) {
+      removeFromShoppingList(url)
+    } else {
+      addToShoppingList(url, title)
+    }
+    syncButtonState()
+    renderShoppingTray(document)
+  })
+
+  syncButtonState()
 }
 
 function loadLunrIndex(document) {
@@ -278,6 +376,41 @@ function formatSearchResult(listItemEl, item) {
   if (categoryTagsListEl.childNodes.length > 0){
     listItemEl.appendChild(categoryTagsListEl)
   }
+
+  if (item.url && item.url != '') {
+    listItemEl.appendChild(buildAddToListButton(item))
+  }
+}
+
+function buildAddToListButton(item) {
+  const button = document.createElement('button')
+  button.type = 'button'
+  button.classList.add('btn')
+  button.classList.add('pill')
+  button.classList.add('add-to-list')
+
+  const syncButtonState = () => {
+    if (isInShoppingList(item.url)) {
+      button.innerText = '✓ Added'
+      button.classList.add('added')
+    } else {
+      button.innerText = '+ Add to list'
+      button.classList.remove('added')
+    }
+  }
+
+  button.addEventListener('click', () => {
+    if (isInShoppingList(item.url)) {
+      removeFromShoppingList(item.url)
+    } else {
+      addToShoppingList(item.url, item.title)
+    }
+    syncButtonState()
+    renderShoppingTray(document)
+  })
+
+  syncButtonState()
+  return button
 }
 
 function populateSearchIntoQ() {
@@ -382,8 +515,13 @@ function displayRecipeResults(recipes) {
 }
 
 (function(document){
+  let initialized = false
   document.addEventListener('readystatechange', (event) => {
+    if (initialized) {
+      return
+    }
     if (document.readyState === 'interactive' || document.readyState === 'complete') {
+      initialized = true
       main(document)
     }
   });

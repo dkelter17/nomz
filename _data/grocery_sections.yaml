@@ -1,0 +1,325 @@
+# Keyword -> grocery-section map used by the shopping list page to group
+# aggregated ingredient lines the same way the household's shared grocery
+# note is organized. `order` is the fixed section order used everywhere
+# (page rendering and the copied text), always printed even when a section
+# has no matches. `keywords` maps each section to ingredient-name fragments;
+# matching is longest-keyword-wins (see assets/js/shopping-list.js), so a
+# specific phrase like "dried oregano" or "frozen peas" should always be
+# listed even though a shorter, more generic keyword ("oregano", "peas")
+# would otherwise misfile it.
+#
+# If an ingredient keeps landing in the "Sort These" bucket on the shopping
+# list page, add a keyword for it here and commit.
+order: [Produce, Meat, Dairy, Frozen, Bakery, Grocery, Pharmacy]
+keywords:
+  Produce:
+    - onion
+    - yellow onion
+    - red onion
+    - white onion
+    - green onion
+    - shallot
+    - garlic clove
+    - garlic
+    - fresh ginger
+    - ginger
+    - scallion
+    - cilantro
+    - parsley
+    - basil leaves
+    - basil
+    - mint
+    - dill
+    - chive
+    - thyme leaves
+    - lemon
+    - lime
+    - orange
+    - tomato
+    - bell pepper
+    - red bell pepper
+    - jalapeño
+    - jalapeno
+    - serrano chile
+    - serrano
+    - fresno chile
+    - poblano
+    - chile
+    - chili
+    - avocado
+    - cucumber
+    - zucchini
+    - eggplant
+    - carrot
+    - celery
+    - yukon gold potato
+    - russet potato
+    - sweet potato
+    - potato
+    - napa cabbage
+    - cabbage
+    - broccolini
+    - broccoli
+    - cauliflower
+    - spinach
+    - kale
+    - arugula
+    - radicchio
+    - lettuce
+    - watermelon radish
+    - radish
+    - fennel bulb
+    - fennel
+    - leek
+    - mushroom
+    - fresh corn
+    - corn on the cob
+    - snow pea
+    - summer squash
+    - squash
+    - lemongrass
+    - rosemary
+    - spring mix
+    - greens
+    - banana
+    - apple
+    - watermelon
+  Meat:
+    - chicken thigh
+    - chicken breast
+    - whole chicken
+    - rotisserie chicken
+    - ground chicken
+    - chicken
+    - ground beef
+    - ground turkey
+    - ground pork
+    - short rib
+    - flank steak
+    - skirt steak
+    - ribeye
+    - steak
+    - pork chop
+    - pork shoulder
+    - pork
+    - bacon
+    - andouille sausage
+    - italian sausage
+    - sausage
+    - chorizo
+    - salmon
+    - shrimp
+    - tilapia
+    - halibut
+    - cod
+    - turkey
+    - lamb
+  Dairy:
+    - unsalted butter
+    - butter
+    - cream cheese
+    - sour cream
+    - buttermilk
+    - heavy cream
+    - whipping cream
+    - whole milk
+    - coconut milk
+    - almond milk
+    - milk
+    - greek yogurt
+    - yogurt
+    - yoghurt
+    - ghee
+    - parmesan
+    - cheddar
+    - mozzarella
+    - gruyere
+    - goat cheese
+    - queso fresco
+    - ricotta
+    - feta
+    - brie
+    - emmentaler
+    - parm
+    - cheese
+    - egg
+  Frozen:
+    - frozen peas
+    - frozen corn
+    - frozen edamame
+    - frozen puff pastry
+    - puff pastry
+    - ice cream
+    - frozen
+  Bakery:
+    - corn tortilla
+    - tortilla
+    - baguette
+    - english muffin
+    - focaccia
+    - pita
+    - brioche
+    - wrap
+    - crusty bread
+    - bread
+    - bun
+  Grocery:
+    - all-purpose flour
+    - bread flour
+    - rye flour
+    - buckwheat flour
+    - self-rising flour
+    - flour
+    - brown sugar
+    - granulated sugar
+    - powdered sugar
+    - superfine sugar
+    - sugar
+    - baking soda
+    - baking powder
+    - active dry yeast
+    - instant yeast
+    - yeast
+    - vanilla extract
+    - vanilla paste
+    - vanilla bean
+    - vanilla
+    - cocoa powder
+    - chocolate chip
+    - chocolate
+    - cornstarch
+    - rolled oats
+    - oats
+    - quinoa
+    - basmati rice
+    - jasmine rice
+    - long grain rice
+    - white rice
+    - rice vinegar
+    - rice
+    - lo mein noodles
+    - ramen noodles
+    - noodles
+    - rotini
+    - fusilli
+    - penne
+    - pasta
+    - panko
+    - breadcrumb
+    - oyster cracker
+    - cracker
+    - walnut
+    - pecan
+    - almond butter
+    - almond
+    - roasted peanuts
+    - peanut butter
+    - peanut
+    - pumpkin seed
+    - sesame seed
+    - sunflower seed
+    - extra-virgin olive oil
+    - olive oil
+    - vegetable oil
+    - coconut oil
+    - sesame oil
+    - neutral oil
+    - oil
+    - soy sauce
+    - tamari
+    - red wine vinegar
+    - cider vinegar
+    - black vinegar
+    - unseasoned rice vinegar
+    - vinegar
+    - worcestershire sauce
+    - bbq sauce
+    - sriracha
+    - gochujang
+    - chili garlic sauce
+    - curry powder
+    - chili powder
+    - smoked paprika
+    - paprika
+    - ground cumin
+    - cumin
+    - ground coriander
+    - coriander
+    - ground cinnamon
+    - cinnamon
+    - ground turmeric
+    - turmeric
+    - cardamom
+    - nutmeg
+    - cayenne pepper
+    - red pepper flake
+    - garlic powder
+    - onion powder
+    - ginger powder
+    - dried oregano
+    - oregano
+    - dried basil
+    - bay leaf
+    - kosher salt
+    - sea salt
+    - table salt
+    - salt
+    - black pepper
+    - pepper
+    - honey
+    - maple syrup
+    - agave
+    - mayonnaise
+    - mayo
+    - whole grain mustard
+    - mustard
+    - harissa
+    - calabrian chile paste
+    - caper
+    - green olive
+    - olive
+    - pickled jalapeño
+    - canned tomatoes
+    - crushed tomatoes
+    - stewed tomatoes
+    - tomato sauce
+    - enchilada sauce
+    - chicken broth
+    - vegetable broth
+    - stock
+    - cannellini bean
+    - black bean
+    - chickpea
+    - kidney bean
+    - bean
+    - lentil
+    - tahini
+    - nut butter
+    - nutella
+    - medjool date
+    - date
+    - dried cranberries
+    - kirsch
+    - bourbon
+    - white wine
+    - wine
+    - cooking spray
+    - tofu
+    - unsweetened coconut
+    - coconut chip
+    - miso
+    - garam masala
+    - chipotle
+    - canned pumpkin
+    - crab boil
+    - filé powder
+    - file powder
+    - golden syrup
+    - seasoning
+    - italian dressing
+    - dressing
+    - mirin
+    - prune
+    - water
+    - corn
+  Pharmacy: []

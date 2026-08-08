@@ -143,6 +143,120 @@ input {
   padding: 0.3em 1em;
 }
 
+// Fixed bars (the shopping tray and the shopping-list copy button) are
+// $fixed-bar-height tall; reserve that much space at the bottom of every
+// page so they never cover the last bit of page content.
+$fixed-bar-height: 3.5em;
+
+body {
+  padding-bottom: $fixed-bar-height;
+}
+
+button.btn.pill {
+  cursor: pointer;
+}
+
+.btn.pill.add-to-list.added {
+  background-color: $green-color;
+}
+
+#add-to-list-btn.added {
+  background-color: $green-color;
+}
+
+#shopping-tray {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
+  background-color: $green-color-dark;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.15);
+
+  &.shopping-tray-hidden {
+    display: none;
+  }
+}
+
+// The tray's "View list" link is redundant once you're already on the
+// shopping-list page (and would otherwise overlap the copy button).
+body:has(#shopping-list-copy-btn) #shopping-tray {
+  display: none;
+}
+
+.shopping-tray-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em 1.2em;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+
+  &:visited {
+    color: #fff;
+  }
+}
+
+#shopping-list-copy-btn {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
+  width: 100%;
+  border: none;
+  background-color: $green-color;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 1em 1.2em;
+  cursor: pointer;
+
+  &.shopping-list-copy-hidden {
+    display: none;
+  }
+}
+
+.shopping-list-section {
+  margin-bottom: 1.5em;
+}
+
+.shopping-list-items {
+  list-style: none;
+  margin-left: 0;
+
+  li {
+    border-bottom: 1px solid $grey-color-light;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  label {
+    display: flex;
+    align-items: center;
+    padding: 0.6em 0.2em;
+
+    &.checked {
+      color: $grey-color;
+      text-decoration: line-through;
+    }
+  }
+
+  input.shopping-list-item-checkbox {
+    margin-right: 0.8em;
+    width: 1.3em;
+    height: 1.3em;
+    flex-shrink: 0;
+  }
+}
+
+.shopping-list-section-empty {
+  color: $grey-color;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #adbac7;
@@ -204,6 +318,24 @@ input {
 
   #randomizer-submit {
     background-color: $green-color-dark;
+  }
+
+  #shopping-list-copy-btn {
+    background-color: $green-color-dark;
+  }
+
+  .shopping-list-items {
+    li {
+      border-bottom-color: #3a3a3a;
+    }
+
+    label.checked {
+      color: #8d8c8c;
+    }
+  }
+
+  .shopping-list-section-empty {
+    color: #8d8c8c;
   }
 
 }

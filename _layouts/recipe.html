@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<p>
+  <button type="button" id="add-to-list-btn" class="btn pill" data-url="{{ page.url }}" data-title="{{ page.title | escape }}">Add to this week's list</button>
+</p>
+
 {% if page.external_url or page.drive_url %}
 <p>
     {% if page.external_url %}
