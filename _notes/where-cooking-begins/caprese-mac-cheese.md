@@ -12,6 +12,7 @@ season: summer
 rating: 0
 category: dinner
 url: "/notes/where-cooking-begins/caprese-mac-cheese.html"
+drive_url: https://drive.google.com/file/d/1tmaCQPMAF4z8UeNx8lPujuZXdlrPWTVM/view?usp=sharing
 tags:
 - vegetarian
 - basil
