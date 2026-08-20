@@ -26,7 +26,7 @@ Wet:
 ### Instructions
 
 1. **Mix all dry ingredients** in mixing bowl and combine well.
-2. **Combine wet ingredients into microwave-safe vessel and microwave** to 190ºF (but check the yeast package!). If it exceeds this temperature, wait for it to cool.
+2. **Combine wet ingredients into microwave-safe vessel and microwave** to 120ºF (but check the yeast package!). If it exceeds this temperature, wait for it to cool.
 3. Pour heated wet ingredients into dry ingredients.
 4. **Mix at high speed** for 1 minute until dough is smooth and soft and becoming elastic.
 5. Pour into greased loaf pan.
