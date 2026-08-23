@@ -40,9 +40,22 @@
       const text = `Views: ${data.views} | Visitors: ${data.visitors}`
       document.getElementById("stats").innerText = text
     }
+
+    // Load ping/stats scripts only after the page has finished loading, so a
+    // slow response from ping.parkermoo.re can't hold up the page's load
+    // event (and the browser's loading spinner) even though they're async.
+    window.addEventListener("load", () => {
+      const ping = document.createElement("script")
+      ping.src = "https://ping.parkermoo.re/ping.js?v=2"
+      ping.async = true
+      document.head.appendChild(ping)
+
+      const stats = document.createElement("script")
+      stats.src = "https://ping.parkermoo.re/stats.js"
+      stats.async = true
+      document.head.appendChild(stats)
+    })
   </script>
-  <script src="https://ping.parkermoo.re/ping.js?v=2" type="application/javascript" defer async></script>
-  <script src="https://ping.parkermoo.re/stats.js" type="application/javascript" defer async></script>
   <script type="application/javascript">document.nomzRecipes = {indexURL: "{{ '/assets/searchIndex.json' | relative_url }}?version={{site.github.build_revision}}", baseURL: "{{ '' | relative_url }}", baseAbsoluteURL: "{{ '' | absolute_url }}"};</script>
   <script src="{{ '/assets/js/lunr.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
   <script src="{{ '/assets/js/nomz.js' | relative_url }}?version={{site.github.build_revision}}" type="application/javascript"></script>
