@@ -2,7 +2,7 @@
 ---
 {
   {%- for recipe in site.data.recipe_database -%}
-    "{{ recipe.source | slugify }}": {
+    "{{ recipe.url | slugify }}": {
       "title": "{{ recipe.title | replace:'"', "'" }}",
       "category": "{{ recipe.category }}",
       "tags": {{ recipe.tags | jsonify}},
