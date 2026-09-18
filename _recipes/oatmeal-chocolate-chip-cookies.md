@@ -12,7 +12,7 @@ tags:
 
 - [ ] ½ cup (1 stick) plus 6 tablespoons butter, softened
 - [ ] ¾ cup firmly packed brown sugar
-½ Cup(s) granulated sugar
+- [ ] ½ Cup(s) granulated sugar
 - [ ] 2 Eggs
 - [ ] 1 tsp vanilla
 - [ ] 1.5 cups all-purpose flour
